@@ -1,0 +1,1337 @@
+title,dist_name,opening,budget,release_date,mpaa,running_time,genres,in_release_days,percentage_dom,gross_dom,num_theaters
+Jurassic World,Universal Pictures,208806270.0,150000000.0,2015-06-12,PG-13,124.0,"Action,Adventure,Sci-Fi",210.0,39.0,652270625,4291.0
+Star Wars: Episode VII - The Force Awakens,Walt Disney Studios Motion Pictures,247966675.0,245000000.0,2015-12-18,PG-13,138.0,"Action,Adventure,Sci-Fi",380.0,45.3,936662225,4134.0
+Avengers: Age of Ultron,Walt Disney Studios Motion Pictures,191271109.0,250000000.0,2015-05-01,PG-13,141.0,"Action,Adventure,Sci-Fi",245.0,32.7,459005868,4276.0
+Inside Out,Walt Disney Studios Motion Pictures,90440272.0,175000000.0,2015-06-19,PG,95.0,"Adventure,Animation,Comedy,Drama,Family,Fantasy",203.0,41.6,356461711,4158.0
+Furious 7,Universal Pictures,147187040.0,190000000.0,2015-04-03,PG-13,137.0,"Action,Crime,Thriller",273.0,23.3,353007020,4022.0
+American Sniper,Warner Bros.,633456.0,58800000.0,2014-12-25,R,133.0,"Action,Biography,Drama,War",372.0,64.0,350126372,3885.0
+Minions,Universal Pictures,115718405.0,74000000.0,2015-07-10,PG,91.0,"Adventure,Animation,Comedy,Crime,Family,Sci-Fi",182.0,29.0,336045770,4311.0
+The Hunger Games: Mockingjay - Part 2,Lionsgate,102665981.0,160000000.0,2015-11-20,PG-13,137.0,"Action,Adventure,Sci-Fi,Thriller",408.0,42.8,281723902,4175.0
+The Martian,Twentieth Century Fox,54308575.0,108000000.0,2015-10-02,PG-13,144.0,"Adventure,Drama,Sci-Fi",457.0,36.2,228433663,3854.0
+Cinderella,Walt Disney Studios Motion Pictures,67877361.0,95000000.0,2015-03-13,PG,105.0,"Adventure,Drama,Family,Fantasy,Romance",294.0,37.1,201151353,3848.0
+Spectre,Sony Pictures Entertainment (SPE),70403148.0,245000000.0,2015-11-06,PG-13,148.0,"Action,Adventure,Thriller",422.0,22.7,200074609,3929.0
+Mission: Impossible - Rogue Nation,Paramount Pictures,55520089.0,150000000.0,2015-07-31,PG-13,131.0,"Action,Adventure,Thriller",154.0,28.6,195042377,3988.0
+Pitch Perfect 2,Universal Pictures,69216890.0,29000000.0,2015-05-15,PG-13,115.0,"Comedy,Music",231.0,64.2,184296230,3660.0
+Ant-Man,Walt Disney Studios Motion Pictures,57225526.0,130000000.0,2015-07-17,PG-13,117.0,"Action,Adventure,Comedy,Sci-Fi",175.0,34.7,180202163,3868.0
+Home,Twentieth Century Fox,52107731.0,135000000.0,2015-03-27,PG,94.0,"Adventure,Animation,Comedy,Family,Fantasy,Sci-Fi",280.0,46.0,177397510,3801.0
+Hotel Transylvania 2,Sony Pictures Entertainment (SPE),48464322.0,80000000.0,2015-09-25,PG,89.0,"Adventure,Animation,Comedy,Family,Fantasy,Horror",464.0,35.7,169700110,3768.0
+Fifty Shades of Grey,Universal Pictures,85171450.0,40000000.0,2015-02-13,R,125.0,"Drama,Romance,Thriller",322.0,29.2,166167230,3655.0
+The SpongeBob Movie: Sponge Out of Water,Paramount Pictures,55365012.0,74000000.0,2015-02-06,PG,92.0,"Adventure,Animation,Comedy,Family,Fantasy",329.0,50.1,162994032,3680.0
+Straight Outta Compton,Universal Pictures,60200180.0,28000000.0,2015-08-14,R,147.0,"Biography,Drama,History,Music",140.0,79.9,161197785,3142.0
+San Andreas,Warner Bros.,54588173.0,110000000.0,2015-05-29,PG-13,114.0,"Action,Adventure,Thriller",217.0,32.7,155190832,3812.0
+Mad Max: Fury Road,Warner Bros.,45428128.0,150000000.0,2015-05-15,R,,"Action,Adventure,Sci-Fi,Thriller",231.0,41.0,153636354,3722.0
+The Divergent Series: Insurgent,Lionsgate,52263680.0,110000000.0,2015-03-20,PG-13,119.0,"Action,Adventure,Sci-Fi,Thriller",287.0,43.8,130179072,3875.0
+Kingsman: The Secret Service,Twentieth Century Fox,36206331.0,81000000.0,2015-02-13,R,129.0,"Action,Adventure,Comedy,Thriller",322.0,31.0,128261724,3282.0
+The Peanuts Movie,Twentieth Century Fox,44213073.0,99000000.0,2015-11-06,G,88.0,"Adventure,Animation,Comedy,Drama,Family",422.0,52.9,130178411,3902.0
+Spy,Twentieth Century Fox,29085719.0,65000000.0,2015-06-05,R,,"Action,Comedy",210.0,47.0,110825712,3715.0
+The Good Dinosaur,Walt Disney Studios Motion Pictures,39155217.0,,2015-11-25,PG,93.0,"Adventure,Animation,Comedy,Drama,Family",403.0,37.1,123087120,3749.0
+Trainwreck,Universal Pictures,30097040.0,35000000.0,2015-07-17,R,125.0,"Comedy,Drama,Romance",168.0,78.3,110212700,3171.0
+Creed,Warner Bros.,29632823.0,35000000.0,2015-11-25,PG-13,133.0,"Action,Drama,Sport",403.0,63.2,109767581,3502.0
+Tomorrowland,Walt Disney Studios Motion Pictures,33028165.0,190000000.0,2015-05-22,PG,130.0,"Action,Adventure,Family,Fantasy,Mystery,Sci-Fi",224.0,44.7,93436322,3972.0
+Get Hard,Warner Bros.,33803253.0,40000000.0,2015-03-27,R,100.0,"Comedy,Crime",280.0,80.9,90411453,3212.0
+Terminator Genisys,Paramount Pictures,27018486.0,155000000.0,2015-07-01,PG-13,126.0,"Action,Adventure,Sci-Fi,Thriller",184.0,20.4,89760956,3783.0
+Taken 3,Twentieth Century Fox,39201657.0,48000000.0,2015-01-09,PG-13,108.0,"Action,Crime,Thriller",357.0,27.3,89256424,3594.0
+Maze Runner: The Scorch Trials,Twentieth Century Fox,30316510.0,61000000.0,2015-09-18,PG-13,131.0,"Action,Adventure,Sci-Fi,Thriller",471.0,26.2,81697192,3792.0
+Ted 2,Universal Pictures,33507870.0,68000000.0,2015-06-26,R,115.0,Comedy,189.0,37.7,81476385,3448.0
+Goosebumps,Sony Pictures Entertainment (SPE),23618556.0,58000000.0,2015-10-16,PG,103.0,"Adventure,Comedy,Fantasy,Horror",443.0,50.6,80080379,3618.0
+Pixels,Sony Pictures Entertainment (SPE),24011616.0,88000000.0,2015-07-24,PG-13,105.0,"Action,Comedy,Fantasy,Sci-Fi",168.0,32.2,78747585,3723.0
+Paddington,Dimension Films,18966676.0,55000000.0,2015-01-16,PG,95.0,"Adventure,Comedy,Family,Fantasy",350.0,27.0,76271832,3355.0
+The Intern,Warner Bros.,17728313.0,35000000.0,2015-09-25,PG-13,121.0,"Comedy,Drama",464.0,38.9,75764672,3320.0
+The Imitation Game,The Weinstein Company,479352.0,,2014-11-28,PG-13,114.0,"Biography,Drama,Thriller,War",399.0,39.0,91125683,2402.0
+Paul Blart: Mall Cop 2,Sony Pictures Entertainment (SPE),23762435.0,30000000.0,2015-04-17,PG,94.0,"Action,Comedy,Crime,Family",259.0,66.0,71038190,3633.0
+Bridge of Spies,Walt Disney Studios Motion Pictures,15371203.0,40000000.0,2015-10-16,PG-13,142.0,"Drama,History,Thriller",443.0,43.7,72313754,2873.0
+War Room,TriStar Pictures,11351389.0,3000000.0,2015-08-28,PG,,Drama,133.0,92.5,67790117,1945.0
+Magic Mike XXL,Warner Bros.,12857184.0,14800000.0,2015-07-01,R,115.0,"Comedy,Drama,Music",184.0,56.0,66013057,3376.0
+The Hobbit: The Battle of the Five Armies,Warner Bros.,54724334.0,,2014-12-17,PG-13,144.0,"Adventure,Fantasy",380.0,26.7,255119788,3875.0
+The Visit,Universal Pictures,25427560.0,5000000.0,2015-09-11,PG-13,94.0,"Horror,Mystery,Thriller",119.0,66.2,65206105,3148.0
+Daddy's Home,Paramount Pictures,38740203.0,,2015-12-25,PG-13,96.0,"Comedy,Family",373.0,61.9,150357137,3483.0
+The Wedding Ringer,Screen Gems,20649306.0,23000000.0,2015-01-16,R,101.0,Comedy,350.0,80.8,64460211,3003.0
+Into the Woods,Walt Disney Studios Motion Pictures,31051923.0,50000000.0,2014-12-25,PG,125.0,"Adventure,Comedy,Drama,Fantasy,Musical",372.0,60.1,128002372,2833.0
+Black Mass,Warner Bros.,22635037.0,53000000.0,2015-09-18,R,123.0,"Biography,Crime,Drama",112.0,62.7,62575678,3188.0
+Vacation,Warner Bros.,14681108.0,31000000.0,2015-07-29,R,99.0,"Adventure,Comedy",156.0,54.9,58884188,3430.0
+The Perfect Guy,Screen Gems,25888154.0,12000000.0,2015-09-11,PG-13,100.0,Thriller,119.0,94.6,57027435,2230.0
+Fantastic Four,Twentieth Century Fox,25685737.0,120000000.0,2015-08-07,PG-13,100.0,"Action,Adventure,Sci-Fi",147.0,33.4,56117548,4004.0
+Alvin and the Chipmunks: The Road Chip,Twentieth Century Fox,14287159.0,,2015-12-18,PG,92.0,"Adventure,Animation,Comedy,Family,Fantasy,Music,Musical",380.0,36.6,85886987,3705.0
+Focus,Warner Bros.,18685137.0,50100000.0,2015-02-27,R,105.0,"Comedy,Crime,Drama,Romance",308.0,33.9,53862963,3323.0
+Unbroken,Universal Pictures,30621445.0,65000000.0,2014-12-25,PG-13,137.0,"Action,Biography,Drama,Sport,War",372.0,71.6,115637895,3301.0
+Southpaw,The Weinstein Company,16701294.0,30000000.0,2015-07-24,R,124.0,"Action,Crime,Drama,Sport",161.0,57.0,52421953,2772.0
+Insidious: Chapter 3,Focus Features,22692741.0,10000000.0,2015-06-05,PG-13,97.0,"Horror,Mystery,Thriller",210.0,46.2,52218558,3014.0
+Selma,Paramount Pictures,571450.0,20000000.0,2014-12-25,PG-13,128.0,"Biography,Drama,History",372.0,78.0,52076908,2235.0
+Sisters,Universal Pictures,13922855.0,30000000.0,2015-12-18,R,118.0,Comedy,380.0,82.9,87044645,2978.0
+Poltergeist,Twentieth Century Fox,22620386.0,35000000.0,2015-05-22,PG-13,93.0,"Horror,Thriller",224.0,49.7,47425125,3242.0
+Jupiter Ascending,Warner Bros.,18372372.0,176000000.0,2015-02-06,PG-13,127.0,"Action,Adventure,Sci-Fi",329.0,25.8,47387723,3181.0
+Sicario,Lionsgate,401288.0,30000000.0,2015-09-18,R,121.0,"Action,Crime,Drama,Mystery,Thriller",471.0,55.2,46889293,2620.0
+The Man from U.N.C.L.E.,Warner Bros.,13421036.0,75000000.0,2015-08-14,PG-13,116.0,"Action,Adventure,Comedy",140.0,42.5,45445109,3673.0
+"McFarland, USA",Walt Disney Studios Motion Pictures,11020798.0,,2015-02-20,PG,129.0,"Biography,Drama,Sport",315.0,97.3,44482410,2792.0
+Night at the Museum: Secret of the Tomb,Twentieth Century Fox,17100520.0,127000000.0,2014-12-19,PG,98.0,"Adventure,Comedy,Family,Fantasy",378.0,31.3,113746621,3914.0
+The Gift,STX Entertainment,11854273.0,5000000.0,2015-08-07,R,108.0,"Drama,Mystery,Thriller",147.0,74.2,43787265,2503.0
+Everest,Universal Pictures,7222035.0,55000000.0,2015-09-18,PG-13,121.0,"Action,Adventure,Biography,Drama,Thriller",112.0,21.4,43482270,3009.0
+The Night Before,Sony Pictures Entertainment (SPE),9880536.0,25000000.0,2015-11-20,R,101.0,"Comedy,Fantasy",408.0,82.2,43047372,2960.0
+Max,Warner Bros.,12155254.0,20000000.0,2015-06-26,PG,111.0,"Adventure,Drama,Family,War",189.0,97.0,42656255,2870.0
+The Age of Adaline,Lionsgate,13203458.0,,2015-04-24,PG-13,112.0,"Drama,Fantasy,Romance",252.0,64.9,42629776,3070.0
+Krampus,Universal Pictures,16293325.0,15000000.0,2015-12-04,PG-13,98.0,"Comedy,Drama,Fantasy,Horror",394.0,69.4,42725475,2919.0
+The Longest Ride,Twentieth Century Fox,13019686.0,34000000.0,2015-04-10,PG-13,123.0,"Comedy,Drama,Romance,Western",266.0,59.5,37446117,3371.0
+The Boy Next Door,Universal Pictures,14910105.0,4000000.0,2015-01-23,R,91.0,Thriller,343.0,67.6,35423380,2615.0
+Pan,Warner Bros.,15315435.0,150000000.0,2015-10-09,PG,111.0,"Adventure,Comedy,Family,Fantasy",450.0,27.3,35088320,3515.0
+Hot Pursuit,Warner Bros.,13942258.0,35000000.0,2015-05-08,PG-13,87.0,"Action,Comedy,Crime",238.0,67.3,34580201,3037.0
+The DUFF,Lionsgate,10809149.0,8500000.0,2015-02-20,PG-13,101.0,"Comedy,Romance",315.0,77.9,34030343,2622.0
+Woman in Gold,The Weinstein Company,2091551.0,11000000.0,2015-04-01,PG-13,109.0,"Biography,Drama,History",275.0,54.1,33307793,2011.0
+The Second Best Exotic Marigold Hotel,Fox Searchlight Pictures,8540370.0,10000000.0,2015-03-06,PG,122.0,"Comedy,Drama,Romance",301.0,38.5,33078266,2022.0
+Unfriended,Universal Pictures,15845115.0,1000000.0,2015-04-17,R,83.0,"Horror,Mystery,Thriller",259.0,51.7,32482090,2775.0
+Entourage,Warner Bros.,10283250.0,30000000.0,2015-06-03,R,104.0,"Comedy,Drama",212.0,65.7,32363404,3108.0
+Paper Towns,Twentieth Century Fox,12650140.0,12000000.0,2015-07-24,PG-13,109.0,"Adventure,Comedy,Drama,Mystery,Romance",161.0,37.4,32000304,3031.0
+Chappie,Sony Pictures Entertainment (SPE),13346782.0,49000000.0,2015-03-06,R,,"Action,Crime,Drama,Sci-Fi,Thriller",301.0,30.7,31569268,3201.0
+Crimson Peak,Universal Pictures,13143310.0,55000000.0,2015-10-16,R,119.0,"Drama,Horror,Mystery,Romance,Thriller",84.0,41.6,31090320,2991.0
+A Walk in the Woods,Broad Green Pictures,8246267.0,,2015-09-02,R,104.0,"Adventure,Biography,Comedy,Drama",128.0,78.8,29504281,2158.0
+Annie,Sony Pictures Entertainment (SPE),15861939.0,65000000.0,2014-12-19,PG,118.0,"Comedy,Drama,Family,Musical",378.0,62.8,85911262,3197.0
+Joy,Twentieth Century Fox,17015168.0,60000000.0,2015-12-25,PG-13,124.0,"Biography,Drama",373.0,55.8,56451232,2924.0
+Sinister 2,Focus Features,10542116.0,10000000.0,2015-08-21,R,97.0,"Horror,Mystery,Thriller",133.0,52.0,27740955,2799.0
+The Last Witch Hunter,Lionsgate,10812861.0,90000000.0,2015-10-23,PG-13,106.0,"Action,Adventure,Fantasy",77.0,18.6,27367660,3082.0
+No Escape,The Weinstein Company,8111264.0,,2015-08-26,R,103.0,"Action,Thriller",135.0,50.1,27288872,3415.0
+Ricki and the Flash,TriStar Pictures,6610961.0,18000000.0,2015-08-07,PG-13,101.0,"Comedy,Drama,Music",147.0,64.9,26822144,2064.0
+The Woman in Black 2: Angel of Death,Relativity Media,15027415.0,,2015-01-02,PG-13,98.0,"Drama,Horror,Thriller",364.0,54.2,26501323,2602.0
+Run All Night,Warner Bros.,11012305.0,50000000.0,2015-03-13,R,114.0,"Action,Crime,Thriller",294.0,37.0,26461644,3171.0
+Love the Coopers,Lionsgate,8317545.0,17000000.0,2015-11-13,PG-13,107.0,"Comedy,Fantasy,Romance",415.0,62.0,26302731,2603.0
+Spotlight,Open Road Films (II),295009.0,,2015-11-06,R,129.0,"Biography,Crime,Drama",422.0,45.7,45055776,1227.0
+The Lazarus Effect,Relativity Media,10203437.0,3300000.0,2015-02-27,PG-13,83.0,"Horror,Mystery,Sci-Fi,Thriller",308.0,67.3,25801570,2666.0
+Ex Machina,A24,237264.0,15000000.0,2015-04-10,R,108.0,"Drama,Sci-Fi,Thriller",266.0,69.0,25442958,2004.0
+The Big Short,Paramount Pictures,705527.0,28000000.0,2015-12-11,R,130.0,"Biography,Comedy,Drama,History",387.0,52.7,70259870,2529.0
+The Hunger Games: Mockingjay - Part 1,Lionsgate,121897634.0,125000000.0,2014-11-21,PG-13,123.0,"Action,Adventure,Sci-Fi,Thriller",406.0,44.6,337135885,4151.0
+In the Heart of the Sea,Warner Bros.,11053366.0,100000000.0,2015-12-11,PG-13,122.0,"Action,Adventure,Biography,Drama,History",387.0,26.6,25020758,3103.0
+The Gallows,Warner Bros.,9808463.0,100000.0,2015-07-10,R,81.0,"Horror,Mystery,Thriller",175.0,53.0,22764410,2720.0
+Hitman: Agent 47,Twentieth Century Fox,8326530.0,35000000.0,2015-08-21,R,96.0,"Action,Crime,Thriller",133.0,27.3,22467450,3273.0
+Project Almanac,Paramount Pictures,8310252.0,12000000.0,2015-01-30,PG-13,106.0,"Drama,Mystery,Sci-Fi,Thriller",336.0,67.3,22348241,2900.0
+Black or White,Relativity Media,6213362.0,9000000.0,2015-01-30,PG-13,121.0,Drama,336.0,98.8,21571189,1823.0
+Aloha,Sony Pictures Entertainment (SPE),9670235.0,37000000.0,2015-05-29,PG-13,105.0,"Comedy,Drama,Romance",217.0,80.3,21067116,2815.0
+Secret in Their Eyes,STX Entertainment,6652996.0,19500000.0,2015-11-20,PG-13,111.0,"Crime,Drama,Mystery,Thriller",408.0,57.9,20180155,2392.0
+Brooklyn,Fox Searchlight Pictures,187281.0,,2015-11-04,PG-13,117.0,"Drama,Romance",424.0,61.7,38322743,962.0
+Shaun the Sheep Movie,Lionsgate,4038962.0,,2015-08-05,PG,85.0,"Adventure,Animation,Comedy,Family,Fantasy",149.0,18.2,19375982,2360.0
+Still Alice,Sony Pictures Classics,197000.0,5000000.0,2015-01-16,PG-13,101.0,Drama,350.0,41.9,18754371,1318.0
+Paranormal Activity: The Ghost Dimension,Paramount Pictures,8070493.0,10000000.0,2015-10-23,R,88.0,"Horror,Mystery",77.0,23.2,18300124,1656.0
+Wild,Fox Searchlight Pictures,606810.0,,2014-12-03,R,115.0,"Adventure,Biography,Drama",394.0,72.2,37880356,1361.0
+Birdman or (The Unexpected Virtue of Ignorance),Fox Searchlight Pictures,424397.0,18000000.0,2014-10-17,R,119.0,"Comedy,Drama",441.0,41.0,42340598,1213.0
+Big Hero 6,Walt Disney Studios Motion Pictures,56215889.0,165000000.0,2014-11-07,PG,102.0,"Action,Adventure,Animation,Comedy,Family,Sci-Fi",420.0,33.8,222527828,3773.0
+Steve Jobs,Universal Pictures,521522.0,30000000.0,2015-10-09,R,122.0,"Biography,Drama",91.0,51.6,17766658,2493.0
+Mr. Holmes,Roadside Attractions,2434908.0,,2015-07-17,PG,104.0,"Drama,Mystery",168.0,60.4,17737646,898.0
+Dope,Open Road Films (II),6100010.0,7000000.0,2015-06-19,R,103.0,"Adventure,Comedy,Crime,Drama",196.0,97.3,17506470,2002.0
+Concussion,Sony Pictures Entertainment (SPE),10513749.0,35000000.0,2015-12-25,PG-13,123.0,"Biography,Drama,Sport",373.0,71.0,34542474,2841.0
+Seventh Son,Universal Pictures,7217640.0,95000000.0,2015-02-06,PG-13,102.0,"Action,Adventure,Fantasy",329.0,15.1,17223265,2875.0
+Monkey Kingdom,Walt Disney Studios Motion Pictures,4577861.0,,2015-04-17,,81.0,Documentary,259.0,97.6,16432322,2012.0
+The Transporter Refueled,EuropaCorp,7355622.0,,2015-09-04,PG-13,96.0,"Action,Thriller",126.0,22.1,16029670,3434.0
+Point Break,Warner Bros.,9800252.0,105000000.0,2015-12-25,PG-13,114.0,"Action,Adventure,Crime,Sport,Thriller",373.0,21.5,28782481,2910.0
+The Gambler,Paramount Pictures,9129999.0,25000000.0,2014-12-25,R,111.0,"Crime,Drama,Thriller",372.0,85.7,33680992,2494.0
+It Follows,RADiUS-TWC,160089.0,,2015-03-13,R,100.0,"Horror,Mystery,Thriller",294.0,66.9,14674076,1655.0
+American Ultra,Lionsgate,5454284.0,28000000.0,2015-08-21,R,96.0,"Action,Comedy",133.0,53.0,14440985,2778.0
+Woodlawn,Pure Flix Entertainment,4002226.0,,2015-10-16,PG,123.0,"Biography,Drama,History,Sport",443.0,99.9,14394097,1553.0
+Burnt,The Weinstein Company,5002521.0,20000000.0,2015-10-30,R,101.0,"Comedy,Drama",429.0,37.3,13651946,3003.0
+The Hateful Eight,The Weinstein Company,4610676.0,44000000.0,2015-12-25,R,168.0,"Crime,Drama,Mystery,Thriller,Western",373.0,34.7,54117416,2938.0
+Do You Believe?,Pure Flix Entertainment,3591282.0,,2015-03-20,PG-13,,Drama,287.0,90.1,12985600,1356.0
+The Theory of Everything,Focus Features,208763.0,15000000.0,2014-11-07,PG-13,123.0,"Biography,Drama,Romance",420.0,29.0,35893537,1220.0
+Love & Mercy,Roadside Attractions,2122177.0,,2015-06-05,PG-13,121.0,"Biography,Drama,Music",210.0,43.8,12551031,791.0
+Strange Magic,Walt Disney Studios Motion Pictures,5504441.0,,2015-01-23,PG,99.0,"Adventure,Animation,Comedy,Family,Fantasy,Musical,Romance",343.0,91.4,12429583,3020.0
+Hot Tub Time Machine 2,Paramount Pictures,5963324.0,14000000.0,2015-02-20,R,93.0,"Comedy,Mystery,Sci-Fi",315.0,94.1,12314651,2901.0
+Self/less,Focus Features,5403460.0,26000000.0,2015-07-10,PG-13,117.0,"Action,Mystery,Sci-Fi,Thriller",175.0,38.6,12279691,2353.0
+Far from the Madding Crowd,Fox Searchlight Pictures,164985.0,,2015-05-01,PG-13,119.0,"Drama,Romance",245.0,40.5,12236500,902.0
+The 33,Warner Bros.,5787266.0,,2015-11-13,PG-13,127.0,"Biography,Drama,History",415.0,43.7,12227722,2452.0
+The Gunman,Open Road Films (II),5028702.0,40000000.0,2015-03-20,R,115.0,"Action,Crime,Thriller",287.0,44.1,10664749,2816.0
+Unfinished Business,Twentieth Century Fox,4772613.0,35000000.0,2015-03-06,R,91.0,"Comedy,Drama",301.0,70.8,10219501,2777.0
+The Walk,TriStar Pictures,1560299.0,35000000.0,2015-09-30,PG,123.0,"Adventure,Biography,Drama,History",100.0,16.6,10137502,2509.0
+Penguins of Madagascar,Twentieth Century Fox,25447444.0,132000000.0,2014-11-26,PG,92.0,"Adventure,Animation,Comedy,Family,Sci-Fi",401.0,22.4,83850911,3775.0
+Exodus: Gods and Kings,Twentieth Century Fox,24115934.0,140000000.0,2014-12-12,PG-13,150.0,"Action,Adventure,Drama,Fantasy",385.0,24.2,65014513,3503.0
+Huevos: Little Rooster's Egg-cellent Adventure,Lionsgate,3424702.0,5300000.0,2015-09-04,PG-13,98.0,"Adventure,Animation,Comedy,Family,Fantasy",119.0,35.1,9080818,616.0
+Interstellar,Paramount Pictures,47510360.0,165000000.0,2014-11-05,PG-13,169.0,"Adventure,Drama,Sci-Fi",422.0,27.7,188020017,3561.0
+Amy,A24,222500.0,,2015-07-03,R,128.0,"Biography,Documentary,Music",548.0,35.5,8413144,435.0
+Big Eyes,The Weinstein Company,3001738.0,,2014-12-25,PG-13,106.0,"Biography,Crime,Drama,Romance",372.0,49.5,14482031,1408.0
+"Dragon Ball Z: Resurrection ""F""",FUNimation Entertainment,1817937.0,,2015-08-04,,93.0,"Action,Adventure,Animation,Comedy,Family,Fantasy,Sci-Fi",150.0,13.0,8008363,913.0
+Blackhat,Universal Pictures,3901815.0,70000000.0,2015-01-16,R,133.0,"Action,Crime,Thriller",350.0,40.7,8005980,2568.0
+Bajrangi Bhaijaan,Eros Worldwide,2425000.0,,2015-07-17,,163.0,"Action,Adventure,Comedy,Drama",168.0,10.8,8178001,257.0
+Mortdecai,Lionsgate,4200586.0,60000000.0,2015-01-23,R,107.0,"Action,Adventure,Comedy,Crime,Mystery",343.0,16.3,7696134,2648.0
+While We're Young,A24,227688.0,,2015-03-27,R,97.0,"Comedy,Drama,Mystery",280.0,43.9,7587485,762.0
+Whiplash,Sony Pictures Classics,135388.0,3300000.0,2014-10-10,R,106.0,"Drama,Music",448.0,26.7,13092000,567.0
+I'll See You in My Dreams,Bleecker Street Media,52091.0,,2015-05-15,PG-13,92.0,"Comedy,Drama,Romance",231.0,100.0,7449681,290.0
+The Green Inferno,BH Tilt,3520626.0,5000000.0,2015-09-25,R,100.0,"Adventure,Horror",98.0,56.8,7192291,1543.0
+Our Brand Is Crisis,Warner Bros.,3238433.0,28000000.0,2015-10-30,R,107.0,"Comedy,Drama",70.0,82.1,7002261,2202.0
+Inherent Vice,Warner Bros.,328184.0,,2014-12-12,R,148.0,"Comedy,Crime,Drama,Mystery,Romance",385.0,55.1,8110975,653.0
+Grandma,Sony Pictures Classics,115540.0,600000.0,2015-08-21,R,79.0,"Comedy,Drama",499.0,96.9,6980524,1061.0
+Trumbo,Bleecker Street Media,74177.0,,2015-11-06,R,124.0,"Biography,Crime,Drama",422.0,68.7,7857741,660.0
+Me and Earl and the Dying Girl,Fox Searchlight Pictures,196496.0,8000000.0,2015-06-12,PG-13,105.0,"Comedy,Drama",203.0,74.5,6758416,870.0
+Little Boy,Open Road Films (II),2750356.0,,2015-04-24,PG-13,106.0,"Drama,History,War",252.0,36.9,6485961,1045.0
+The Loft,Open Road Films (II),2747342.0,,2015-01-30,R,108.0,"Mystery,Romance,Thriller",336.0,54.5,6002684,1841.0
+Victor Frankenstein,Twentieth Century Fox,2469341.0,,2015-11-25,PG-13,110.0,"Drama,Horror,Sci-Fi,Thriller",408.0,16.9,5775076,2797.0
+A Most Violent Year,A24,172788.0,20000000.0,2014-12-31,R,125.0,"Action,Crime,Drama,Thriller",366.0,47.9,5749134,818.0
+Danny Collins,Bleecker Street Media,72459.0,10000000.0,2015-03-20,R,106.0,"Biography,Comedy,Drama,Music",287.0,52.0,5637066,739.0
+Foxcatcher,Sony Pictures Classics,270877.0,,2014-11-14,R,134.0,"Biography,Drama,History,Sport",413.0,63.0,12096300,759.0
+Bajirao Mastani,Eros Worldwide,1744975.0,,2015-12-18,,158.0,"Action,Drama,History,Romance,War",380.0,57.8,6557047,304.0
+Room,A24,118298.0,,2015-10-16,R,118.0,"Drama,Thriller",443.0,41.5,14677654,862.0
+90 Minutes in Heaven,The Samuel Goldwyn Company,2035273.0,5000000.0,2015-09-11,PG-13,121.0,Drama,112.0,100.0,4842699,899.0
+True Story,Fox Searchlight Pictures,1950214.0,,2015-04-17,R,99.0,"Biography,Crime,Drama,History,Mystery",259.0,89.7,4719695,856.0
+Suffragette,Focus Features,76244.0,,2015-10-23,PG-13,106.0,"Drama,History",436.0,14.7,4702420,517.0
+Top Five,Paramount Pictures,6896593.0,,2014-12-12,R,102.0,"Comedy,Romance",385.0,96.9,25317471,1426.0
+Baahubali: The Beginning,Blue Sky Cinema,3575000.0,,2015-07-09,,159.0,"Action,Drama",176.0,99.3,6738000,236.0
+The Danish Girl,Focus Features,187318.0,,2015-11-27,R,119.0,"Biography,Drama,Romance",401.0,17.3,11114018,794.0
+Hubble,Warner Bros.,413477.0,,2010-03-19,,,"Documentary,Short",3941.0,70.7,52522904,151.0
+Dilwale,UTV Motion Pictures,1920402.0,,2015-12-17,,158.0,"Action,Comedy,Drama,Romance",381.0,15.2,4871263,268.0
+Prem Ratan Dhan Payo,FIP,2425585.0,,2015-11-12,,164.0,"Action,Drama,Musical,Romance",57.0,8.3,4364639,287.0
+The Water Diviner,Warner Bros.,1220335.0,22500000.0,2015-04-24,R,111.0,"Drama,History,War",252.0,11.0,4196641,385.0
+Irrational Man,Sony Pictures Classics,175312.0,,2015-07-17,R,95.0,"Comedy,Crime,Drama,Romance",168.0,14.7,4030360,925.0
+Carol,The Weinstein Company,253510.0,,2015-11-20,R,118.0,"Drama,Romance",408.0,31.6,12711491,790.0
+Scouts Guide to the Zombie Apocalypse,Paramount Pictures,1841007.0,15000000.0,2015-10-30,R,93.0,"Action,Comedy,Horror",70.0,22.9,3703046,1509.0
+A la mala,Lionsgate,1402118.0,,2015-02-27,PG-13,99.0,Comedy,308.0,99.5,3629842,384.0
+Spare Parts,Lionsgate,1335768.0,,2015-01-16,PG-13,114.0,"Biography,Drama,History",350.0,97.8,3618912,440.0
+We Are Your Friends,Warner Bros.,1767308.0,,2015-08-28,R,96.0,"Drama,Music,Romance",126.0,32.3,3591417,2333.0
+What We Do in the Shadows,Unison/Paladin,88940.0,,2015-02-13,R,86.0,"Comedy,Horror",329.0,47.8,3469224,154.0
+Learning to Drive,Broad Green Pictures,66015.0,,2015-08-21,R,90.0,"Comedy,Drama,Romance",140.0,57.8,3447633,339.0
+Mr. Turner,Sony Pictures Classics,109000.0,,2014-12-19,R,150.0,"Biography,Drama,History",378.0,17.8,3958500,120.0
+Phoenix,IFC Films,30296.0,,2015-07-24,PG-13,98.0,"Drama,History,Music,Romance",168.0,54.4,3184472,197.0
+Dil Dhadakne Do,Eros Worldwide,1326267.0,,2015-06-05,,170.0,"Comedy,Drama,Romance",210.0,17.2,3066100,238.0
+Ladrones,Lionsgate,1411031.0,,2015-10-09,PG-13,97.0,Comedy,91.0,87.4,3063505,375.0
+Tanu Weds Manu Returns,Eros Worldwide,1006476.0,,2015-05-22,,128.0,"Comedy,Drama,Romance",224.0,72.8,3043479,136.0
+Rock the Kasbah,Open Road Films (II),1470592.0,,2015-10-23,R,106.0,"Comedy,Music,War",77.0,89.0,3020664,2012.0
+The End of the Tour,A24,123238.0,,2015-07-31,R,106.0,"Biography,Drama",161.0,97.7,3002884,355.0
+Wild Tales,Sony Pictures Classics,85100.0,,2015-02-20,R,122.0,"Comedy,Drama,Thriller",315.0,10.1,3106530,122.0
+Horrible Bosses 2,Warner Bros.,15457418.0,42000000.0,2014-11-26,R,108.0,"Comedy,Crime",401.0,50.6,54445357,3400.0
+He Named Me Malala,Fox Searchlight Pictures,61808.0,,2015-10-02,PG-13,88.0,"Biography,Documentary",98.0,77.7,2668936,477.0
+Captive,Paramount Pictures,1393243.0,,2015-09-18,PG-13,97.0,"Action,Biography,Crime,Drama,History,Thriller",105.0,92.2,2583301,807.0
+Chi-Raq,Roadside Attractions,1198453.0,,2015-12-04,R,127.0,"Comedy,Crime,Drama,Musical",394.0,97.5,2653032,305.0
+The Interview,Sony Pictures Entertainment (SPE),1794666.0,,2014-12-25,R,112.0,"Action,Adventure,Comedy",372.0,51.8,6105175,581.0
+Truth,Sony Pictures Classics,66232.0,,2015-10-16,R,125.0,"Biography,Drama,History,Thriller",443.0,47.2,2541854,1122.0
+Mistress America,Fox Searchlight Pictures,93206.0,,2015-08-14,R,84.0,"Comedy,Drama",147.0,74.8,2500431,512.0
+Pawn Sacrifice,Bleecker Street Media,202053.0,,2015-09-16,PG-13,115.0,"Biography,Drama,History,Sport,Thriller",114.0,43.7,2436633,781.0
+The Oscar Nominated Short Films 2015: Live Action,Shorts International,416850.0,,2015-01-30,,118.0,Drama,336.0,100.0,2412593,280.0
+Meru,Music Box Films,91279.0,,2015-08-14,R,90.0,"Documentary,Sport",147.0,100.0,2334228,176.0
+Finding Dory,Walt Disney Studios Motion Pictures,135060273.0,,2016-06-17,PG,97.0,"Adventure,Animation,Comedy,Family",203.0,47.3,486295561,4305.0
+Rogue One: A Star Wars Story,Walt Disney Studios Motion Pictures,155081681.0,200000000.0,2016-12-16,PG-13,133.0,"Action,Adventure,Sci-Fi",381.0,50.4,532177324,4157.0
+Captain America: Civil War,Walt Disney Studios Motion Pictures,179139142.0,250000000.0,2016-05-06,PG-13,147.0,"Action,Adventure,Sci-Fi",240.0,35.4,408084349,4226.0
+The Secret Life of Pets,Universal Pictures,104352905.0,75000000.0,2016-07-08,PG,87.0,"Adventure,Animation,Comedy,Family",182.0,42.1,368384330,4381.0
+The Jungle Book,Walt Disney Studios Motion Pictures,103261464.0,175000000.0,2016-04-15,PG,106.0,"Adventure,Drama,Family,Fantasy",261.0,37.7,364001123,4144.0
+Deadpool,Twentieth Century Fox,132434639.0,58000000.0,2016-02-12,R,108.0,"Action,Adventure,Comedy,Sci-Fi",324.0,46.4,363070709,3856.0
+Zootopia,Walt Disney Studios Motion Pictures,75063401.0,,2016-03-04,PG,108.0,"Adventure,Animation,Comedy,Crime,Family,Mystery",303.0,33.3,341268248,3959.0
+Batman v Superman: Dawn of Justice,Warner Bros.,166007347.0,250000000.0,2016-03-25,PG-13,152.0,"Action,Adventure,Sci-Fi",282.0,37.8,330360194,4256.0
+Suicide Squad,Warner Bros.,133682248.0,175000000.0,2016-08-05,PG-13,123.0,"Action,Adventure,Fantasy,Sci-Fi",154.0,43.5,325100054,4255.0
+Doctor Strange,Walt Disney Studios Motion Pictures,85058311.0,165000000.0,2016-11-04,PG-13,115.0,"Action,Adventure,Fantasy,Sci-Fi",423.0,34.3,232641920,3882.0
+Fantastic Beasts and Where to Find Them,Warner Bros.,74403387.0,180000000.0,2016-11-18,PG-13,132.0,"Adventure,Family,Fantasy",409.0,28.8,234037575,4144.0
+Moana,Walt Disney Studios Motion Pictures,56631401.0,,2016-11-23,PG,107.0,"Adventure,Animation,Comedy,Family,Fantasy,Musical",404.0,38.7,248757044,3875.0
+The Revenant,Twentieth Century Fox,474560.0,135000000.0,2015-12-25,R,156.0,"Action,Adventure,Drama,History,Western",373.0,34.5,183637894,3711.0
+Jason Bourne,Universal Pictures,59215365.0,120000000.0,2016-07-29,PG-13,123.0,"Action,Thriller",161.0,39.1,162434410,4039.0
+Star Trek Beyond,Paramount Pictures,59253211.0,185000000.0,2016-07-22,PG-13,122.0,"Action,Adventure,Sci-Fi,Thriller",163.0,46.2,158848340,3928.0
+X-Men: Apocalypse,Twentieth Century Fox,65769562.0,178000000.0,2016-05-27,PG-13,144.0,"Action,Adventure,Sci-Fi",219.0,28.6,155442489,4153.0
+Sing,Universal Pictures,35258145.0,75000000.0,2016-12-21,PG,108.0,"Animation,Comedy,Family,Musical",376.0,42.6,270395425,4029.0
+Trolls,Twentieth Century Fox,46581142.0,125000000.0,2016-11-04,PG,92.0,"Adventure,Animation,Comedy,Family,Fantasy,Musical,Romance",423.0,44.3,153707064,4066.0
+Kung Fu Panda 3,Twentieth Century Fox,41282042.0,145000000.0,2016-01-29,PG,95.0,"Action,Adventure,Animation,Comedy,Family,Fantasy",338.0,27.5,143528619,3987.0
+Ghostbusters,Sony Pictures Entertainment (SPE),46018755.0,144000000.0,2016-07-15,PG-13,117.0,"Action,Comedy,Fantasy,Sci-Fi",175.0,56.0,128350574,3963.0
+Central Intelligence,Warner Bros.,35535250.0,50000000.0,2016-06-17,PG-13,107.0,"Action,Comedy,Crime",198.0,58.7,127440871,3508.0
+The Legend of Tarzan,Warner Bros.,38527856.0,180000000.0,2016-07-01,PG-13,110.0,"Action,Adventure,Drama,Fantasy,Romance",184.0,35.5,126643061,3591.0
+Sully,Warner Bros.,35028301.0,60000000.0,2016-09-09,PG-13,96.0,"Biography,Drama",479.0,51.9,125070033,3955.0
+Bad Moms,STX Entertainment,23817340.0,20000000.0,2016-07-29,R,100.0,Comedy,156.0,61.6,113257297,3215.0
+The Angry Birds Movie,Sony Pictures Entertainment (SPE),38155177.0,73000000.0,2016-05-20,PG,97.0,"Action,Adventure,Animation,Comedy,Family",226.0,30.5,107509366,3932.0
+Independence Day: Resurgence,Twentieth Century Fox,41039944.0,165000000.0,2016-06-24,PG-13,,"Action,Adventure,Sci-Fi",191.0,26.5,103144286,4130.0
+The Conjuring 2,Warner Bros.,40406314.0,40000000.0,2016-06-10,R,134.0,"Horror,Mystery,Thriller",205.0,32.0,102470008,3356.0
+Sausage Party,Sony Pictures Entertainment (SPE),34263534.0,19000000.0,2016-08-12,R,89.0,"Adventure,Animation,Comedy,Fantasy",147.0,69.4,97685686,3135.0
+The Magnificent Seven,Sony Pictures Entertainment (SPE),34703397.0,90000000.0,2016-09-23,PG-13,132.0,"Action,Adventure,Western",465.0,57.5,93432655,3696.0
+Arrival,Paramount Pictures,24074047.0,47000000.0,2016-11-11,PG-13,116.0,"Drama,Sci-Fi",416.0,49.4,100546139,3115.0
+Ride Along 2,Universal Pictures,35243095.0,40000000.0,2016-01-15,PG-13,102.0,"Action,Comedy,Crime",352.0,73.2,91221830,3192.0
+Don't Breathe,Screen Gems,26411706.0,9900000.0,2016-08-26,R,88.0,"Crime,Horror,Thriller",133.0,56.6,89217875,3384.0
+Miss Peregrine's Home for Peculiar Children,Twentieth Century Fox,28871140.0,110000000.0,2016-09-30,PG-13,127.0,"Adventure,Drama,Family,Fantasy,Thriller",458.0,29.4,87242834,3835.0
+The Accountant,Warner Bros.,24710273.0,44000000.0,2016-10-14,R,128.0,"Action,Thriller",444.0,55.6,86260045,3402.0
+Teenage Mutant Ninja Turtles: Out of the Shadows,Paramount Pictures,35316382.0,135000000.0,2016-06-03,PG-13,112.0,"Action,Adventure,Comedy,Sci-Fi",212.0,33.4,82051601,4071.0
+The Purge: Election Year,Universal Pictures,31515110.0,10000000.0,2016-07-01,R,108.0,"Action,Horror,Sci-Fi,Thriller",184.0,66.8,79213375,2821.0
+Alice Through the Looking Glass,Walt Disney Studios Motion Pictures,26858726.0,170000000.0,2016-05-27,PG,113.0,"Adventure,Family,Fantasy,Mystery",219.0,25.7,77041381,3763.0
+Pete's Dragon,Walt Disney Studios Motion Pictures,21514095.0,65000000.0,2016-08-12,PG,102.0,"Action,Adventure,Comedy,Drama,Family,Fantasy",147.0,53.1,76233151,3702.0
+The Girl on the Train,Universal Pictures,24536265.0,45000000.0,2016-10-07,R,112.0,"Crime,Drama,Mystery,Thriller",91.0,43.5,75395035,3241.0
+Boo! A Madea Halloween,Lionsgate,28501448.0,20000000.0,2016-10-21,PG-13,103.0,"Comedy,Drama,Horror",77.0,97.8,73206343,2299.0
+Storks,Warner Bros.,21311407.0,70000000.0,2016-09-23,PG,87.0,"Adventure,Animation,Comedy,Drama,Family,Fantasy",465.0,39.6,72679278,3922.0
+10 Cloverfield Lane,Paramount Pictures,24727437.0,,2016-03-11,PG-13,103.0,"Action,Drama,Horror,Sci-Fi,Thriller",296.0,65.4,72082998,3427.0
+Lights Out,Warner Bros.,21688103.0,4900000.0,2016-07-22,PG-13,81.0,"Horror,Mystery",163.0,45.2,67268835,2835.0
+Allegiant,Lionsgate,29027348.0,,2016-03-18,PG-13,,"Action,Adventure,Mystery,Sci-Fi,Thriller",289.0,36.9,66184051,3740.0
+Now You See Me 2,Lionsgate,22383146.0,,2016-06-10,PG-13,129.0,"Action,Adventure,Comedy,Crime,Mystery,Thriller",205.0,19.4,65075540,3232.0
+Hacksaw Ridge,Lionsgate,15190758.0,40000000.0,2016-11-04,R,139.0,"Biography,Drama,History,War",423.0,37.2,67209615,2971.0
+Ice Age 5: Collision Course,Twentieth Century Fox,21373064.0,105000000.0,2016-07-22,PG,94.0,"Adventure,Animation,Comedy,Family,Sci-Fi",163.0,15.7,64063008,3997.0
+The Boss,Universal Pictures,23586645.0,29000000.0,2016-04-08,R,99.0,Comedy,268.0,80.3,63285885,3495.0
+London Has Fallen,Focus Features,21635601.0,60000000.0,2016-03-04,R,99.0,"Action,Thriller",303.0,30.4,62524260,3492.0
+Miracles from Heaven,TriStar Pictures,14812393.0,13000000.0,2016-03-16,PG,109.0,"Biography,Drama,Family",291.0,83.4,61705123,3155.0
+Deepwater Horizon,Lionsgate,20223544.0,110000000.0,2016-09-30,PG-13,107.0,"Action,Drama,History,Thriller",98.0,50.4,61433527,3403.0
+My Big Fat Greek Wedding 2,Universal Pictures,17861950.0,,2016-03-25,PG-13,94.0,"Comedy,Romance",282.0,65.9,59689605,3179.0
+Jack Reacher: Never Go Back,Paramount Pictures,22872490.0,60000000.0,2016-10-21,PG-13,118.0,"Action,Crime,Drama,Thriller",437.0,36.2,58697076,3780.0
+Me Before You,Warner Bros.,18723269.0,20000000.0,2016-06-03,PG-13,106.0,"Drama,Romance",212.0,27.0,56245075,2762.0
+The BFG,Walt Disney Studios Motion Pictures,18775350.0,140000000.0,2016-07-01,PG,117.0,"Adventure,Family,Fantasy",184.0,28.4,55483770,3392.0
+Neighbors 2: Sorority Rising,Universal Pictures,21760405.0,,2016-05-20,R,92.0,Comedy,226.0,51.3,55455765,3416.0
+Passengers,Sony Pictures Entertainment (SPE),14869736.0,110000000.0,2016-12-21,PG-13,116.0,"Drama,Romance,Sci-Fi,Thriller",376.0,33.0,100014699,3478.0
+The Shallows,Sony Pictures Entertainment (SPE),16800868.0,17000000.0,2016-06-24,PG-13,86.0,"Action,Drama,Horror,Thriller",191.0,46.3,55124043,2962.0
+Barbershop: The Next Cut,Warner Bros.,20242415.0,,2016-04-15,PG-13,111.0,"Comedy,Drama",261.0,98.2,54030051,2676.0
+13 Hours,Paramount Pictures,16194738.0,50000000.0,2016-01-15,R,144.0,"Action,Drama,History,Thriller,War",352.0,76.1,52853219,2917.0
+Office Christmas Party,Paramount Pictures,16890204.0,45000000.0,2016-12-09,R,105.0,Comedy,388.0,47.8,54767494,3210.0
+The Huntsman: Winter's War,Universal Pictures,19445035.0,115000000.0,2016-04-22,PG-13,114.0,"Action,Adventure,Drama,Fantasy",254.0,29.3,48390190,3802.0
+Kubo and the Two Strings,Focus Features,12608372.0,60000000.0,2016-08-19,PG,101.0,"Action,Adventure,Animation,Family,Fantasy",140.0,63.0,48023088,3279.0
+Warcraft,Universal Pictures,24166110.0,160000000.0,2016-06-10,PG-13,123.0,"Action,Adventure,Fantasy",205.0,10.8,47365290,3406.0
+How to Be Single,Warner Bros.,17878911.0,38000000.0,2016-02-12,R,110.0,"Comedy,Drama,Romance",324.0,41.7,46843513,3357.0
+Mike and Dave Need Wedding Dates,Twentieth Century Fox,16628170.0,33000000.0,2016-07-08,R,98.0,"Comedy,Romance",177.0,59.7,46009673,3008.0
+War Dogs,Warner Bros.,14685305.0,,2016-08-19,R,114.0,"Biography,Comedy,Crime,Drama,War",135.0,49.9,43034523,3258.0
+Almost Christmas,Universal Pictures,15134235.0,17000000.0,2016-11-11,PG-13,111.0,"Comedy,Drama",416.0,99.0,42158780,2379.0
+Money Monster,TriStar Pictures,14788157.0,27000000.0,2016-05-13,R,98.0,"Crime,Drama,Mystery,Thriller",233.0,44.0,41012075,3104.0
+Allied,Paramount Pictures,12701743.0,85000000.0,2016-11-23,R,124.0,"Action,Drama,Romance,Thriller,War",404.0,33.5,40098064,3160.0
+Nerve,Lionsgate,9445456.0,19000000.0,2016-07-27,PG-13,96.0,"Action,Adventure,Crime,Drama,Thriller",158.0,45.3,38583626,2538.0
+Risen,Sony Pictures Entertainment (SPE),11801271.0,20000000.0,2016-02-19,PG-13,107.0,"Action,Drama,History,Mystery",317.0,79.4,36880033,2915.0
+Assassin's Creed,Twentieth Century Fox,10278225.0,125000000.0,2016-12-21,PG-13,115.0,"Action,Adventure,Sci-Fi",376.0,22.7,54647948,2996.0
+The Nice Guys,Warner Bros.,11203270.0,50000000.0,2016-05-20,R,116.0,"Action,Comedy,Crime,Thriller",226.0,57.8,36261763,2865.0
+The Boy,STX Entertainment,10778392.0,10000000.0,2016-01-22,PG-13,97.0,"Horror,Mystery,Thriller",345.0,55.8,35819556,2671.0
+Dirty Grandpa,Lionsgate,11111875.0,25000000.0,2016-01-22,R,102.0,Comedy,345.0,37.8,35593113,2912.0
+Ouija: Origin of Evil,Universal Pictures,14065500.0,9000000.0,2016-10-21,PG-13,99.0,"Drama,Horror,Mystery,Thriller",77.0,43.0,35144505,3168.0
+The 5th Wave,Sony Pictures Entertainment (SPE),10326356.0,38000000.0,2016-01-22,PG-13,112.0,"Action,Adventure,Sci-Fi,Thriller",345.0,31.8,34916787,2908.0
+Inferno,Sony Pictures Entertainment (SPE),14860425.0,75000000.0,2016-10-28,PG-13,121.0,"Action,Adventure,Crime,Drama,Mystery,Thriller",430.0,15.6,34343574,3576.0
+Mother's Day,Open Road Films (II),8369184.0,25000000.0,2016-04-29,PG-13,118.0,"Comedy,Drama,Romance",247.0,66.6,32492859,3291.0
+Gods of Egypt,Lionsgate,14123903.0,140000000.0,2016-02-26,PG-13,127.0,"Action,Adventure,Fantasy",310.0,20.7,31153464,3117.0
+La La Land,Lionsgate,881104.0,30000000.0,2016-12-09,PG-13,128.0,"Comedy,Drama,Music,Musical,Romance",388.0,33.8,151101803,3236.0
+Why Him?,Twentieth Century Fox,11002986.0,38000000.0,2016-12-23,R,111.0,Comedy,374.0,51.1,60323786,3008.0
+"Hail, Caesar!",Universal Pictures,11355225.0,22000000.0,2016-02-05,PG-13,106.0,"Comedy,Drama,Mystery",331.0,47.9,30498085,2248.0
+When the Bough Breaks,Screen Gems,14202323.0,10000000.0,2016-09-09,PG-13,107.0,"Drama,Thriller",119.0,97.0,29747603,2246.0
+Zoolander 2,Paramount Pictures,13841146.0,,2016-02-12,PG-13,101.0,"Action,Adventure,Comedy,Mystery,Romance",324.0,50.9,28848693,3418.0
+The Finest Hours,Walt Disney Studios Motion Pictures,10288932.0,,2016-01-29,PG-13,117.0,"Action,Drama,History,Thriller",338.0,52.9,27569558,3143.0
+Florence Foster Jenkins,Paramount Pictures,6601313.0,29000000.0,2016-08-12,PG-13,111.0,"Biography,Comedy,Drama,Music",142.0,56.0,27383770,1528.0
+Manchester by the Sea,Roadside Attractions,256498.0,9000000.0,2016-11-18,R,137.0,Drama,409.0,60.4,47695371,1213.0
+Hell or High Water,Lionsgate,621329.0,12000000.0,2016-08-12,R,102.0,"Action,Crime,Drama,Thriller,Western",147.0,71.3,27007844,1505.0
+The Forest,Focus Features,12741176.0,10000000.0,2016-01-08,PG-13,93.0,"Horror,Mystery,Thriller",359.0,67.0,26594261,2509.0
+Ben-Hur,Paramount Pictures,11203815.0,100000000.0,2016-08-19,PG-13,123.0,"Action,Adventure,Drama",135.0,28.1,26410477,3084.0
+Fences,Paramount Pictures,129462.0,24000000.0,2016-12-16,PG-13,139.0,Drama,381.0,89.5,57682904,2368.0
+The Witch,A24,8800230.0,4000000.0,2016-02-19,R,92.0,"Drama,Horror,Mystery",317.0,62.2,25138705,2204.0
+Collateral Beauty,Warner Bros.,7102085.0,36000000.0,2016-12-16,PG-13,97.0,"Drama,Romance",381.0,35.0,31016021,3028.0
+Bridget Jones's Baby,Universal Pictures,8571785.0,35000000.0,2016-09-16,R,123.0,"Comedy,Drama,Romance",112.0,11.4,24252420,2930.0
+Kevin Hart: What Now?,Universal Pictures,11767210.0,9900000.0,2016-10-14,R,96.0,"Comedy,Documentary",84.0,100.0,23591043,2567.0
+Whiskey Tango Foxtrot,Paramount Pictures,7450275.0,35000000.0,2016-03-04,R,112.0,"Biography,Comedy,Drama,War",303.0,92.4,23083334,2413.0
+Snowden,Open Road Films (II),8000058.0,40000000.0,2016-09-16,R,134.0,"Biography,Crime,Drama,Thriller",112.0,57.8,21587519,2443.0
+Mechanic: Resurrection,Lionsgate,7456525.0,,2016-08-26,R,98.0,"Action,Adventure,Crime,Thriller",128.0,16.9,21218403,2258.0
+Free State of Jones,STX Entertainment,7572206.0,50000000.0,2016-06-24,R,139.0,"Action,Biography,Drama,History,War,Western",191.0,83.1,20810036,2815.0
+Blair Witch,Lionsgate,9576057.0,5000000.0,2016-09-16,R,89.0,"Horror,Mystery,Thriller",107.0,46.0,20777061,3121.0
+God's Not Dead 2,Pure Flix Entertainment,7623662.0,,2016-04-01,PG,,Drama,275.0,84.8,20774575,2419.0
+Keanu,Warner Bros.,9453224.0,15000000.0,2016-04-29,R,100.0,"Action,Comedy,Crime",247.0,99.7,20591853,2681.0
+Middle School: The Worst Years of My Life,Lionsgate,6878437.0,8500000.0,2016-10-07,PG,92.0,"Animation,Comedy,Family",91.0,85.8,20007149,2822.0
+Nine Lives,EuropaCorp,6249915.0,30000000.0,2016-08-05,PG,87.0,"Comedy,Drama,Family,Fantasy",149.0,34.1,19700032,2264.0
+Race,Focus Features,7353922.0,,2016-02-19,PG-13,134.0,"Biography,Drama,Sport",317.0,76.6,19206207,2387.0
+The Choice,Lionsgate,6050443.0,,2016-02-05,PG-13,111.0,"Drama,Romance",331.0,81.2,18730891,2631.0
+Eye in the Sky,Bleecker Street Media,113803.0,,2016-03-11,R,102.0,"Action,Drama,Thriller,War",296.0,53.0,18704595,1089.0
+Bad Santa 2,Broad Green Pictures,6176680.0,26000000.0,2016-11-23,R,92.0,"Comedy,Crime,Drama",404.0,73.8,17782178,2945.0
+Masterminds,Relativity Media,6541205.0,,2016-09-30,PG-13,95.0,"Biography,Comedy,Crime",98.0,58.5,17368022,3042.0
+Norm of the North,Lionsgate,6844137.0,,2016-01-15,PG,88.0,"Adventure,Animation,Comedy,Family",352.0,55.5,17062499,2411.0
+The Birth of a Nation,Fox Searchlight Pictures,7004254.0,8500000.0,2016-10-07,R,,"Biography,Drama,History",91.0,94.5,15861566,2105.0
+Eddie the Eagle,Twentieth Century Fox,6084682.0,23000000.0,2016-02-26,PG-13,106.0,"Biography,Comedy,Drama,Family,History,Sport",310.0,34.2,15789389,2044.0
+The Infiltrator,Broad Green Pictures,5303775.0,,2016-07-13,R,127.0,"Biography,Crime,Drama,Thriller",172.0,73.5,15436808,1601.0
+Keeping Up with the Joneses,Twentieth Century Fox,5461475.0,40000000.0,2016-10-21,PG-13,105.0,"Action,Comedy",77.0,49.8,14904426,3022.0
+Criminal,Lionsgate,5767278.0,,2016-04-15,R,113.0,"Action,Sci-Fi,Thriller",261.0,37.9,14708696,2683.0
+"Hello, My Name Is Doris",Roadside Attractions,84986.0,,2016-03-11,R,90.0,"Comedy,Drama,Romance",296.0,98.5,14444999,979.0
+The Edge of Seventeen,STX Entertainment,4754215.0,9000000.0,2016-11-18,R,104.0,"Comedy,Drama",409.0,74.5,14431633,1945.0
+Love & Friendship,Roadside Attractions,133513.0,,2016-05-13,PG,90.0,"Comedy,Drama,Romance",233.0,65.5,14016568,826.0
+Hillary's America: The Secret History of the Democratic Party,Quality Flix,74814.0,,2016-07-15,PG-13,106.0,"Biography,Documentary,History",170.0,100.0,13099931,1217.0
+Triple 9,Open Road Films (II),6109085.0,,2016-02-26,R,115.0,"Action,Crime,Thriller",310.0,54.5,12639297,2205.0
+The Light Between Oceans,Walt Disney Studios Motion Pictures,4765838.0,20000000.0,2016-09-02,PG-13,133.0,"Drama,Romance",121.0,48.3,12545979,1500.0
+Moonlight,A24,402075.0,4000000.0,2016-10-21,R,111.0,Drama,437.0,42.6,27854932,1564.0
+Fifty Shades of Black,Open Road Films (II),5900528.0,,2016-01-29,R,92.0,Comedy,338.0,52.6,11686940,2075.0
+No manches Frida,Pantelion Films,3676235.0,,2016-09-02,PG-13,114.0,"Comedy,Romance",121.0,49.0,11528613,465.0
+Café Society,Lionsgate,359289.0,,2016-07-15,PG-13,96.0,"Comedy,Drama,Romance",170.0,25.4,11103205,631.0
+Pride and Prejudice and Zombies,Screen Gems,5324240.0,28000000.0,2016-02-05,PG-13,108.0,"Action,Comedy,Fantasy,Horror,Romance",331.0,66.5,10938134,2931.0
+The Darkness,BH Tilt,4950859.0,,2016-05-13,PG-13,92.0,"Horror,Thriller",233.0,98.7,10753574,1769.0
+Nocturnal Animals,Focus Features,492648.0,,2016-11-18,R,116.0,"Drama,Thriller",409.0,35.2,10663357,1262.0
+The Lady in the Van,Sony Pictures Classics,,,2015-12-04,PG-13,104.0,"Biography,Comedy,Drama",394.0,24.2,10021175,602.0
+The Perfect Match,Lionsgate,4294232.0,,2016-03-11,R,96.0,"Comedy,Romance",296.0,92.8,9669521,925.0
+Popstar: Never Stop Never Stopping,Universal Pictures,4698715.0,,2016-06-03,R,87.0,"Comedy,Drama,Musical",212.0,99.6,9639125,2313.0
+Hardcore Henry,STX Entertainment,5107604.0,,2016-04-08,R,96.0,"Action,Adventure,Sci-Fi,Thriller",268.0,55.0,9252038,3015.0
+Meet the Blacks,Freestyle Releasing,4055940.0,,2016-04-01,R,94.0,"Comedy,Horror",275.0,100.0,9097072,1015.0
+Queen of Katwe,Walt Disney Studios Motion Pictures,304933.0,15000000.0,2016-09-23,PG,124.0,"Biography,Drama,Sport",465.0,85.6,8874389,1259.0
+Ratchet & Clank,Focus Features,4869278.0,,2016-04-29,PG,94.0,"Action,Adventure,Animation,Comedy,Family,Sci-Fi",247.0,65.9,8821329,2895.0
+The Lobster,A24,190252.0,,2016-05-13,R,119.0,"Comedy,Drama,Romance,Sci-Fi,Thriller",233.0,97.2,8700374,560.0
+Dangal,UTV Motion Pictures,3248481.0,,2016-12-21,,161.0,"Action,Biography,Drama,Sport",376.0,4.1,12391761,338.0
+A Beautiful Planet,IMAX,223983.0,,2016-04-29,,,Documentary,1708.0,60.8,15650615,155.0
+The Wild Life,Lionsgate,3342696.0,,2016-09-09,PG,91.0,"Adventure,Animation,Comedy,Family",114.0,20.0,8005586,2493.0
+Loving,Focus Features,159615.0,,2016-11-04,PG-13,123.0,"Biography,Drama,Romance",423.0,59.8,7751969,572.0
+Shut In,EuropaCorp,3613567.0,,2016-11-11,PG-13,91.0,"Drama,Horror,Mystery,Thriller",416.0,52.7,6900335,2058.0
+The Brothers Grimsby,Sony Pictures Entertainment (SPE),3258327.0,,2016-03-11,R,83.0,"Action,Adventure,Comedy,Crime,Thriller",296.0,24.6,6874837,2235.0
+The Young Messiah,Focus Features,3294876.0,,2016-03-11,PG-13,111.0,"Drama,Fantasy",296.0,88.5,6490401,1769.0
+Jackie,Fox Searchlight Pictures,278715.0,,2016-12-02,R,100.0,"Biography,Drama",395.0,46.9,13960394,508.0
+Southside with You,Roadside Attractions,2868403.0,,2016-08-26,PG-13,84.0,"Biography,Drama,History,Romance",128.0,95.1,6304223,897.0
+Captain Fantastic,Bleecker Street Media,93824.0,,2016-07-08,R,118.0,"Comedy,Drama",177.0,25.8,5879835,550.0
+Sultan,Yash Raj Films,2371100.0,13430000.0,2016-07-06,,170.0,"Action,Drama,Sport",179.0,7.1,6200000,283.0
+Lion,The Weinstein Company,123360.0,12000000.0,2016-11-25,PG-13,118.0,"Biography,Drama",402.0,36.9,51738905,1802.0
+Hunt for the Wilderpeople,The Orchard,78439.0,,2016-06-24,PG-13,101.0,"Adventure,Comedy,Drama",191.0,22.8,5205468,200.0
+Bleed for This,Open Road Films (II),2366810.0,6000000.0,2016-11-18,R,117.0,"Biography,Drama,Sport",49.0,75.9,5083906,1549.0
+Incarnate,BH Tilt,2534884.0,5000000.0,2016-12-02,PG-13,87.0,"Horror,Thriller",35.0,53.1,4799774,1737.0
+Absolutely Fabulous: The Movie,Fox Searchlight Pictures,1861118.0,,2016-07-22,R,91.0,"Comedy,Crime",163.0,12.2,4772155,355.0
+Hands of Stone,The Weinstein Company,1751388.0,,2016-08-26,R,111.0,"Biography,Drama,Sport",128.0,94.7,4712792,2011.0
+Don't Think Twice,The Film Arcade,92835.0,,2016-07-22,R,92.0,"Comedy,Drama",168.0,100.0,4417667,175.0
+The Meddler,Sony Pictures Classics,57022.0,,2016-04-22,PG-13,103.0,"Comedy,Drama,Romance",254.0,80.6,4267218,464.0
+Ae Dil Hai Mushkil,FIP,2190042.0,,2016-10-28,,158.0,"Drama,Music,Musical,Romance",70.0,13.5,4264983,302.0
+A Hologram for the King,Roadside Attractions,1138578.0,,2016-04-22,R,98.0,"Comedy,Drama,Romance",254.0,45.9,4212494,523.0
+Swiss Army Man,A24,105453.0,,2016-06-24,R,97.0,"Comedy,Drama,Fantasy,Romance",191.0,85.3,4210454,636.0
+45 Years,IFC Films,65775.0,,2015-12-23,R,91.0,"Drama,Romance",375.0,29.4,4247285,251.0
+Denial,Bleecker Street Media,93728.0,,2016-09-30,PG-13,109.0,"Biography,Drama",98.0,51.0,4073489,648.0
+Morgan,Twentieth Century Fox,2012709.0,8000000.0,2016-09-02,R,92.0,"Action,Horror,Sci-Fi,Thriller",121.0,44.4,3915251,2020.0
+Kabali,CineGalaxy,2157621.0,,2016-07-21,,153.0,"Action,Crime,Drama",164.0,88.9,3903095,236.0
+The Man Who Knew Infinity,IFC Films,80325.0,,2016-04-29,PG-13,108.0,"Biography,Drama",247.0,31.6,3866794,288.0
+Where to Invade Next,Drafthouse Films,897034.0,,2016-02-12,R,,"Comedy,Documentary",324.0,82.0,3827261,308.0
+Max Steel,Open Road Films (II),2182216.0,,2016-10-14,PG-13,92.0,"Action,Adventure,Fantasy,Sci-Fi",79.0,60.9,3818664,2034.0
+Batman: The Killing Joke,Fathom Events,,,2016-07-25,R,76.0,"Action,Animation,Crime,Drama,Thriller",160.0,84.6,3775000,1325.0
+Midnight Special,Warner Bros.,190012.0,,2016-03-18,PG-13,112.0,"Drama,Mystery,Sci-Fi,Thriller",289.0,55.1,3712282,521.0
+Anomalisa,Paramount Pictures,135222.0,8000000.0,2015-12-30,R,90.0,"Animation,Comedy,Drama,Romance",368.0,66.4,3759286,573.0
+Rules Don't Apply,Twentieth Century Fox,1589625.0,25000000.0,2016-11-23,PG-13,127.0,"Comedy,Drama,Romance",44.0,94.0,3652206,2386.0
+Miss Sloane,EuropaCorp,59797.0,,2016-11-25,R,132.0,Drama,402.0,38.5,3500605,1648.0
+Indignation,Roadside Attractions,93125.0,,2016-07-29,R,110.0,"Drama,Romance",156.0,86.7,3401155,317.0
+Everybody Wants Some!!,Paramount Pictures,312355.0,,2016-03-30,R,117.0,Comedy,277.0,73.2,3400278,454.0
+Maggie's Plan,Sony Pictures Classics,63308.0,,2016-05-20,R,98.0,"Comedy,Drama,Romance",226.0,57.0,3351735,335.0
+A Man Called Ove,Music Box Films,54608.0,,2016-09-30,PG-13,116.0,"Comedy,Drama,Romance",458.0,11.3,3479315,194.0
+Sing Street,The Weinstein Company,63573.0,,2016-04-15,PG-13,106.0,"Comedy,Drama,Music,Romance",261.0,23.8,3237118,525.0
+The Mermaid,Sony Pictures Entertainment (SPE),985052.0,,2016-02-19,R,94.0,"Comedy,Drama,Fantasy,Romance",317.0,0.6,3232685,106.0
+Green Room,A24,87984.0,,2016-04-15,R,95.0,"Horror,Music,Thriller",261.0,85.4,3220371,777.0
+Our Kind of Traitor,Roadside Attractions,984698.0,,2016-07-01,R,108.0,"Crime,Drama,Thriller",184.0,29.4,3153157,399.0
+Compadres,Pantelion Films,1397434.0,,2016-04-22,R,101.0,"Action,Comedy,Crime",254.0,42.5,3127773,368.0
+The Other Side of the Door,Twentieth Century Fox,1211210.0,,2016-03-04,R,96.0,Horror,303.0,20.9,3000342,585.0
+Star Wars: Episode VIII - The Last Jedi,Walt Disney Studios Motion Pictures,220009584.0,317000000.0,2017-12-15,PG-13,152.0,"Action,Adventure,Fantasy,Sci-Fi",382.0,46.5,620181382,4232.0
+Beauty and the Beast,Walt Disney Studios Motion Pictures,174750616.0,160000000.0,2017-03-17,PG,129.0,"Adventure,Family,Fantasy,Musical,Romance",290.0,39.9,504014165,4210.0
+Wonder Woman,Warner Bros.,103251471.0,149000000.0,2017-06-02,PG-13,141.0,"Action,Adventure,Fantasy,Sci-Fi,War",217.0,50.2,412563408,4165.0
+Guardians of the Galaxy Vol. 2,Walt Disney Studios Motion Pictures,146510104.0,200000000.0,2017-05-05,PG-13,136.0,"Action,Adventure,Comedy,Sci-Fi",241.0,45.1,389813101,4347.0
+Spider-Man: Homecoming,Sony Pictures Entertainment (SPE),117027503.0,175000000.0,2017-07-07,PG-13,133.0,"Action,Adventure,Sci-Fi",182.0,38.0,334201140,4348.0
+It,Warner Bros.,123403419.0,35000000.0,2017-09-08,R,135.0,Horror,119.0,46.8,327481748,4148.0
+Thor: Ragnarok,Walt Disney Studios Motion Pictures,122744989.0,180000000.0,2017-11-03,PG-13,130.0,"Action,Adventure,Comedy,Fantasy,Sci-Fi",424.0,36.9,315058289,4080.0
+Despicable Me 3,Universal Pictures,72434025.0,80000000.0,2017-06-30,PG,89.0,"Adventure,Animation,Comedy,Crime,Family,Sci-Fi",189.0,25.6,264624300,4535.0
+Logan,Twentieth Century Fox,88411916.0,97000000.0,2017-03-03,R,137.0,"Action,Drama,Sci-Fi,Thriller",304.0,36.6,226277068,4071.0
+The Fate of the Furious,Universal Pictures,98786705.0,250000000.0,2017-04-14,PG-13,136.0,"Action,Crime,Thriller",262.0,18.3,226008385,4329.0
+Justice League,Warner Bros.,93842239.0,,2017-11-17,PG-13,,"Action,Adventure,Fantasy,Sci-Fi",410.0,34.8,229024295,4051.0
+Dunkirk,Warner Bros.,50513488.0,100000000.0,2017-07-21,PG-13,106.0,"Action,Drama,History,Thriller,War",168.0,35.8,188045546,4014.0
+Coco,Walt Disney Studios Motion Pictures,50802605.0,,2017-11-22,PG,105.0,"Adventure,Animation,Comedy,Family,Fantasy,Music,Mystery",1136.0,26.1,210460015,3987.0
+The Lego Batman Movie,Warner Bros.,53003468.0,80000000.0,2017-02-10,PG,104.0,"Action,Adventure,Animation,Comedy,Family,Fantasy,Sci-Fi",325.0,56.3,175750384,4088.0
+Get Out,Universal Pictures,33377060.0,4500000.0,2017-02-24,R,104.0,"Horror,Mystery,Thriller",676.0,68.9,176040665,3143.0
+The Boss Baby,Twentieth Century Fox,50198902.0,,2017-03-31,PG,97.0,"Adventure,Animation,Comedy,Family,Fantasy",280.0,33.1,175003033,3829.0
+Pirates of the Caribbean: Dead Men Tell No Tales,Walt Disney Studios Motion Pictures,62983253.0,230000000.0,2017-05-26,PG-13,129.0,"Action,Adventure,Fantasy",220.0,21.7,172558876,4276.0
+Jumanji: Welcome to the Jungle,Sony Pictures Entertainment (SPE),36169328.0,90000000.0,2017-12-20,PG-13,119.0,"Action,Adventure,Comedy,Fantasy",377.0,42.0,404515480,3849.0
+Kong: Skull Island,Warner Bros.,61025472.0,185000000.0,2017-03-10,PG-13,118.0,"Action,Adventure,Fantasy,Sci-Fi",297.0,29.7,168052812,3846.0
+Hidden Figures,Twentieth Century Fox,515499.0,25000000.0,2016-12-25,PG,127.0,"Biography,Drama,History",376.0,71.9,169607287,3416.0
+Cars 3,Walt Disney Studios Motion Pictures,53688680.0,,2017-06-16,G,102.0,"Adventure,Animation,Comedy,Family,Sport",199.0,39.8,152901115,4256.0
+War for the Planet of the Apes,Twentieth Century Fox,56262929.0,150000000.0,2017-07-14,PG-13,140.0,"Action,Adventure,Drama,Sci-Fi,Thriller",175.0,29.9,146880162,4100.0
+Split,Universal Pictures,40010975.0,9000000.0,2017-01-20,PG-13,117.0,"Horror,Thriller",346.0,49.7,138291365,3373.0
+Transformers: The Last Knight,Paramount Pictures,44680073.0,217000000.0,2017-06-21,PG-13,154.0,"Action,Adventure,Sci-Fi",194.0,21.5,130168683,4132.0
+Wonder,Lionsgate,27547866.0,,2017-11-17,PG,113.0,"Drama,Family",410.0,43.3,132422809,3519.0
+Girls Trip,Universal Pictures,31201920.0,19000000.0,2017-07-21,R,122.0,"Adventure,Comedy,Drama",164.0,81.9,115171585,2648.0
+Fifty Shades Darker,Universal Pictures,46607250.0,55000000.0,2017-02-10,R,118.0,"Drama,Romance",325.0,30.0,114581250,3714.0
+Baby Driver,TriStar Pictures,20553320.0,34000000.0,2017-06-28,R,113.0,"Action,Crime,Drama,Music,Thriller",187.0,47.5,107825862,3226.0
+Annabelle: Creation,Warner Bros.,35006404.0,15000000.0,2017-08-11,R,109.0,"Horror,Mystery,Thriller",143.0,33.3,102092201,3565.0
+Daddy's Home 2,Paramount Pictures,29651193.0,69000000.0,2017-11-10,PG-13,100.0,Comedy,417.0,57.6,104029443,3575.0
+Murder on the Orient Express,Twentieth Century Fox,28681472.0,55000000.0,2017-11-10,PG-13,114.0,"Crime,Drama,Mystery",417.0,29.1,102826543,3354.0
+Kingsman: The Golden Circle,Twentieth Century Fox,39023010.0,104000000.0,2017-09-22,R,141.0,"Action,Adventure,Comedy,Crime,Thriller",466.0,24.4,100234838,4038.0
+John Wick: Chapter 2,Lionsgate,30436123.0,,2017-02-10,R,122.0,"Action,Crime,Thriller",325.0,53.6,92029184,3113.0
+Blade Runner 2049,Warner Bros.,32753122.0,150000000.0,2017-10-06,R,164.0,"Action,Drama,Mystery,Sci-Fi,Thriller",452.0,35.5,92054159,4058.0
+The Emoji Movie,Sony Pictures Entertainment (SPE),24531923.0,50000000.0,2017-07-28,PG,86.0,"Adventure,Animation,Comedy,Family,Fantasy,Sci-Fi",161.0,39.5,86089513,4075.0
+Power Rangers,Lionsgate,40300288.0,100000000.0,2017-03-24,PG-13,124.0,"Action,Adventure,Fantasy,Sci-Fi",283.0,60.0,85364450,3693.0
+The Mummy,Universal Pictures,31688375.0,125000000.0,2017-06-09,PG-13,111.0,"Action,Adventure,Fantasy,Horror,Thriller",206.0,19.6,80227895,4035.0
+The Hitman's Bodyguard,Lionsgate,21384504.0,30000000.0,2017-08-18,R,118.0,"Action,Comedy,Crime,Thriller",136.0,42.7,75468583,3377.0
+Alien: Covenant,Twentieth Century Fox,36160621.0,97000000.0,2017-05-19,R,122.0,"Horror,Sci-Fi,Thriller",227.0,30.8,74262031,3772.0
+Captain Underpants: The First Epic Movie,Twentieth Century Fox,23851539.0,38000000.0,2017-06-02,PG,89.0,"Action,Adventure,Animation,Comedy,Family,Sci-Fi",217.0,58.9,73921000,3529.0
+A Bad Moms Christmas,STX Entertainment,16759161.0,28000000.0,2017-11-01,R,104.0,Comedy,426.0,55.2,72110659,3615.0
+A Dog's Purpose,Universal Pictures,18222810.0,22000000.0,2017-01-27,PG,100.0,"Adventure,Comedy,Drama,Family,Fantasy",339.0,31.5,64508620,3178.0
+Pitch Perfect 3,Universal Pictures,19928525.0,45000000.0,2017-12-22,PG-13,93.0,"Comedy,Music",375.0,56.6,104897530,3468.0
+The Lego Ninjago Movie,Warner Bros.,20433071.0,,2017-09-22,PG,101.0,"Action,Adventure,Animation,Comedy,Drama,Family,Fantasy,Sci-Fi,Thriller",105.0,48.2,59281555,4047.0
+Baywatch,Paramount Pictures,18503871.0,69000000.0,2017-05-25,R,116.0,"Action,Comedy,Crime",221.0,32.6,58060186,3647.0
+The Shack,Lionsgate,16172119.0,,2017-03-03,PG-13,132.0,"Drama,Fantasy",304.0,59.2,57386418,2888.0
+Happy Death Day,Universal Pictures,26039025.0,4800000.0,2017-10-13,PG-13,96.0,"Comedy,Horror,Mystery,Thriller",84.0,44.4,55683845,3535.0
+Ferdinand,Twentieth Century Fox,13401586.0,111000000.0,2017-12-15,PG,108.0,"Adventure,Animation,Comedy,Drama,Family",382.0,28.5,84410380,3630.0
+Atomic Blonde,Focus Features,18286420.0,30000000.0,2017-07-28,R,115.0,"Action,Thriller",157.0,51.7,51687870,3326.0
+American Made,Universal Pictures,16776390.0,50000000.0,2017-09-29,R,115.0,"Action,Comedy,Crime,Drama",98.0,38.1,51342000,3098.0
+The Dark Tower,Sony Pictures Entertainment (SPE),19153698.0,60000000.0,2017-08-04,PG-13,95.0,"Action,Adventure,Fantasy,Sci-Fi,Western",150.0,44.8,50701325,3451.0
+The Greatest Showman,Twentieth Century Fox,8805843.0,84000000.0,2017-12-20,PG,105.0,"Biography,Drama,Musical",377.0,40.1,174340174,3342.0
+Boo 2! A Madea Halloween,Lionsgate,21226953.0,25000000.0,2017-10-20,PG-13,101.0,"Comedy,Drama,Horror",77.0,97.9,47319572,2388.0
+Snatched,Twentieth Century Fox,19542248.0,42000000.0,2017-05-12,R,90.0,"Action,Adventure,Comedy",234.0,75.4,45852178,3511.0
+The Great Wall,Universal Pictures,18469620.0,150000000.0,2017-02-17,PG-13,103.0,"Action,Adventure,Fantasy,Thriller",318.0,13.6,45540830,3328.0
+Smurfs: The Lost Village,Sony Pictures Entertainment (SPE),13210449.0,60000000.0,2017-04-07,PG,90.0,"Adventure,Animation,Comedy,Family,Fantasy",269.0,22.8,45020282,3610.0
+Going in Style,Warner Bros.,11932330.0,25000000.0,2017-04-07,PG-13,96.0,"Comedy,Crime",269.0,53.0,45018541,3076.0
+All Eyez on Me,Lionsgate,26435354.0,40000000.0,2017-06-16,R,139.0,"Biography,Drama,Music",199.0,80.7,44922302,2471.0
+xXx: Return of Xander Cage,Paramount Pictures,20130142.0,85000000.0,2017-01-20,PG-13,107.0,"Action,Adventure,Comedy,Thriller",346.0,13.0,44898413,3651.0
+47 Meters Down,Entertainment Studios Motion Pictures,11205561.0,5300000.0,2017-06-16,PG-13,89.0,"Adventure,Drama,Horror,Thriller",199.0,71.2,44307191,2471.0
+The Big Sick,Lionsgate,421577.0,,2017-06-23,R,,"Comedy,Drama,Romance",192.0,76.0,42873127,2597.0
+Ghost in the Shell,Paramount Pictures,18676033.0,110000000.0,2017-03-31,PG-13,107.0,"Action,Crime,Drama,Sci-Fi,Thriller",276.0,23.9,40563557,3440.0
+Valerian and the City of a Thousand Planets,STX Entertainment,17007624.0,177200000.0,2017-07-21,PG-13,136.0,"Action,Adventure,Fantasy,Sci-Fi",164.0,18.2,41189488,3553.0
+The Star,Sony Pictures Entertainment (SPE),9812674.0,20000000.0,2017-11-17,PG,86.0,"Adventure,Animation,Comedy,Family,Fantasy",410.0,65.0,40852824,2976.0
+King Arthur: Legend of the Sword,Warner Bros.,15371270.0,175000000.0,2017-05-12,PG-13,126.0,"Action,Adventure,Drama,Fantasy",234.0,26.3,39175066,3702.0
+Jigsaw,Lionsgate,16640452.0,10000000.0,2017-10-27,R,92.0,"Crime,Horror,Mystery,Thriller",70.0,37.0,38052832,2941.0
+American Assassin,Lionsgate,14846778.0,33000000.0,2017-09-15,R,111.0,"Action,Thriller",112.0,53.9,36249674,3154.0
+The Foreigner,STX Entertainment,13113024.0,35000000.0,2017-10-13,R,113.0,"Action,Thriller",84.0,23.7,34393507,2515.0
+"Everything, Everything",Warner Bros.,11727390.0,10000000.0,2017-05-19,PG-13,96.0,"Drama,Romance",227.0,55.4,34121140,2801.0
+Wind River,The Weinstein Company,161558.0,11000000.0,2017-08-04,R,107.0,"Crime,Drama,Mystery,Thriller,Western",154.0,76.9,33800859,2890.0
+Geostorm,Warner Bros.,13707376.0,120000000.0,2017-10-20,PG-13,109.0,"Action,Sci-Fi,Thriller",438.0,15.2,33700160,3246.0
+Monster Trucks,Paramount Pictures,10950705.0,,2017-01-13,PG,104.0,"Action,Adventure,Comedy,Family,Sci-Fi",353.0,51.7,33370166,3119.0
+Fist Fight,Warner Bros.,12201873.0,,2017-02-17,R,91.0,Comedy,318.0,78.3,32187017,3185.0
+How to Be a Latin Lover,Pantelion Films,12252439.0,,2017-04-28,PG-13,115.0,"Comedy,Drama",248.0,51.4,32149404,1203.0
+Lady Bird,A24,364437.0,,2017-11-03,R,94.0,"Comedy,Drama",424.0,62.0,48958273,1557.0
+Patriots Day,Lionsgate,161306.0,45000000.0,2016-12-21,R,133.0,"Action,Crime,Drama,History,Thriller",376.0,61.1,31886361,3120.0
+Kidnap,Aviron Pictures,10016323.0,21000000.0,2017-08-04,R,95.0,"Action,Crime,Drama,Thriller",154.0,89.0,30971040,2418.0
+Underworld: Blood Wars,Screen Gems,13688751.0,35000000.0,2017-01-06,R,91.0,"Action,Adventure,Fantasy,Horror",360.0,37.4,30353973,3070.0
+The Mountain Between Us,Twentieth Century Fox,10551336.0,35000000.0,2017-10-06,PG-13,112.0,"Action,Adventure,Drama,Romance,Thriller",91.0,48.3,30348555,3259.0
+Life,Sony Pictures Entertainment (SPE),12501936.0,58000000.0,2017-03-24,R,104.0,"Horror,Sci-Fi,Thriller",283.0,30.1,30234022,3146.0
+The Nut Job 2: Nutty by Nature,Open Road Films (II),8342311.0,40000000.0,2017-08-11,PG,91.0,"Adventure,Animation,Comedy,Crime,Family",143.0,41.3,28370522,4003.0
+Rings,Paramount Pictures,13002632.0,25000000.0,2017-02-03,PG-13,102.0,"Drama,Horror,Mystery,Romance",332.0,33.5,27793018,2931.0
+Logan Lucky,Bleecker Street Media,7600036.0,29000000.0,2017-08-18,PG-13,118.0,"Action,Comedy,Crime,Drama",140.0,57.3,27780977,3031.0
+Home Again,Open Road Films (II),8567881.0,12000000.0,2017-09-08,PG-13,97.0,"Comedy,Drama,Romance",119.0,72.5,27020284,3036.0
+Resident Evil: The Final Chapter,Screen Gems,13601682.0,40000000.0,2017-01-27,R,107.0,"Action,Adventure,Horror,Sci-Fi,Thriller",339.0,8.6,26830068,3104.0
+The House,Warner Bros.,8724795.0,40000000.0,2017-06-30,R,88.0,"Comedy,Crime",185.0,74.8,25584504,3134.0
+Gifted,Fox Searchlight Pictures,446380.0,7000000.0,2017-04-07,PG-13,101.0,Drama,269.0,57.6,24801212,2215.0
+"Three Billboards Outside Ebbing, Missouri",Fox Searchlight Pictures,322168.0,,2017-11-10,R,115.0,"Comedy,Crime,Drama",417.0,34.0,54513740,1726.0
+The Bye Bye Man,STX Entertainment,13501349.0,7400000.0,2017-01-13,PG-13,96.0,"Drama,Fantasy,Horror,Mystery,Thriller",353.0,75.0,22395806,2220.0
+Victoria & Abdul,Focus Features,158845.0,,2017-09-22,PG-13,111.0,"Biography,Drama,History",466.0,33.4,22245070,1060.0
+Rough Night,Sony Pictures Entertainment (SPE),8004283.0,20000000.0,2017-06-16,R,101.0,Comedy,199.0,46.7,22105643,3162.0
+My Little Pony: The Movie,Lionsgate,8885899.0,6500000.0,2017-10-06,PG,99.0,"Adventure,Animation,Comedy,Drama,Family,Fantasy,Musical",91.0,36.3,21885107,2528.0
+Leap!,The Weinstein Company,4730038.0,,2017-08-25,PG,89.0,"Adventure,Animation,Comedy,Family,Music",133.0,99.7,21858070,2705.0
+Sleepless,Open Road Films (II),8344128.0,,2017-01-13,R,95.0,"Action,Crime,Thriller",353.0,63.1,20783704,1803.0
+Diary of a Wimpy Kid: The Long Haul,Twentieth Century Fox,7126084.0,22000000.0,2017-05-19,PG,91.0,"Adventure,Comedy,Family",227.0,51.7,20738724,3174.0
+The Circle,STX Entertainment,9034148.0,18000000.0,2017-04-28,PG-13,110.0,"Drama,Sci-Fi,Thriller",248.0,50.4,20497844,3163.0
+Baahubali 2: The Conclusion,Great India Films,10430497.0,,2017-04-28,,167.0,"Action,Drama",248.0,7.9,20186659,425.0
+CHIPS,Warner Bros.,7722802.0,25000000.0,2017-03-24,R,100.0,"Action,Comedy,Crime",283.0,69.4,18600152,2464.0
+Only the Brave,Sony Pictures Entertainment (SPE),6002665.0,38000000.0,2017-10-20,PG-13,134.0,"Action,Biography,Drama",438.0,69.6,18343983,2577.0
+Darkest Hour,Focus Features,175006.0,,2017-11-22,PG-13,125.0,"Biography,Drama,War",405.0,37.4,56468410,1733.0
+The Disaster Artist,A24,1211345.0,,2017-12-01,R,104.0,"Biography,Comedy,Drama",396.0,70.8,21120616,1010.0
+Mother!,Paramount Pictures,7534673.0,30000000.0,2017-09-15,R,121.0,"Drama,Horror,Mystery",108.0,40.0,17800004,2368.0
+The Zookeeper's Wife,Focus Features,3288835.0,,2017-03-31,PG-13,127.0,"Biography,Drama,History,War",276.0,67.2,17571660,1057.0
+The Glass Castle,Lionsgate,4678548.0,,2017-08-11,PG-13,127.0,"Biography,Drama",143.0,78.2,17273059,1461.0
+Downsizing,Paramount Pictures,4954287.0,68000000.0,2017-12-22,R,135.0,"Drama,Fantasy,Sci-Fi",375.0,44.5,24449754,2668.0
+Flatliners,Sony Pictures Entertainment (SPE),6574326.0,19000000.0,2017-09-29,PG-13,109.0,"Drama,Horror,Mystery,Sci-Fi,Thriller",98.0,37.4,16883115,2552.0
+Detroit,Annapurna Pictures,350190.0,34000000.0,2017-07-28,R,143.0,"Crime,Drama,History,Thriller",157.0,71.9,16790139,3007.0
+The Shape of Water,Fox Searchlight Pictures,166564.0,,2017-12-01,R,123.0,"Drama,Fantasy,Romance",396.0,32.7,63859435,2341.0
+The Case for Christ,Pure Flix Entertainment,3967885.0,,2017-04-07,PG,112.0,"Biography,Drama",269.0,80.8,14682684,1386.0
+Wish Upon,Broad Green Pictures,5467084.0,12000000.0,2017-07-14,PG-13,90.0,"Drama,Fantasy,Horror,Mystery,Thriller",171.0,60.9,14301505,2250.0
+It Comes at Night,A24,5988370.0,,2017-06-09,R,91.0,"Drama,Horror,Mystery,Sci-Fi,Thriller",206.0,70.9,13985117,2533.0
+Born in China,Walt Disney Studios Motion Pictures,4790367.0,,2017-04-21,G,79.0,Documentary,255.0,55.3,13873211,1508.0
+Megan Leavey,Bleecker Street Media,3810867.0,,2017-06-09,PG-13,116.0,"Action,Biography,Drama,War",206.0,92.4,13406883,1956.0
+Father Figures,Warner Bros.,3287451.0,,2017-12-22,R,113.0,"Comedy,Drama",375.0,68.4,17501244,2902.0
+The Founder,The Weinstein Company,3404102.0,,2017-01-19,PG-13,115.0,"Biography,Drama",347.0,53.0,12786053,1115.0
+All the Money in the World,TriStar Pictures,5584684.0,,2017-12-25,R,132.0,"Biography,Crime,Drama,Mystery,Thriller",372.0,44.1,25113707,2123.0
+Battle of the Sexes,Fox Searchlight Pictures,518332.0,,2017-09-22,PG-13,121.0,"Biography,Comedy,Drama,History,Sport",105.0,68.0,12638526,1822.0
+Before I Fall,Open Road Films (II),4690214.0,,2017-03-03,PG-13,98.0,"Drama,Fantasy,Mystery",304.0,74.8,12241122,2346.0
+"Roman J. Israel, Esq.",Sony Pictures Entertainment (SPE),61999.0,22000000.0,2017-11-17,PG-13,122.0,"Crime,Drama,Thriller",410.0,91.8,11962778,1669.0
+Unforgettable,Warner Bros.,4785431.0,12000000.0,2017-04-21,R,100.0,"Drama,Thriller",255.0,64.0,11368012,2417.0
+The Beguiled,Focus Features,229292.0,,2017-06-23,R,93.0,"Drama,Thriller,War",192.0,38.4,10709995,941.0
+Live by Night,Warner Bros.,33336.0,,2016-12-25,R,129.0,"Action,Thriller",372.0,45.8,10378555,2822.0
+The Belko Experiment,BH Tilt,4137230.0,5000000.0,2017-03-17,R,89.0,"Horror,Thriller",290.0,91.7,10166820,1341.0
+Thank You for Your Service,Universal Pictures,3817700.0,20000000.0,2017-10-27,R,109.0,"Biography,Drama,War",70.0,95.4,9536300,2083.0
+Marshall,Open Road Films (II),3000805.0,12000000.0,2017-10-13,PG-13,118.0,"Biography,Crime,Drama,History",445.0,99.4,10051659,821.0
+Rock Dog,Lionsgate,3704749.0,,2017-02-24,PG,90.0,"Adventure,Animation,Comedy,Family,Music",311.0,40.7,9420546,2077.0
+The Lost City of Z,Bleecker Street Media,110175.0,,2017-04-14,PG-13,141.0,"Adventure,Biography,Drama,History",262.0,44.5,8580410,866.0
+The Promise,Open Road Films (II),4095718.0,90000000.0,2017-04-21,PG-13,133.0,"Action,Adventure,Drama,History,War",255.0,66.1,8224288,2251.0
+A Cure for Wellness,Twentieth Century Fox,4356941.0,40000000.0,2017-02-17,R,146.0,"Drama,Fantasy,Horror,Mystery,Sci-Fi,Thriller",318.0,30.5,8106986,2704.0
+The Space Between Us,STX Entertainment,3775596.0,30000000.0,2017-02-03,PG-13,,"Drama,Romance,Sci-Fi",332.0,49.0,7885294,2812.0
+Gold,The Weinstein Company,3471316.0,,2017-01-27,R,,"Crime,Drama",339.0,48.6,7227038,2166.0
+Let There Be Light,Atlas Distribution Company,1729535.0,,2017-10-27,PG-13,100.0,Drama,431.0,100.0,7233471,774.0
+I Am Not Your Negro,Magnolia Pictures,686378.0,,2017-02-03,PG-13,93.0,"Documentary,History",332.0,85.4,7123919,320.0
+Beatriz at Dinner,Roadside Attractions,141959.0,,2017-06-09,R,82.0,"Comedy,Drama",206.0,95.8,7115854,683.0
+Birth of the Dragon,BH Tilt,2702430.0,,2017-08-25,PG-13,95.0,"Action,Biography,Drama",129.0,95.7,6901965,1633.0
+Silence,Paramount Pictures,130880.0,,2016-12-23,R,161.0,"Drama,History",374.0,29.8,7100177,1580.0
+The Snowman,Universal Pictures,3372565.0,35000000.0,2017-10-20,R,119.0,"Crime,Drama,Thriller",77.0,15.5,6700035,1815.0
+Same Kind of Different as Me,Pure Flix Entertainment,2591985.0,,2017-10-20,PG-13,119.0,"Biography,Drama",438.0,100.0,6423605,1362.0
+Lowriders,BH Tilt,2403885.0,,2017-05-12,PG-13,98.0,"Adventure,Crime,Drama",234.0,99.9,6303560,365.0
+Loving Vincent,Good Deed Entertainment,23180.0,,2017-09-22,PG-13,94.0,"Animation,Biography,Crime,Drama,Mystery",466.0,16.0,6735118,218.0
+Maudie,Sony Pictures Classics,45920.0,,2017-04-14,PG-13,115.0,"Biography,Drama,Romance",266.0,63.4,6170998,233.0
+Just Getting Started,Broad Green Pictures,3201459.0,22000000.0,2017-12-08,PG-13,91.0,"Comedy,Crime",389.0,79.5,6069605,2161.0
+All Saints,Affirm Films,1514278.0,2000000.0,2017-08-25,PG,108.0,Drama,129.0,97.6,5802208,846.0
+Suburbicon,Paramount Pictures,2840246.0,,2017-10-27,R,105.0,"Comedy,Crime,Drama,Thriller",70.0,45.3,5775178,2046.0
+Paris Can Wait,Sony Pictures Classics,98850.0,,2017-05-12,PG,92.0,"Comedy,Drama,Romance",234.0,42.5,5617731,447.0
+The Man Who Invented Christmas,Bleecker Street Media,1357129.0,,2017-11-22,PG,104.0,"Biography,Comedy,Drama",405.0,69.9,5676486,720.0
+20th Century Women,A24,111200.0,,2016-12-28,R,119.0,"Comedy,Drama",369.0,78.5,5664764,650.0
+Molly's Game,STX Entertainment,2349967.0,,2017-12-25,R,140.0,"Biography,Crime,Drama",372.0,48.5,28780744,1708.0
+The Florida Project,A24,157553.0,,2017-10-06,R,111.0,Drama,452.0,53.9,5904366,229.0
+Your Name.,FUNimation Entertainment,1813781.0,,2017-04-07,PG,106.0,"Animation,Drama,Fantasy,Romance",269.0,1.4,5017246,311.0
+Tiger Zinda Hai,Yash Raj Films,1787108.0,20470000.0,2017-12-22,,161.0,"Action,Adventure,Thriller",375.0,6.4,5560921,299.0
+Call Me by Your Name,Sony Pictures Classics,412932.0,,2017-11-24,R,132.0,"Drama,Romance",403.0,43.2,18095701,914.0
+The Book of Henry,Focus Features,1424540.0,,2017-06-16,PG-13,105.0,"Crime,Drama,Thriller",199.0,98.0,4504974,650.0
+Stronger,Roadside Attractions,1611040.0,,2017-09-22,R,119.0,"Biography,Drama",105.0,49.5,4211129,645.0
+The Hero,The Orchard,45317.0,,2017-06-09,R,96.0,"Drama,Romance,Western",206.0,99.4,4077333,447.0
+Sleight,BH Tilt,1701785.0,250000.0,2017-04-28,R,89.0,"Crime,Drama,Sci-Fi",248.0,99.9,3986245,591.0
+A United Kingdom,Fox Searchlight Pictures,66510.0,,2017-02-10,PG-13,111.0,"Biography,Drama,History,Romance",325.0,27.0,3902185,317.0
+Norman,Sony Pictures Classics,99211.0,,2017-04-14,R,118.0,"Drama,Thriller",262.0,61.4,3814868,373.0
+Friend Request,Entertainment Studios Motion Pictures,2002863.0,9900000.0,2017-09-22,R,92.0,"Horror,Mystery,Thriller",105.0,34.3,3759078,2573.0
+A Monster Calls,Focus Features,30909.0,,2016-12-23,PG-13,108.0,"Adventure,Drama,Family,Fantasy,Thriller",374.0,7.9,3740823,1523.0
+Table 19,Fox Searchlight Pictures,1597928.0,,2017-03-03,PG-13,87.0,"Comedy,Drama,Romance",304.0,71.7,3614896,868.0
+Their Finest,STX Entertainment,76197.0,,2017-04-07,R,117.0,"Comedy,Drama,Romance,War",269.0,28.6,3603484,330.0
+Phoenix Forgotten,Cinelou Films,1816499.0,2800000.0,2017-04-21,PG-13,87.0,"Horror,Mystery,Sci-Fi,Thriller",255.0,100.0,3600146,1626.0
+An Inconvenient Sequel: Truth to Power,Paramount Pictures,124823.0,1000000.0,2017-07-28,PG,98.0,Documentary,157.0,64.4,3496795,556.0
+Til Death Do Us Part,Novus,1527289.0,,2017-09-29,PG-13,101.0,Thriller,98.0,100.0,3455267,562.0
+Raees,Zee TV,1798379.0,,2017-01-25,,143.0,"Action,Crime,Drama",341.0,38.7,3262954,265.0
+Close Encounters of the Third Kind,Sony Pictures Entertainment (SPE),1767758.0,20000000.0,2017-09-01,,138.0,"Drama,Sci-Fi",122.0,100.0,3100479,901.0
+Colossal,Neon,120226.0,,2017-04-07,R,109.0,"Comedy,Drama,Fantasy,Sci-Fi",269.0,66.9,3029287,327.0
+Ingrid Goes West,Neon,135301.0,,2017-08-11,R,98.0,"Comedy,Drama",143.0,96.1,3024308,647.0
+The Oscar Nominated Short Films 2017: Live Action,Shorts International,692399.0,,2017-02-10,,132.0,Drama,325.0,98.5,2835355,272.0
+Kedi,Oscilloscope,40103.0,,2017-02-10,,79.0,Documentary,329.0,56.3,2835047,130.0
+Wolf Warrior 2,The H Collective,219022.0,30100000.0,2017-07-28,,123.0,"Action,Adventure,Drama,Thriller,War",157.0,0.3,2721100,53.0
+My Cousin Rachel,Fox Searchlight Pictures,969941.0,,2017-06-09,PG-13,106.0,"Drama,Mystery,Romance,Thriller",206.0,29.5,2716368,531.0
+Showtime Championship Boxing: Floyd Mayweather vs. Conor McGregor,Fathom Events,2620183.0,,2017-08-26,,,Sport,128.0,82.3,2620183,532.0
+A Question of Faith,Pure Flix Entertainment,1025489.0,,2017-09-29,PG,104.0,Drama,98.0,100.0,2587072,661.0
+Is Genesis History?,Fathom Events,,,2017-02-23,,100.0,Documentary,312.0,100.0,2570392,704.0
+Disney's Newsies: The Broadway Musical!,Fathom Events,1333538.0,,2017-02-18,PG,149.0,Musical,317.0,100.0,2545060,780.0
+IN OUR HANDS: Battle for Jerusalem,Fathom Events,,,2017-05-23,,109.0,Documentary,223.0,100.0,2534370,733.0
+Black Panther,Walt Disney Studios Motion Pictures,202003951.0,,2018-02-16,PG-13,134.0,"Action,Adventure,Sci-Fi",319.0,52.0,700059566,4084.0
+Avengers: Infinity War,Walt Disney Studios Motion Pictures,257698183.0,,2018-04-27,PG-13,149.0,"Action,Adventure,Sci-Fi",249.0,33.1,678815482,4474.0
+Incredibles 2,Walt Disney Studios Motion Pictures,182687905.0,,2018-06-15,PG,118.0,"Action,Adventure,Animation,Comedy,Family,Sci-Fi",203.0,49.0,608581744,4410.0
+Jurassic World: Fallen Kingdom,Universal Pictures,148024610.0,170000000.0,2018-06-22,PG-13,128.0,"Action,Adventure,Sci-Fi",193.0,31.9,417719760,4485.0
+Deadpool 2,Twentieth Century Fox,125507153.0,110000000.0,2018-05-18,R,119.0,"Action,Adventure,Comedy,Sci-Fi",228.0,43.4,318491426,4349.0
+The Grinch,Universal Pictures,67572855.0,75000000.0,2018-11-09,PG,85.0,"Adventure,Animation,Comedy,Family,Fantasy,Musical",418.0,52.9,270620950,4141.0
+Mission: Impossible - Fallout,Paramount Pictures,61236534.0,178000000.0,2018-07-27,PG-13,147.0,"Action,Adventure,Thriller",158.0,27.8,220159104,4395.0
+Ant-Man and the Wasp,Walt Disney Studios Motion Pictures,75812205.0,,2018-07-06,PG-13,118.0,"Action,Adventure,Comedy,Sci-Fi",179.0,34.8,216648740,4206.0
+Solo: A Star Wars Story,Walt Disney Studios Motion Pictures,84420489.0,275000000.0,2018-05-25,PG-13,135.0,"Action,Adventure,Sci-Fi",221.0,54.4,213767512,4381.0
+Venom,Sony Pictures Entertainment (SPE),80255756.0,100000000.0,2018-10-05,PG-13,112.0,"Action,Adventure,Sci-Fi",453.0,24.9,213515506,4250.0
+A Star Is Born,Warner Bros.,42908051.0,36000000.0,2018-10-05,R,136.0,"Drama,Music,Romance",453.0,49.4,215288866,3904.0
+Aquaman,Warner Bros.,67873522.0,,2018-12-21,PG-13,143.0,"Action,Adventure,Fantasy,Sci-Fi",376.0,29.2,335061807,4184.0
+Bohemian Rhapsody,Twentieth Century Fox,51061119.0,52000000.0,2018-11-02,PG-13,134.0,"Biography,Drama,Music",425.0,24.0,216428042,4000.0
+A Quiet Place,Paramount Pictures,50203562.0,17000000.0,2018-04-06,PG-13,90.0,"Drama,Horror,Sci-Fi",270.0,55.1,188024361,3808.0
+Ralph Breaks the Internet,Walt Disney Studios Motion Pictures,56237634.0,175000000.0,2018-11-21,PG,112.0,"Adventure,Animation,Comedy,Family,Fantasy,Sci-Fi",406.0,38.0,201091711,4017.0
+Crazy Rich Asians,Warner Bros.,26510140.0,30000000.0,2018-08-15,PG-13,,"Comedy,Drama,Romance",504.0,73.2,174532921,3865.0
+Hotel Transylvania 3: Summer Vacation,Sony Pictures Entertainment (SPE),44076225.0,80000000.0,2018-07-13,PG,97.0,"Adventure,Animation,Comedy,Family,Fantasy",175.0,31.7,167510016,4267.0
+Halloween,Universal Pictures,76221545.0,10000000.0,2018-10-19,R,106.0,"Crime,Horror,Thriller",439.0,62.4,159342015,3990.0
+Fantastic Beasts: The Crimes of Grindelwald,Warner Bros.,62163104.0,200000000.0,2018-11-16,PG-13,134.0,"Adventure,Family,Fantasy",411.0,24.4,159555901,4163.0
+The Meg,Warner Bros.,45402195.0,130000000.0,2018-08-10,PG-13,113.0,"Action,Horror,Sci-Fi,Thriller",147.0,27.4,145443742,4118.0
+Ocean's Eight,Warner Bros.,41607378.0,70000000.0,2018-06-08,PG-13,110.0,"Action,Comedy,Crime,Thriller",207.0,47.1,140218711,4145.0
+Ready Player One,Warner Bros.,41764050.0,175000000.0,2018-03-29,PG-13,140.0,"Action,Adventure,Sci-Fi",278.0,23.6,137690172,4234.0
+Mamma Mia! Here We Go Again,Universal Pictures,34952180.0,75000000.0,2018-07-20,PG-13,114.0,"Comedy,Musical,Romance",165.0,30.5,120634935,3514.0
+The Nun,Warner Bros.,53807379.0,22000000.0,2018-09-07,R,96.0,"Horror,Mystery,Thriller",119.0,32.1,117450119,3876.0
+Peter Rabbit,Sony Pictures Entertainment (SPE),25010928.0,50000000.0,2018-02-09,PG,95.0,"Adventure,Animation,Comedy,Crime,Drama,Family,Fantasy",326.0,32.8,115253424,3725.0
+Creed II,Metro-Goldwyn-Mayer (MGM),35574710.0,50000000.0,2018-11-21,PG-13,130.0,"Drama,Sport",406.0,54.0,115715889,3752.0
+Spider-Man: Into the Spider-Verse,Sony Pictures Entertainment (SPE),35363376.0,,2018-12-14,PG,117.0,"Action,Adventure,Animation,Comedy,Family,Fantasy,Sci-Fi",383.0,50.7,190241310,3813.0
+Mary Poppins Returns,Walt Disney Studios Motion Pictures,23523121.0,130000000.0,2018-12-19,PG,130.0,"Adventure,Comedy,Family,Fantasy,Musical",378.0,49.2,171958438,4090.0
+The Equalizer 2,Sony Pictures Entertainment (SPE),36011640.0,62000000.0,2018-07-20,R,121.0,"Action,Crime,Thriller",165.0,53.6,102084362,3388.0
+Rampage,Warner Bros.,35753093.0,120000000.0,2018-04-13,PG-13,107.0,"Action,Adventure,Sci-Fi",263.0,23.6,101028233,4115.0
+A Wrinkle in Time,Walt Disney Studios Motion Pictures,33123609.0,,2018-03-09,PG,109.0,"Adventure,Family,Fantasy,Sci-Fi",298.0,75.7,100478608,3980.0
+Fifty Shades Freed,Universal Pictures,38560195.0,55000000.0,2018-02-09,R,105.0,"Drama,Romance,Thriller",326.0,27.0,100407760,3768.0
+Christopher Robin,Walt Disney Studios Motion Pictures,24585139.0,75000000.0,2018-08-03,PG,104.0,"Adventure,Animation,Comedy,Drama,Family,Fantasy",154.0,50.2,99215042,3602.0
+I Can Only Imagine,Roadside Attractions,17108914.0,7000000.0,2018-03-16,PG,110.0,"Biography,Drama,Family,Music",291.0,97.0,83482352,2894.0
+Smallfoot,Warner Bros.,23045635.0,,2018-09-28,PG,96.0,"Adventure,Animation,Comedy,Drama,Family,Fantasy,Musical",460.0,38.9,83240103,4131.0
+The Post,Twentieth Century Fox,526011.0,50000000.0,2017-12-22,PG-13,116.0,Drama,375.0,45.6,81903458,2851.0
+Night School,Universal Pictures,27257615.0,29000000.0,2018-09-28,PG-13,111.0,Comedy,460.0,75.0,77339130,3019.0
+Bumblebee,Paramount Pictures,21654047.0,135000000.0,2018-12-21,PG-13,114.0,"Action,Adventure,Sci-Fi",376.0,27.2,127195589,3597.0
+The First Purge,Universal Pictures,17374280.0,13000000.0,2018-07-04,R,97.0,"Action,Horror,Sci-Fi,Thriller",181.0,50.7,69488745,3038.0
+Game Night,Warner Bros.,17005332.0,37000000.0,2018-02-23,R,100.0,"Action,Comedy,Crime,Thriller",312.0,58.8,69179066,3502.0
+Book Club,Paramount Pictures,13582231.0,,2018-05-18,PG-13,104.0,"Comedy,Drama,Romance",228.0,65.7,68566296,3169.0
+The House with a Clock in Its Walls,Universal Pictures,26608020.0,42000000.0,2018-09-21,PG,105.0,"Comedy,Family,Fantasy,Mystery,Sci-Fi",467.0,52.1,68549695,3592.0
+Skyscraper,Universal Pictures,24905015.0,125000000.0,2018-07-13,PG-13,102.0,"Action,Adventure,Thriller",172.0,22.4,68420120,3822.0
+Insidious: The Last Key,Universal Pictures,29581355.0,10000000.0,2018-01-05,PG-13,103.0,"Horror,Mystery,Thriller",361.0,40.4,67745330,3150.0
+Instant Family,Paramount Pictures,14504315.0,48000000.0,2018-11-16,PG-13,118.0,"Comedy,Drama",411.0,55.9,67363237,3426.0
+The Mule,Warner Bros.,17509431.0,50000000.0,2018-12-14,R,116.0,"Crime,Drama,Thriller",383.0,59.4,103804407,3329.0
+Blockers,Universal Pictures,20556350.0,21000000.0,2018-04-06,R,102.0,Comedy,270.0,64.1,60311495,3418.0
+Pacific Rim: Uprising,Universal Pictures,28116535.0,150000000.0,2018-03-23,PG-13,111.0,"Action,Adventure,Sci-Fi",284.0,20.6,59874525,3708.0
+Tomb Raider,Warner Bros.,23633317.0,94000000.0,2018-03-16,PG-13,119.0,"Action,Adventure,Fantasy,Thriller",291.0,21.2,58250803,3854.0
+Maze Runner: The Death Cure,Twentieth Century Fox,24167011.0,62000000.0,2018-01-26,PG-13,143.0,"Action,Adventure,Sci-Fi,Thriller",340.0,20.1,58032443,3793.0
+Tag,Warner Bros.,14947396.0,28000000.0,2018-06-15,R,100.0,"Action,Comedy",200.0,70.1,54730625,3382.0
+The Nutcracker and the Four Realms,Walt Disney Studios Motion Pictures,20352491.0,120000000.0,2018-11-02,PG,99.0,"Adventure,Family,Fantasy",425.0,31.5,54858851,3766.0
+A Simple Favor,Lionsgate,16011689.0,20000000.0,2018-09-14,R,117.0,"Comedy,Crime,Mystery,Thriller",112.0,54.8,53548586,3102.0
+Life of the Party,Warner Bros.,17886075.0,,2018-05-11,PG-13,105.0,Comedy,235.0,80.6,53059911,3656.0
+The Predator,Twentieth Century Fox,24632284.0,88000000.0,2018-09-14,R,107.0,"Action,Adventure,Sci-Fi",112.0,31.8,51024708,4070.0
+Overboard,Pantelion Films,14711101.0,12000000.0,2018-05-04,PG-13,112.0,"Comedy,Romance",242.0,55.1,50316123,2006.0
+Sicario: Day of the Soldado,Sony Pictures Entertainment (SPE),19007566.0,35000000.0,2018-06-29,R,122.0,"Action,Adventure,Crime,Drama,Mystery,Thriller",186.0,66.0,50072235,3055.0
+I Feel Pretty,STX Entertainment,16030218.0,32000000.0,2018-04-20,PG-13,110.0,"Comedy,Romance",256.0,51.6,48795601,3440.0
+BlacKkKlansman,Focus Features,10845330.0,15000000.0,2018-08-10,R,135.0,"Biography,Comedy,Crime,Drama",509.0,52.8,49275340,1914.0
+Red Sparrow,Twentieth Century Fox,16853422.0,69000000.0,2018-03-02,R,140.0,"Action,Drama,Thriller",305.0,30.9,46874505,3064.0
+Breaking In,Universal Pictures,17630285.0,6000000.0,2018-05-11,PG-13,88.0,"Action,Thriller",235.0,91.1,46840590,2537.0
+Goosebumps 2: Haunted Halloween,Sony Pictures Entertainment (SPE),15802225.0,35000000.0,2018-10-12,PG,90.0,"Adventure,Comedy,Fantasy,Horror",84.0,50.0,46700633,3723.0
+12 Strong,Warner Bros.,15815025.0,,2018-01-19,R,130.0,"Action,Drama,History,War",347.0,67.9,45819713,3018.0
+Den of Thieves,STX Entertainment,15206108.0,,2018-01-19,R,140.0,"Action,Crime,Drama,Thriller",347.0,55.8,44947622,2432.0
+First Man,Universal Pictures,16006065.0,59000000.0,2018-10-12,PG-13,141.0,"Biography,Drama,History",446.0,42.5,44936545,3640.0
+Hereditary,A24,13575172.0,,2018-06-08,R,127.0,"Drama,Horror,Mystery,Thriller",207.0,54.9,44069456,2998.0
+Acrimony,Lionsgate,17170707.0,,2018-03-30,R,,Thriller,277.0,93.8,43549096,2006.0
+Sherlock Gnomes,Paramount Pictures,10604774.0,59000000.0,2018-03-23,PG,86.0,"Adventure,Animation,Comedy,Family,Fantasy,Musical,Mystery,Romance",284.0,47.8,43242871,3662.0
+Uncle Drew,Lionsgate,15242781.0,,2018-06-29,PG-13,103.0,"Comedy,Sport",186.0,91.0,42469946,2742.0
+Widows,Twentieth Century Fox,12361307.0,42000000.0,2018-11-16,R,129.0,"Crime,Drama,Thriller",411.0,55.8,42402632,2803.0
+Truth or Dare,Universal Pictures,18667855.0,3500000.0,2018-04-13,PG-13,100.0,"Horror,Thriller",263.0,43.4,41411015,3068.0
+Paddington 2,Warner Bros.,11001961.0,,2018-01-12,PG,103.0,"Adventure,Comedy,Family,Fantasy",354.0,17.9,40891591,3702.0
+"Love, Simon",Twentieth Century Fox,11756244.0,17000000.0,2018-03-16,PG-13,110.0,"Comedy,Drama,Romance",291.0,61.6,40826341,2434.0
+The Commuter,Lionsgate,13701452.0,,2018-01-12,PG-13,104.0,"Action,Mystery,Thriller",354.0,30.3,36343858,2892.0
+The 15:17 to Paris,Warner Bros.,12554286.0,30000000.0,2018-02-09,PG-13,94.0,"Biography,Drama,Thriller",326.0,63.6,36276286,3042.0
+Mile 22,STX Entertainment,13710825.0,50000000.0,2018-08-17,R,94.0,"Action,Thriller",137.0,54.5,36108758,3520.0
+Alpha,Studio 8,10352512.0,51000000.0,2018-08-17,PG-13,96.0,"Action,Adventure,Drama",140.0,36.5,35857181,2881.0
+Peppermint,STX Entertainment,13423255.0,25000000.0,2018-09-07,R,101.0,Thriller,116.0,65.7,35418723,2980.0
+Death Wish,Metro-Goldwyn-Mayer (MGM),13010267.0,30000000.0,2018-03-02,R,107.0,"Action,Crime,Drama,Thriller",305.0,68.6,34017028,2882.0
+The Spy Who Dumped Me,Lionsgate,12103043.0,40000000.0,2018-08-03,R,117.0,"Action,Adventure,Comedy",151.0,44.6,33562069,3111.0
+Annihilation,Paramount Pictures,11071584.0,40000000.0,2018-02-23,R,115.0,"Adventure,Drama,Horror,Mystery,Sci-Fi,Thriller",312.0,76.0,32732301,2112.0
+Green Book,Universal Pictures,320429.0,23000000.0,2018-11-16,PG-13,130.0,"Biography,Comedy,Drama,Music",411.0,26.4,85080171,2648.0
+Isle of Dogs,Fox Searchlight Pictures,1620294.0,,2018-03-23,PG-13,101.0,"Adventure,Animation,Comedy,Drama,Sci-Fi",284.0,49.8,32015231,1947.0
+Nobody's Fool,Paramount Pictures,13743111.0,19000000.0,2018-11-02,R,110.0,"Comedy,Drama,Romance",63.0,94.1,31713110,2468.0
+Adrift,STX Entertainment,11603039.0,35000000.0,2018-06-01,PG-13,96.0,"Action,Adventure,Biography,Drama,Romance,Thriller",214.0,52.5,31445012,3015.0
+Robin Hood,Lionsgate,9195670.0,100000000.0,2018-11-21,PG-13,116.0,"Action,Adventure,Drama,Thriller",406.0,35.6,30824628,2827.0
+Super Troopers 2,Twentieth Century Fox,15181624.0,13500000.0,2018-04-20,R,100.0,"Comedy,Crime,Mystery",256.0,96.8,30617396,2125.0
+Slender Man,Screen Gems,11371866.0,10000000.0,2018-08-10,PG-13,93.0,"Horror,Mystery,Thriller",144.0,59.1,30569484,2358.0
+Teen Titans GO! To the Movies,Warner Bros.,10411189.0,10000000.0,2018-07-27,PG,84.0,"Action,Adventure,Animation,Comedy,Family,Fantasy,Musical,Sci-Fi",158.0,57.2,29790236,3188.0
+Hostiles,Entertainment Studios Motion Pictures,22849.0,,2017-12-22,R,134.0,"Drama,Western",375.0,83.6,29819114,2934.0
+The Hate U Give,Twentieth Century Fox,512035.0,23000000.0,2018-10-05,PG-13,133.0,"Crime,Drama",453.0,85.1,29719483,2375.0
+"I, Tonya",Neon,264155.0,,2017-12-08,R,119.0,"Biography,Comedy,Drama,Sport",389.0,55.6,30014539,1450.0
+Searching,Screen Gems,388769.0,,2018-08-24,PG-13,102.0,"Drama,Mystery,Thriller",133.0,34.5,26020957,2009.0
+Winchester,Lionsgate,9307626.0,,2018-02-02,PG-13,99.0,"Drama,Fantasy,Horror,Mystery,Thriller",333.0,57.0,25091816,2480.0
+The Strangers: Prey at Night,Aviron Pictures,10402271.0,,2018-03-09,R,85.0,Horror,298.0,79.2,24586708,2464.0
+White Boy Rick,Studio 8,8860431.0,29000000.0,2018-09-14,R,111.0,"Crime,Drama",112.0,92.5,24011188,2504.0
+Second Act,STX Entertainment,6489983.0,16000000.0,2018-12-21,PG-13,103.0,"Comedy,Drama,Romance",376.0,54.3,39282227,2607.0
+Won't You Be My Neighbor?,Focus Features,475419.0,,2018-06-08,PG-13,95.0,"Biography,Documentary",207.0,100.0,22835787,893.0
+Overlord,Paramount Pictures,10202108.0,38000000.0,2018-11-09,R,110.0,"Action,Horror,Sci-Fi,War",56.0,52.1,21704844,2859.0
+Holmes & Watson,Sony Pictures Entertainment (SPE),7411522.0,42000000.0,2018-12-25,PG-13,90.0,"Comedy,Crime,Mystery",372.0,75.6,30573626,2780.0
+Proud Mary,Screen Gems,9959053.0,14000000.0,2018-01-12,R,89.0,"Action,Crime,Drama,Thriller",354.0,96.0,20877013,2125.0
+The Happytime Murders,STX Entertainment,9532425.0,40000000.0,2018-08-24,R,91.0,"Action,Comedy,Crime,Fantasy,Mystery,Thriller",130.0,75.3,20706452,3256.0
+Phantom Thread,Focus Features,216495.0,,2017-12-25,R,130.0,"Drama,Romance",372.0,44.4,21198205,1186.0
+SuperFly,Sony Pictures Entertainment (SPE),6870740.0,16000000.0,2018-06-13,R,116.0,"Action,Crime,Thriller",202.0,98.9,20545116,2220.0
+Vice,Annapurna Pictures,7768371.0,,2018-12-25,R,132.0,"Biography,Comedy,Drama",372.0,62.9,47836282,2534.0
+Show Dogs,Global Road Entertainment,6023972.0,,2018-05-18,PG,92.0,"Adventure,Comedy,Crime,Family",228.0,45.6,17857020,3212.0
+Bad Times at the El Royale,Twentieth Century Fox,7132647.0,32000000.0,2018-10-12,R,141.0,"Crime,Drama,Mystery,Thriller",84.0,56.0,17839115,2808.0
+Operation Finale,Metro-Goldwyn-Mayer (MGM),6022758.0,24000000.0,2018-08-29,PG-13,122.0,"Biography,Drama,History,Thriller,War",128.0,100.0,17612099,1818.0
+"Paul, Apostle of Christ",Affirm Films,5172585.0,5000000.0,2018-03-23,PG-13,108.0,"Adventure,Biography,Drama,History",284.0,67.8,17560475,1473.0
+Sorry to Bother You,Annapurna Pictures,727266.0,,2018-07-06,R,112.0,"Comedy,Drama,Fantasy,Sci-Fi",179.0,96.3,17493096,1050.0
+Chappaquiddick,Entertainment Studios Motion Pictures,5765854.0,,2018-04-06,PG-13,106.0,"Biography,Drama,History,Thriller",270.0,95.2,17395520,1645.0
+Forever My Girl,Roadside Attractions,4245630.0,3500000.0,2018-01-19,PG,108.0,"Comedy,Drama,Music,Romance",347.0,100.0,16376066,1427.0
+The Favourite,Fox Searchlight Pictures,422410.0,,2018-11-23,R,119.0,"Biography,Comedy,Drama,History",404.0,35.8,34366783,1554.0
+Hunter Killer,Lionsgate,6653777.0,40000000.0,2018-10-26,R,121.0,"Action,Thriller",70.0,49.8,15767460,2728.0
+Mortal Engines,Universal Pictures,7559850.0,,2018-12-14,PG-13,128.0,"Action,Adventure,Fantasy,Sci-Fi,Thriller",383.0,19.1,15951040,3103.0
+The Girl in the Spider's Web,Sony Pictures Entertainment (SPE),7810112.0,43000000.0,2018-11-09,R,115.0,"Action,Crime,Drama,Thriller",56.0,42.2,14841338,2929.0
+The Possession of Hannah Grace,Screen Gems,6401744.0,7700000.0,2018-11-30,R,86.0,"Horror,Mystery,Thriller",397.0,34.5,14837422,2298.0
+RBG,Magnolia Pictures,578470.0,,2018-05-04,PG,98.0,"Biography,Documentary",242.0,97.1,14017361,432.0
+Eighth Grade,A24,263797.0,,2018-07-13,R,93.0,"Comedy,Drama",172.0,94.4,13539709,1084.0
+The Darkest Minds,Twentieth Century Fox,5842609.0,34000000.0,2018-08-03,PG-13,104.0,"Action,Adventure,Drama,Romance,Sci-Fi,Thriller",151.0,30.9,12695691,3127.0
+Three Identical Strangers,Neon,171503.0,,2018-06-29,PG-13,96.0,"Biography,Documentary,Drama,History,Mystery",186.0,91.6,12320845,433.0
+Upgrade,BH Tilt,4670905.0,,2018-06-01,R,100.0,"Action,Sci-Fi,Thriller",214.0,72.2,11977130,1458.0
+Padmaavat,Viva Pictures,4493384.0,,2018-01-25,,164.0,"Drama,History,Romance,War",341.0,51.5,11846060,354.0
+Free Solo,National Geographic Entertainment,294288.0,,2018-09-28,PG-13,100.0,"Adventure,Documentary,Sport",460.0,59.7,17541090,483.0
+The Old Man & the Gun,Fox Searchlight Pictures,142131.0,,2018-09-28,PG-13,93.0,"Biography,Comedy,Crime,Drama,Romance",460.0,63.1,11277120,1042.0
+Hell Fest,Lionsgate,5130963.0,5500000.0,2018-09-28,R,89.0,"Horror,Thriller",98.0,61.2,11107431,2297.0
+The Miracle Season,Mirror/LD Entertainment,3950652.0,,2018-04-06,PG,101.0,"Drama,Sport",270.0,100.0,10230620,1707.0
+Mary Queen of Scots,Focus Features,194777.0,,2018-12-07,R,124.0,"Biography,Drama,History",390.0,35.3,16468499,1052.0
+Midnight Sun,Global Road Entertainment,4003993.0,,2018-03-23,PG-13,91.0,"Drama,Romance",284.0,34.9,9561064,2173.0
+Tully,Focus Features,3282610.0,,2018-05-04,R,95.0,"Comedy,Drama,Mystery",242.0,59.9,9369755,1356.0
+Traffik,Lionsgate,3941338.0,,2018-04-20,R,96.0,Thriller,256.0,96.5,9186156,1046.0
+Unfriended: Dark Web,BH Tilt,3653035.0,1000000.0,2018-07-20,R,92.0,"Horror,Mystery,Thriller",165.0,55.3,8866745,1547.0
+Welcome to Marwen,Universal Pictures,2354205.0,,2018-12-21,PG-13,116.0,"Biography,Comedy,Drama,Fantasy,Romance",376.0,82.4,10763520,1911.0
+Early Man,Lionsgate,3190525.0,,2018-02-16,PG,89.0,"Adventure,Animation,Comedy,Family,Fantasy,Sport",319.0,15.1,8267544,2494.0
+The Wife,Sony Pictures Classics,108284.0,,2018-08-17,R,99.0,Drama,502.0,48.1,9601092,541.0
+The Death of Stalin,IFC Films,184805.0,,2018-03-09,R,107.0,"Comedy,Drama,History",298.0,32.7,8047856,548.0
+They Shall Not Grow Old,Warner Bros.,,,2018-12-17,R,99.0,"Documentary,History,War",380.0,87.6,17956913,1335.0
+Sanju,FIP,2723349.0,,2018-06-29,,155.0,"Biography,Comedy,Drama",186.0,10.3,7909317,359.0
+Unsane,Bleecker Street Media,3762145.0,,2018-03-23,R,98.0,"Drama,Horror,Mystery,Thriller",284.0,54.1,7732899,2023.0
+Beautiful Boy,Amazon Studios,218888.0,,2018-10-12,R,,"Biography,Drama",446.0,46.0,7649973,776.0
+Can You Ever Forgive Me?,Fox Searchlight Pictures,161510.0,,2018-10-19,R,106.0,"Biography,Comedy,Crime,Drama",439.0,70.8,8803865,555.0
+Mid90s,A24,258157.0,,2018-10-19,R,85.0,"Comedy,Drama",77.0,79.1,7362439,1206.0
+Dog Days,LD Entertainment,2554766.0,,2018-08-08,PG,113.0,"Comedy,Drama,Romance",146.0,99.5,6809080,2442.0
+Boy Erased,Focus Features,207057.0,,2018-11-02,R,115.0,"Biography,Drama",425.0,57.3,6788692,672.0
+Hotel Artemis,Global Road Entertainment,3232790.0,,2018-06-08,R,94.0,"Action,Crime,Drama,Sci-Fi,Thriller",207.0,50.4,6708147,2407.0
+A-X-L,Global Road Entertainment,2798229.0,,2018-08-24,PG,100.0,"Action,Adventure,Drama,Family,Sci-Fi,Thriller",130.0,76.8,6501381,1710.0
+Fahrenheit 11/9,Briarcliff Entertainment,3008563.0,,2018-09-21,R,128.0,Documentary,102.0,95.2,6352306,1719.0
+Unbroken: Path to Redemption,Pure Flix Entertainment,2238723.0,,2018-09-14,PG-13,98.0,"Biography,Drama,History",112.0,100.0,6216897,1620.0
+The Hurricane Heist,Entertainment Studios Motion Pictures,3024399.0,35000000.0,2018-03-09,PG-13,103.0,"Action,Adventure,Crime,Thriller",298.0,18.8,6115825,2402.0
+Every Day,Orion Pictures,3016149.0,4900000.0,2018-02-23,PG-13,97.0,"Drama,Fantasy,Romance",312.0,58.6,6102076,1669.0
+Leave No Trace,Bleecker Street Media,219140.0,,2018-06-29,PG,109.0,"Adventure,Drama",186.0,78.7,6046104,361.0
+Once Upon a Deadpool,Twentieth Century Fox,2683200.0,110000000.0,2018-12-12,R,119.0,"Action,Adventure,Comedy,Sci-Fi",385.0,11.9,6100309,1566.0
+Death of a Nation,Quality Flix,2356522.0,6000000.0,2018-08-03,PG-13,108.0,"Documentary,History",151.0,100.0,5885881,1005.0
+Pandas,Warner Bros.,158915.0,,2018-04-06,G,,"Documentary,Short",637.0,99.2,7574012,35.0
+My Hero Academia: Two Heroes,FUNimation Entertainment,1388499.0,,2018-09-25,PG-13,96.0,"Action,Adventure,Animation,Fantasy,Sci-Fi",98.0,27.4,5754556,535.0
+God's Not Dead: A Light in Darkness,Pure Flix Entertainment,2689677.0,,2018-03-30,PG,105.0,Drama,277.0,77.3,5728940,1693.0
+Kin,Lionsgate,3035618.0,,2018-08-31,PG-13,102.0,"Action,Drama,Sci-Fi,Thriller",123.0,55.4,5718096,2141.0
+Colette,Bleecker Street Media,161179.0,,2018-09-21,R,111.0,"Biography,Drama,History,Romance",105.0,36.0,5137622,593.0
+Action Point,Paramount Pictures,2390164.0,19000000.0,2018-06-01,R,85.0,Comedy,214.0,99.1,5059608,2032.0
+Beirut,Bleecker Street Media,1734497.0,,2018-04-11,R,110.0,"Action,Crime,Drama,Thriller",265.0,66.8,5019226,755.0
+Gringo,STX Entertainment,2722420.0,,2018-03-09,R,111.0,"Action,Comedy,Crime,Drama",298.0,45.2,4969853,2404.0
+Samson,Pure Flix Entertainment,1942569.0,,2018-02-16,PG-13,110.0,"Action,Drama",319.0,96.8,4719928,1249.0
+Johnny English Strikes Again,Universal Pictures,1638895.0,25000000.0,2018-10-26,PG,89.0,"Action,Adventure,Comedy",70.0,2.8,4412170,552.0
+Gotti,Vertical Entertainment,1719902.0,,2018-06-15,R,112.0,"Biography,Crime,Drama",200.0,67.7,4343227,503.0
+Blindspotting,Lionsgate,338999.0,,2018-07-20,R,95.0,"Comedy,Crime,Drama",165.0,86.5,4333394,523.0
+Burn the Stage: The Movie,Trafalgar Releasing,2420197.0,,2018-11-15,,84.0,"Documentary,Music",50.0,20.7,4201819,645.0
+Ya veremos,Pantelion Films,1803848.0,,2018-08-31,PG-13,85.0,Drama,123.0,29.5,4165949,369.0
+Life Itself,Amazon Studios,2123463.0,,2018-09-21,R,117.0,"Drama,Romance",105.0,51.3,4102648,2609.0
+Sgt. Stubby: An American Hero,Fun Academy Motion Pictures,1164403.0,,2018-04-13,PG,84.0,"Adventure,Animation,Family,History,War",628.0,81.4,4015935,1633.0
+Gosnell: The Trial of America's Biggest Serial Killer,GVN Releasing,1162988.0,,2018-10-12,PG-13,93.0,"Crime,Drama",84.0,100.0,3679893,673.0
+Indivisible,Pure Flix Entertainment,1503101.0,,2018-10-26,PG-13,119.0,"Drama,War",432.0,97.8,3511417,830.0
+The Oscar Nominated Short Films 2018: Live Action,Shorts International,695044.0,,2018-02-09,,96.0,"Action,Drama",326.0,99.9,3508777,272.0
+Disobedience,Bleecker Street Media,237393.0,,2018-04-27,R,114.0,"Drama,Romance",249.0,43.7,3498782,247.0
+First Reformed,A24,97562.0,,2018-05-18,R,113.0,"Drama,Mystery,Thriller",228.0,89.3,3448256,334.0
+"Juliet, Naked",Roadside Attractions,60886.0,,2018-08-17,R,97.0,"Comedy,Drama,Music,Romance",137.0,76.4,3444895,467.0
+Bad Samaritan,Electric Entertainment,1726868.0,,2018-05-04,R,110.0,"Crime,Horror,Thriller",242.0,74.3,3435047,2007.0
+7 Days in Entebbe,Focus Features,1592645.0,,2018-03-16,PG-13,107.0,"Action,Drama,History,Thriller",291.0,37.9,3326885,838.0
+2001: A Space Odyssey,Warner Bros.,202759.0,12000000.0,2018-05-18,,149.0,"Adventure,Sci-Fi",228.0,79.2,3236321,13.0
+2.0,,2775000.0,,2018-11-30,,148.0,"Action,Sci-Fi,Thriller",35.0,11.2,4152000,314.0
+The Leisure Seeker,Sony Pictures Classics,,,2017-12-15,R,112.0,"Adventure,Comedy,Drama,Romance",382.0,30.8,3226443,353.0
+The Sisters Brothers,Annapurna Pictures,115575.0,,2018-09-21,R,122.0,"Crime,Drama,Western",105.0,23.9,3143056,1141.0
+Avengers: Endgame,Walt Disney Studios Motion Pictures,357115007.0,356000000.0,2019-04-26,PG-13,181.0,"Action,Adventure,Drama,Sci-Fi",250.0,30.7,858373000,4662.0
+The Lion King,Walt Disney Studios Motion Pictures,191770759.0,260000000.0,2019-07-19,PG,118.0,"Adventure,Animation,Drama,Family,Musical",168.0,32.8,543638043,4802.0
+Toy Story 4,Walt Disney Studios Motion Pictures,120908065.0,200000000.0,2019-06-21,G,100.0,"Adventure,Animation,Comedy,Family,Fantasy",196.0,40.4,434038008,4575.0
+Frozen II,Walt Disney Studios Motion Pictures,130263358.0,150000000.0,2019-11-22,PG,103.0,"Adventure,Animation,Comedy,Family,Fantasy,Musical",406.0,32.9,477373578,4440.0
+Captain Marvel,Walt Disney Studios Motion Pictures,153433423.0,160000000.0,2019-03-08,PG-13,123.0,"Action,Adventure,Sci-Fi",299.0,37.8,426829839,4310.0
+Star Wars: Episode IX - The Rise of Skywalker,Walt Disney Studios Motion Pictures,177383864.0,275000000.0,2019-12-20,PG-13,141.0,"Action,Adventure,Fantasy,Sci-Fi",378.0,48.0,515202542,4406.0
+Spider-Man: Far from Home,Sony Pictures Entertainment (SPE),92579212.0,160000000.0,2019-07-02,PG-13,129.0,"Action,Adventure,Sci-Fi",183.0,34.5,390532085,4634.0
+Aladdin,Walt Disney Studios Motion Pictures,91500929.0,183000000.0,2019-05-24,PG,128.0,"Adventure,Comedy,Family,Fantasy,Musical,Romance",222.0,33.8,355559216,4476.0
+Joker,Warner Bros.,96202337.0,55000000.0,2019-10-04,R,122.0,"Crime,Drama,Thriller",455.0,31.2,335451311,4374.0
+It Chapter Two,Warner Bros.,91062152.0,79000000.0,2019-09-06,R,169.0,"Drama,Fantasy,Horror",119.0,44.7,211593228,4570.0
+Jumanji: The Next Level,Sony Pictures Entertainment (SPE),59251543.0,125000000.0,2019-12-13,PG-13,123.0,"Action,Adventure,Comedy,Fantasy",385.0,40.0,320314960,4227.0
+Us,Universal Pictures,71117625.0,20000000.0,2019-03-22,R,116.0,"Horror,Mystery,Thriller",287.0,68.6,175084580,3743.0
+Fast & Furious Presents: Hobbs & Shaw,Universal Pictures,60038950.0,200000000.0,2019-08-02,,137.0,"Action,Adventure,Thriller",154.0,22.9,173956935,4344.0
+John Wick: Chapter 3 - Parabellum,Lionsgate,56818067.0,75000000.0,2019-05-17,R,130.0,"Action,Crime,Thriller",229.0,52.3,171015687,3850.0
+How to Train Your Dragon: The Hidden World,Universal Pictures,55022245.0,129000000.0,2019-02-22,PG,104.0,"Action,Adventure,Animation,Comedy,Family,Fantasy",313.0,30.8,160799505,4286.0
+The Secret Life of Pets 2,Universal Pictures,46652680.0,80000000.0,2019-06-07,PG,86.0,"Adventure,Animation,Comedy,Family",210.0,36.9,158874395,4564.0
+Pokémon Detective Pikachu,Warner Bros.,54365242.0,150000000.0,2019-05-10,PG,104.0,"Action,Adventure,Comedy,Family,Mystery,Sci-Fi",236.0,33.3,144105346,4248.0
+Once Upon a Time... In Hollywood,Sony Pictures Entertainment (SPE),41082018.0,90000000.0,2019-07-26,R,161.0,"Comedy,Drama",525.0,38.1,142502728,3659.0
+Shazam!,Warner Bros.,53505326.0,100000000.0,2019-04-05,PG-13,132.0,"Action,Adventure,Comedy,Fantasy",271.0,38.4,140371656,4306.0
+Knives Out,Lionsgate,26769548.0,40000000.0,2019-11-27,PG-13,130.0,"Comedy,Crime,Drama,Mystery,Thriller",401.0,53.1,165363234,3461.0
+Dumbo,Walt Disney Studios Motion Pictures,45990748.0,170000000.0,2019-03-29,PG,112.0,"Adventure,Family,Fantasy",278.0,32.5,114766307,4259.0
+Maleficent: Mistress of Evil,Walt Disney Studios Motion Pictures,36948713.0,185000000.0,2019-10-18,PG,119.0,"Adventure,Family,Fantasy",441.0,23.2,113929605,3820.0
+Glass,Universal Pictures,40328920.0,20000000.0,2019-01-18,PG-13,129.0,"Drama,Sci-Fi,Thriller",350.0,45.0,111048468,3844.0
+Godzilla: King of the Monsters,Warner Bros.,47776293.0,170000000.0,2019-05-31,PG-13,132.0,"Action,Adventure,Fantasy,Sci-Fi",215.0,28.6,110500138,4108.0
+The Upside,STX Entertainment,20355000.0,37500000.0,2019-01-11,PG-13,126.0,"Comedy,Drama",355.0,86.0,108252517,3568.0
+Ford v Ferrari,Twentieth Century Fox,31474958.0,97600000.0,2019-11-15,PG-13,152.0,"Action,Biography,Drama,Sport",413.0,52.2,117624357,3746.0
+The Lego Movie 2: The Second Part,Warner Bros.,34115335.0,99000000.0,2019-02-08,PG,107.0,"Adventure,Animation,Comedy,Family,Fantasy,Sci-Fi",327.0,55.0,105806508,4303.0
+Hustlers,STX Entertainment,33181361.0,20000000.0,2019-09-13,R,110.0,"Comedy,Crime,Drama",476.0,66.6,104963598,3525.0
+The Addams Family,United Artists Releasing,30300007.0,24000000.0,2019-10-11,PG,86.0,"Animation,Comedy,Family,Fantasy,Horror",448.0,49.3,100044905,4107.0
+Downton Abbey,Focus Features,31033665.0,13000000.0,2019-09-20,PG,122.0,"Drama,Romance",105.0,50.0,96854135,3548.0
+Rocketman,Paramount Pictures,25725722.0,40000000.0,2019-05-31,R,121.0,"Biography,Drama,Musical",215.0,49.3,96368160,3610.0
+Alita: Battle Angel,Twentieth Century Fox,28525613.0,170000000.0,2019-02-14,PG-13,122.0,"Action,Adventure,Sci-Fi,Thriller",687.0,21.2,85838210,3802.0
+Good Boys,Universal Pictures,21402605.0,20000000.0,2019-08-16,R,90.0,"Adventure,Comedy",140.0,74.9,83140306,3458.0
+Men in Black: International,Sony Pictures Entertainment (SPE),30035838.0,110000000.0,2019-06-14,PG-13,114.0,"Action,Adventure,Comedy,Sci-Fi",201.0,31.5,80001807,4224.0
+Annabelle Comes Home,Warner Bros.,20269723.0,30000000.0,2019-06-26,R,106.0,"Horror,Mystery,Thriller",189.0,32.1,74152591,3613.0
+Yesterday,Universal Pictures,17010050.0,26000000.0,2019-06-28,PG-13,116.0,"Comedy,Fantasy,Music,Romance",187.0,47.4,73286650,2755.0
+A Madea Family Funeral,Lionsgate,27062332.0,20000000.0,2019-03-01,PG-13,109.0,"Comedy,Drama",306.0,98.0,73257045,2442.0
+Zombieland: Double Tap,Sony Pictures Entertainment (SPE),26803104.0,42000000.0,2019-10-18,R,99.0,"Action,Comedy,Horror",441.0,59.5,73123082,3468.0
+Angel Has Fallen,Lionsgate,21380987.0,40000000.0,2019-08-23,R,121.0,"Action,Thriller",131.0,47.1,69030436,3336.0
+Scary Stories to Tell in the Dark,Lionsgate,20915346.0,25000000.0,2019-08-09,PG-13,108.0,"Adventure,Horror,Mystery",145.0,65.9,68947075,3135.0
+X-Men: Dark Phoenix,Twentieth Century Fox,32828348.0,200000000.0,2019-06-07,PG-13,113.0,"Action,Adventure,Sci-Fi",208.0,26.1,65845974,3721.0
+Terminator: Dark Fate,Paramount Pictures,29033832.0,185000000.0,2019-11-01,R,128.0,"Action,Adventure,Sci-Fi",63.0,23.8,62253077,4086.0
+Abominable,Universal Pictures,20612100.0,75000000.0,2019-09-27,PG,97.0,"Adventure,Animation,Comedy,Drama,Family,Fantasy",462.0,33.9,60716390,4248.0
+Dora and the Lost City of Gold,Paramount Pictures,17431588.0,49000000.0,2019-08-09,PG,102.0,"Adventure,Animation,Comedy,Family,Fantasy,Mystery",145.0,50.5,60477943,3735.0
+Escape Room,Sony Pictures Entertainment (SPE),18238172.0,9000000.0,2019-01-04,PG-13,99.0,"Action,Adventure,Horror,Mystery,Sci-Fi,Thriller",362.0,36.6,57005601,2717.0
+A Beautiful Day in the Neighborhood,Sony Pictures Entertainment (SPE),13251238.0,25000000.0,2019-11-22,PG,109.0,"Biography,Drama",406.0,90.8,61704055,3491.0
+Midway,Lionsgate,17897419.0,100000000.0,2019-11-08,PG-13,138.0,"Action,Drama,History,War",420.0,44.6,56846802,3242.0
+The Curse of La Llorona,Warner Bros.,26347631.0,9000000.0,2019-04-19,R,93.0,"Horror,Mystery,Thriller",257.0,44.5,54733739,3372.0
+Pet Sematary,Paramount Pictures,24502775.0,21000000.0,2019-04-05,R,101.0,"Horror,Mystery,Thriller",271.0,48.4,54724696,3585.0
+What Men Want,Paramount Pictures,18232087.0,20000000.0,2019-02-08,R,117.0,"Comedy,Fantasy,Romance",327.0,75.6,54611903,2912.0
+Ad Astra,Twentieth Century Fox,19001398.0,90000000.0,2019-09-20,PG-13,123.0,"Adventure,Drama,Mystery,Sci-Fi,Thriller",105.0,39.4,50188370,3460.0
+Isn't It Romantic,Warner Bros.,14247758.0,31000000.0,2019-02-13,PG-13,89.0,"Comedy,Fantasy,Musical,Romance",322.0,100.0,48791187,3444.0
+Gemini Man,Paramount Pictures,20552372.0,138000000.0,2019-10-11,PG-13,117.0,"Action,Adventure,Sci-Fi,Thriller",84.0,28.0,48546770,3642.0
+Ma,Universal Pictures,18099805.0,5000000.0,2019-05-31,R,99.0,"Horror,Mystery,Thriller",217.0,75.1,45896028,2816.0
+Five Feet Apart,Lionsgate,13190286.0,7000000.0,2019-03-15,PG-13,116.0,"Drama,Romance",292.0,50.0,45729221,2866.0
+Wonder Park,Paramount Pictures,15853646.0,90000000.0,2019-03-15,PG,85.0,"Adventure,Animation,Comedy,Drama,Family,Fantasy",292.0,37.8,45216793,3838.0
+Rambo: Last Blood,Lionsgate,18872919.0,50000000.0,2019-09-20,R,89.0,"Action,Thriller",105.0,49.0,44819352,3618.0
+Playing with Fire,Paramount Pictures,12723781.0,29900000.0,2019-11-08,PG,96.0,"Comedy,Family",420.0,64.0,44451847,3185.0
+Harriet,Focus Features,11676720.0,17000000.0,2019-11-01,PG-13,125.0,"Action,Biography,Drama,History",427.0,99.4,43082155,2186.0
+A Dog's Way Home,Sony Pictures Entertainment (SPE),11251263.0,18000000.0,2019-01-11,PG,96.0,"Adventure,Drama,Family",355.0,52.0,42004346,3090.0
+The Angry Birds Movie 2,Sony Pictures Entertainment (SPE),10354073.0,65000000.0,2019-08-13,PG,97.0,"Action,Adventure,Animation,Comedy,Family",143.0,28.2,41667116,3869.0
+Little,Universal Pictures,15405455.0,20000000.0,2019-04-12,PG-13,109.0,"Comedy,Fantasy,Romance",266.0,83.4,40860481,2667.0
+Queen & Slim,Universal Pictures,11890490.0,18000000.0,2019-11-27,R,132.0,"Crime,Drama,Romance",401.0,91.5,43808310,1715.0
+Breakthrough,Twentieth Century Fox,11282333.0,14000000.0,2019-04-17,PG,116.0,"Biography,Drama",259.0,80.7,40713082,2913.0
+Crawl,Paramount Pictures,12005210.0,13500000.0,2019-07-12,R,87.0,"Action,Adventure,Horror,Thriller",173.0,42.6,39014193,3170.0
+Little Women,Sony Pictures Entertainment (SPE),16755310.0,40000000.0,2019-12-25,PG,135.0,"Drama,Romance",373.0,49.9,108101214,3308.0
+The Intruder,Screen Gems,10855054.0,8000000.0,2019-05-03,PG-13,102.0,Thriller,243.0,96.8,35419122,2231.0
+The Hustle,United Artists Releasing,13007709.0,21000000.0,2019-05-10,PG-13,93.0,"Comedy,Crime",236.0,37.3,35417038,3077.0
+Last Christmas,Universal Pictures,11441055.0,25000000.0,2019-11-08,PG-13,103.0,"Comedy,Drama,Fantasy,Romance",420.0,28.9,35150750,3454.0
+Overcomer,Affirm Films,8146533.0,5000000.0,2019-08-23,PG,119.0,"Drama,Family,Sport",133.0,91.4,34746945,2293.0
+Cold Pursuit,Lionsgate,11030233.0,60000000.0,2019-02-08,R,119.0,"Action,Comedy,Crime,Drama,Thriller",327.0,42.1,32138862,2630.0
+Doctor Sleep,Warner Bros.,14114124.0,45000000.0,2019-11-08,R,152.0,"Drama,Fantasy,Horror,Thriller",420.0,43.6,31581712,3855.0
+Dragon Ball Super: Broly,FUNimation Entertainment,9816197.0,8500000.0,2019-01-16,PG,100.0,"Action,Adventure,Animation,Family,Fantasy,Sci-Fi",350.0,26.5,30712119,1267.0
+Long Shot,Lionsgate,9740064.0,40000000.0,2019-05-03,R,125.0,"Comedy,Romance",243.0,56.3,30316271,3230.0
+Spies in Disguise,Twentieth Century Fox,13354798.0,100000000.0,2019-12-25,PG,102.0,"Action,Adventure,Animation,Comedy,Family,Fantasy,Sci-Fi,Thriller",373.0,38.9,66757013,3502.0
+Child's Play,United Artists Releasing,14094594.0,10000000.0,2019-06-21,R,90.0,"Drama,Horror,Sci-Fi",194.0,65.0,29208403,3007.0
+Ready or Not,Fox Searchlight Pictures,8015590.0,6000000.0,2019-08-21,R,95.0,"Action,Comedy,Horror,Mystery,Thriller",133.0,49.8,28714231,2998.0
+Happy Death Day 2U,Universal Pictures,9497665.0,9000000.0,2019-02-13,PG-13,100.0,"Comedy,Horror,Mystery,Sci-Fi,Thriller",324.0,43.6,28148130,3212.0
+21 Bridges,STX Entertainment,9261268.0,33000000.0,2019-11-22,R,99.0,"Action,Thriller",406.0,57.1,28539757,2665.0
+Midsommar,A24,6560030.0,9000000.0,2019-07-03,R,148.0,"Drama,Horror,Mystery,Thriller",182.0,57.3,27426361,2707.0
+The Art of Racing in the Rain,Twentieth Century Fox,8137584.0,18000000.0,2019-08-09,PG,109.0,"Comedy,Drama,Romance,Sport",145.0,78.2,26395642,2765.0
+Countdown,STX Entertainment,8865082.0,6500000.0,2019-10-25,PG-13,90.0,"Horror,Thriller",434.0,53.4,25621766,2675.0
+Uncut Gems,A24,537242.0,19000000.0,2019-12-13,R,135.0,"Crime,Drama,Thriller",385.0,100.0,50023780,2686.0
+Judy,Roadside Attractions,2916548.0,,2019-09-27,PG-13,118.0,"Biography,Drama,Romance",462.0,53.2,24313888,1627.0
+Fighting with My Family,Metro-Goldwyn-Mayer (MGM),138780.0,11000000.0,2019-02-14,PG-13,108.0,"Biography,Comedy,Drama,Sport",321.0,56.3,22958886,2855.0
+On the Basis of Sex,Focus Features,686355.0,,2018-12-25,PG-13,,"Biography,Drama",372.0,63.7,24622687,1957.0
+A Dog's Journey,Universal Pictures,8030085.0,16000000.0,2019-05-17,PG,109.0,"Adventure,Comedy,Drama,Family,Fantasy",231.0,30.1,22782371,3279.0
+Booksmart,United Artists Releasing,6933620.0,6000000.0,2019-05-24,R,102.0,Comedy,222.0,90.9,22680962,2518.0
+Parasite,Neon,393216.0,11400000.0,2019-10-11,R,132.0,"Comedy,Drama,Thriller",448.0,20.6,53369749,2001.0
+Stuber,Twentieth Century Fox,8225384.0,16000000.0,2019-07-12,R,93.0,"Action,Comedy,Crime,Thriller",173.0,69.1,22370452,3050.0
+47 Meters Down: Uncaged,Entertainment Studios Motion Pictures,8427265.0,12000000.0,2019-08-16,PG-13,90.0,"Adventure,Drama,Horror,Thriller",140.0,46.8,22260900,2883.0
+Black and Blue,Screen Gems,8376846.0,12000000.0,2019-10-25,R,108.0,"Action,Thriller",434.0,97.0,22055313,2062.0
+Hellboy,Lionsgate,12045147.0,50000000.0,2019-04-12,R,,"Action,Adventure,Fantasy,Horror,Sci-Fi",264.0,39.8,21903748,3303.0
+Shaft,Warner Bros.,8901419.0,35000000.0,2019-06-14,R,111.0,"Action,Comedy,Crime",201.0,100.0,21360215,2952.0
+Jojo Rabbit,Fox Searchlight Pictures,349555.0,14000000.0,2019-10-18,PG-13,108.0,"Comedy,Drama,War",441.0,36.9,33370906,1173.0
+The Peanut Butter Falcon,Roadside Attractions,204793.0,6200000.0,2019-08-09,PG-13,97.0,"Adventure,Comedy,Drama",147.0,86.3,20457151,1490.0
+UglyDolls,STX Entertainment,8603407.0,,2019-05-03,PG,87.0,"Adventure,Animation,Comedy,Family,Fantasy,Musical",243.0,62.1,20150241,3652.0
+Cats,Universal Pictures,6619870.0,95000000.0,2019-12-20,PG,110.0,"Comedy,Drama,Family,Fantasy,Musical",378.0,36.8,27166770,3380.0
+Unplanned,Pure Flix Entertainment,6382298.0,6000000.0,2019-03-29,R,109.0,"Biography,Drama",278.0,89.0,19005109,1516.0
+Bombshell,Lionsgate,319157.0,32000000.0,2019-12-13,R,109.0,"Biography,Drama",385.0,51.7,31762808,1721.0
+Richard Jewell,Warner Bros.,4705265.0,45000000.0,2019-12-13,R,131.0,"Biography,Crime,Drama",385.0,51.1,22345542,2502.0
+Charlie's Angels,Sony Pictures Entertainment (SPE),8351109.0,48000000.0,2019-11-15,PG-13,118.0,"Action,Adventure,Comedy",413.0,24.3,17803077,3452.0
+The Farewell,A24,355662.0,,2019-07-12,PG,100.0,"Comedy,Drama",175.0,76.7,17695781,891.0
+Brightburn,Screen Gems,7845658.0,6000000.0,2019-05-24,R,90.0,"Drama,Horror,Mystery,Sci-Fi",222.0,52.6,17300439,2607.0
+The Good Liar,Warner Bros.,5605051.0,10000000.0,2019-11-15,R,109.0,"Crime,Drama,Mystery,Thriller",413.0,50.7,17156058,2454.0
+The Kid Who Would Be King,Twentieth Century Fox,7173887.0,,2019-01-25,PG,,"Action,Adventure,Family,Fantasy",341.0,52.2,16790790,3528.0
+Missing Link,United Artists Releasing,5944950.0,,2019-04-12,PG,93.0,"Adventure,Animation,Comedy,Family,Fantasy",264.0,62.7,16649539,3437.0
+Late Night,Amazon Studios,246305.0,,2019-06-07,R,102.0,"Comedy,Drama",208.0,69.2,15499454,2220.0
+Miss Bala,Sony Pictures Entertainment (SPE),6864744.0,15000000.0,2019-02-01,PG-13,104.0,"Action,Crime,Drama,Thriller",334.0,97.6,15006824,2203.0
+The Prodigy,Orion Pictures,5853061.0,6000000.0,2019-02-08,R,92.0,"Fantasy,Horror,Mystery,Thriller",327.0,70.3,14856291,2530.0
+Poms,STX Entertainment,5361937.0,,2019-05-10,PG-13,90.0,"Comedy,Drama,Sport",236.0,83.0,13631124,2750.0
+If Beale Street Could Talk,Annapurna Pictures,224476.0,,2018-12-14,R,119.0,"Drama,Romance",383.0,72.4,14915773,1018.0
+The Kitchen,Warner Bros.,5527410.0,38000000.0,2019-08-09,R,102.0,"Action,Crime,Drama",145.0,76.2,12180032,2745.0
+After,Aviron Pictures,6002349.0,14000000.0,2019-04-12,PG-13,105.0,"Drama,Romance",264.0,17.5,12138565,2138.0
+Blinded by the Light,Warner Bros.,4333305.0,,2019-08-16,PG-13,118.0,"Comedy,Drama,Music",138.0,65.8,11901145,2307.0
+The Lighthouse,A24,427797.0,,2019-10-18,R,109.0,"Drama,Fantasy,Horror,Mystery",441.0,60.0,10867104,978.0
+Dark Waters,Focus Features,102606.0,,2019-11-22,PG-13,126.0,"Biography,Drama,History",406.0,48.2,11136084,2112.0
+Greta,Focus Features,4481910.0,,2019-03-01,R,98.0,"Drama,Mystery,Thriller",308.0,56.5,10532219,2417.0
+The Best of Enemies,STX Entertainment,4446190.0,10000000.0,2019-04-05,PG-13,133.0,"Biography,Drama,History",271.0,100.0,10205616,1705.0
+Black Christmas,Universal Pictures,4240245.0,5000000.0,2019-12-13,PG-13,92.0,"Horror,Mystery,Thriller",385.0,56.3,10429730,2625.0
+Hotel Mumbai,Bleecker Street Media,88065.0,,2019-03-22,R,123.0,"Action,Drama,History,Thriller",285.0,45.3,9651611,930.0
+Motherless Brooklyn,Warner Bros.,3500454.0,26000000.0,2019-11-01,R,144.0,"Crime,Drama,Mystery",63.0,50.2,9277736,1342.0
+No Manches Frida 2,Pantelion Films,3831401.0,,2019-03-15,R,102.0,Comedy,292.0,35.0,9270920,472.0
+"Where'd You Go, Bernadette",United Artists Releasing,3462308.0,,2019-08-16,PG-13,109.0,"Comedy,Drama",138.0,83.4,9198356,2404.0
+Apollo 11,Neon,1607040.0,,2019-03-01,G,93.0,"Documentary,History",306.0,58.9,9039891,588.0
+Serenity,Aviron Pictures,4415403.0,,2019-01-25,R,106.0,"Drama,Mystery,Thriller",341.0,59.1,8547045,2561.0
+Anna,Lionsgate,3600647.0,,2019-06-21,R,118.0,"Action,Thriller",194.0,24.5,7743794,2114.0
+Penguins,Walt Disney Studios Motion Pictures,2282593.0,,2019-04-17,G,76.0,"Documentary,Family",259.0,100.0,7699452,1815.0
+Brittany Runs a Marathon,Amazon Studios,180711.0,,2019-08-23,R,104.0,"Comedy,Drama",133.0,96.6,7189808,1033.0
+The Dead Don't Die,Focus Features,2540240.0,,2019-06-14,R,104.0,"Comedy,Fantasy,Horror,Sci-Fi",201.0,42.8,6563605,690.0
+Jexi,Lionsgate,3106730.0,,2019-10-11,R,84.0,"Comedy,Romance,Sci-Fi",84.0,70.1,6546159,2332.0
+Run the Race,Roadside Attractions,2161480.0,,2019-02-22,PG,101.0,"Drama,Sport",313.0,100.0,6424420,1075.0
+The Current War: Director's Cut,101 Studios,2633717.0,,2019-10-25,PG-13,108.0,"Biography,Drama,History",70.0,48.9,5979540,1082.0
+Captive State,Focus Features,3131525.0,,2019-03-15,PG-13,109.0,"Action,Horror,Sci-Fi,Thriller",292.0,67.6,5958315,2549.0
+The Wandering Earth,CMC Pictures,1685287.0,,2019-02-05,,125.0,"Action,Adventure,Sci-Fi,Thriller",696.0,0.9,5971413,129.0
+Arctic Dogs,Entertainment Studios Motion Pictures,2901335.0,,2019-11-01,PG,92.0,"Adventure,Animation,Comedy,Family",63.0,58.8,5801249,2844.0
+Gloria Bell,A24,145218.0,,2019-03-08,R,102.0,"Comedy,Drama,Music,Romance",299.0,50.3,5611123,1127.0
+Gully Boy,Viva Pictures,2045068.0,,2019-02-14,,154.0,"Drama,Music,Romance",321.0,19.7,5566534,270.0
+Stan & Ollie,Sony Pictures Classics,78104.0,,2018-12-28,PG,98.0,"Biography,Comedy,Drama,Family,History",369.0,22.4,5470235,754.0
+The Goldfinch,Warner Bros.,2679027.0,45000000.0,2019-09-13,R,149.0,Drama,110.0,53.7,5332621,2542.0
+Don't Let Go,OTL Releasing,2338669.0,5000000.0,2019-08-30,R,103.0,"Drama,Horror,Mystery,Sci-Fi,Thriller",124.0,98.6,5215062,922.0
+The Mustang,Focus Features,71657.0,,2019-03-15,R,96.0,Drama,292.0,78.7,5043620,527.0
+The Sun Is also a Star,Warner Bros.,2511530.0,,2019-05-17,PG-13,100.0,"Drama,Music,Romance",229.0,73.3,4950029,2073.0
+Bring the Soul: The Movie,Trafalgar Releasing,2296491.0,,2019-08-07,,103.0,"Documentary,Music",147.0,41.3,4809800,873.0
+Pavarotti,CBS Films,144032.0,,2019-06-07,PG-13,114.0,"Biography,Documentary,Music",208.0,56.9,4600249,288.0
+Tolkien,Fox Searchlight Pictures,2200537.0,,2019-05-10,PG-13,112.0,"Biography,Drama,Romance,War",236.0,49.9,4535154,1501.0
+The Last Black Man in San Francisco,A24,235272.0,,2019-06-07,R,121.0,Drama,208.0,97.4,4515719,207.0
+War,Yash Raj Films,1607627.0,21000000.0,2019-10-02,,154.0,"Action,Adventure,Thriller",93.0,6.9,4654000,305.0
+Cold War,Amazon Studios,54353.0,,2018-12-21,R,89.0,"Drama,History,Music,Romance",376.0,22.6,4580048,270.0
+Menteur,Entertainment One,607229.0,,2019-07-12,,111.0,Comedy,175.0,100.0,4697364,89.0
+Brian Banks,Bleecker Street Media,2156272.0,,2019-08-09,PG-13,99.0,"Biography,Drama,Sport",145.0,100.0,4376819,1240.0
+The Biggest Little Farm,Neon,110492.0,,2019-05-10,PG,91.0,Documentary,236.0,83.2,4366949,285.0
+Amazing Grace,Neon,57353.0,,2018-12-07,G,89.0,"Documentary,Music",390.0,57.1,4450456,263.0
+Linda Ronstadt: The Sound of My Voice,Greenwich Entertainment,113235.0,,2019-09-06,PG-13,95.0,"Biography,Documentary,Music",483.0,100.0,4252657,247.0
+Uri: The Surgical Strike,PackYourBag Films,631146.0,,2019-01-11,,138.0,"Action,Drama,War",355.0,10.6,4186168,132.0
+Replicas,Entertainment Studios Motion Pictures,2375325.0,,2019-01-11,PG-13,107.0,"Drama,Sci-Fi,Thriller",355.0,43.4,4046429,2329.0
+Pain and Glory,Sony Pictures Classics,152636.0,,2019-10-04,R,113.0,Drama,455.0,12.2,4567338,266.0
+Ne Zha,Well Go USA Entertainment,1015755.0,,2019-08-29,,110.0,"Action,Adventure,Animation,Family,Fantasy,Thriller",125.0,0.5,3695533,135.0
+Mission Mangal,FIP,1365006.0,,2019-08-15,,130.0,"Drama,History,Sci-Fi",139.0,64.6,3659413,263.0
+The Oscar Nominated Short Films 2019: Documentary,Shorts International,938455.0,,2019-02-08,,,Documentary,327.0,99.8,3531094,415.0
+BTS World Tour: Love Yourself in Seoul,Fathom Events,2860016.0,,2019-01-26,,112.0,"Documentary,Music",340.0,34.4,3509917,997.0
+The Beach Bum,Neon,1763070.0,,2019-03-29,R,95.0,Comedy,278.0,76.9,3502600,1100.0
+Echo in the Canyon,Greenwich Entertainment,117651.0,,2019-05-24,PG-13,82.0,"Documentary,Music",222.0,100.0,3355324,147.0
+Jay and Silent Bob Reboot,Saban Films,93520.0,,2019-10-15,R,105.0,"Action,Adventure,Comedy",444.0,97.8,4589490,788.0
+Maiden,Sony Pictures Classics,46931.0,,2019-06-28,PG,97.0,"Biography,Documentary,Sport",553.0,90.7,3168978,180.0
+Simmba,Reliance Big Pictures,1758576.0,,2018-12-28,,158.0,"Action,Comedy,Crime,Drama",369.0,9.9,5102129,301.0
+Bharat,Viva Pictures,1252301.0,,2019-06-05,Not Rated,150.0,"Action,Comedy,Drama",210.0,9.0,2971549,311.0
+Honey Boy,Amazon Studios,301065.0,,2019-11-08,R,94.0,Drama,420.0,88.6,3012615,460.0
+Friends 25th: The One With The Anniversary,Fathom Events,1177873.0,,2019-09-23,,105.0,Comedy,100.0,84.8,2884827,1586.0
+Saaho,Yash Raj Films,1452102.0,,2019-08-29,,170.0,"Action,Thriller",125.0,50.3,2872057,381.0
+Kalank,FIP,1276581.0,,2019-04-17,Not Rated,166.0,"Drama,Romance",259.0,15.2,2729336,320.0
+Tod@s Caen,Pantelion Films,1098401.0,,2019-08-30,PG-13,,Comedy,124.0,27.6,2670925,371.0
+Everybody Knows,Focus Features,71207.0,,2019-02-08,R,133.0,"Crime,Drama,Mystery,Thriller",327.0,13.9,2660165,283.0
+The Art of Self-Defense,Bleecker Street Media,114374.0,,2019-07-12,R,104.0,"Action,Comedy,Crime,Drama,Mystery,Thriller",173.0,99.9,2410914,550.0
+Arctic,Bleecker Street Media,50878.0,,2019-02-01,PG-13,98.0,"Adventure,Drama",334.0,58.5,2410795,268.0
+"My People, My Country",CMC Pictures,876001.0,,2019-10-01,,154.0,"Drama,History",94.0,0.5,2356683,83.0
+Promare,GKIDS,109085.0,,2019-09-17,PG-13,111.0,"Action,Adventure,Animation,Comedy,Drama,Fantasy,Sci-Fi,Thriller",908.0,26.1,2529324,701.0
+Super 30,Reliance Big Pictures,871256.0,,2019-07-12,,154.0,"Biography,Drama",173.0,9.2,2269878,317.0
+Faustina: Love and Mercy,Fathom Events,,,2019-10-28,,107.0,"Biography,Drama,Family",67.0,64.1,2243180,810.0
+Bad Boys for Life,Sony Pictures Entertainment (SPE),62504105.0,90000000.0,2020-01-17,R,124.0,"Action,Comedy,Crime,Thriller",350.0,48.4,206305244,3775.0
+1917,Universal Pictures,576216.0,95000000.0,2019-12-25,R,119.0,"Action,Drama,War",373.0,41.4,159227644,3987.0
+Sonic the Hedgehog,Paramount Pictures,58018348.0,85000000.0,2020-02-14,PG,99.0,"Action,Adventure,Comedy,Sci-Fi",687.0,46.6,148974665,4198.0
+Birds of Prey,Warner Bros.,33010017.0,84500000.0,2020-02-07,R,109.0,"Action,Adventure,Comedy,Crime",329.0,41.7,84158461,4236.0
+Dolittle,Universal Pictures,21844045.0,175000000.0,2020-01-17,PG,101.0,"Adventure,Comedy,Family,Fantasy",350.0,31.4,77047065,4155.0
+The Invisible Man,Universal Pictures,28205665.0,7000000.0,2020-02-28,R,124.0,"Drama,Horror,Mystery,Sci-Fi,Thriller",315.0,49.2,70410000,3636.0
+The Call of the Wild,20th Century Studios,24791624.0,135000000.0,2020-02-21,PG,100.0,"Adventure,Drama,Family,Western",315.0,56.1,62342368,3914.0
+Onward,Walt Disney Studios Motion Pictures,39119861.0,,2020-03-06,PG,102.0,"Adventure,Animation,Comedy,Drama,Family,Fantasy",301.0,43.4,61555145,4310.0
+Tenet,Warner Bros.,9353090.0,,2020-09-03,PG-13,150.0,"Action,Sci-Fi,Thriller",556.0,16.1,58504105,2930.0
+The Gentlemen,STX Entertainment,10651884.0,22000000.0,2020-01-24,R,113.0,"Action,Comedy,Crime",343.0,31.7,36471795,2675.0
+Just Mercy,Warner Bros.,107858.0,25000000.0,2019-12-25,PG-13,137.0,"Biography,Crime,Drama",373.0,71.4,36001502,2457.0
+The Croods 2: A New Age,Universal Pictures,9724200.0,,2020-11-25,PG,95.0,"Adventure,Animation,Comedy,Family,Fantasy",473.0,27.1,58568815,2211.0
+Fantasy Island,Sony Pictures Entertainment (SPE),12310420.0,7000000.0,2020-02-14,PG-13,109.0,"Fantasy,Horror,Mystery",322.0,55.9,27309289,2784.0
+The New Mutants,20th Century Studios,7037017.0,,2020-08-28,PG-13,94.0,"Action,Horror,Mystery,Sci-Fi",133.0,48.5,23852659,2754.0
+Wonder Woman 1984,Warner Bros.,16701957.0,,2020-12-25,PG-13,151.0,"Action,Adventure,Fantasy",443.0,28.1,46801036,2218.0
+Like a Boss,Paramount Pictures,10011272.0,29000000.0,2020-01-10,R,83.0,Comedy,357.0,72.9,22169514,3081.0
+The Grudge,Sony Pictures Entertainment (SPE),11404113.0,10000000.0,2020-01-03,R,94.0,"Fantasy,Horror",364.0,42.9,21221803,2642.0
+Unhinged,Solstice Studios,601032.0,,2020-08-14,R,90.0,"Action,Thriller",147.0,47.0,20831465,2402.0
+The Photograph,Universal Pictures,12181865.0,16000000.0,2020-02-14,PG-13,106.0,"Drama,Romance",322.0,99.5,20578185,2516.0
+The War with Grandpa,101 Studios,3623880.0,,2020-10-09,PG,94.0,"Comedy,Drama,Family",520.0,52.3,21277892,2365.0
+Underwater,Twentieth Century Fox,7008297.0,,2020-01-10,PG-13,95.0,"Action,Horror,Sci-Fi,Thriller",357.0,42.3,17291078,2791.0
+The Turning,Universal Pictures,6950045.0,14000000.0,2020-01-24,PG-13,94.0,"Drama,Horror,Mystery",343.0,79.6,15472775,2571.0
+Gretel & Hansel,United Artists Releasing,6154007.0,,2020-01-31,PG-13,87.0,"Fantasy,Horror,Mystery,Thriller",336.0,69.6,15347654,3007.0
+Honest Thief,Open Road Films (II),,,2020-10-09,PG-13,99.0,"Action,Crime,Drama,Thriller",91.0,45.4,14163574,2502.0
+My Hero Academia: Heroes Rising,FUNimation Entertainment,5891252.0,,2020-02-26,PG-13,104.0,"Action,Adventure,Animation,Fantasy,Sci-Fi",310.0,44.4,13304000,1231.0
+The Way Back,Warner Bros.,8170315.0,,2020-03-06,R,108.0,"Drama,Sport",301.0,92.5,13590514,2718.0
+Brahms: The Boy II,STX Entertainment,5823006.0,10000000.0,2020-02-21,PG-13,86.0,"Drama,Horror,Mystery,Thriller",315.0,62.1,12611536,2151.0
+Impractical Jokers: The Movie,truTV,2607049.0,3000000.0,2020-02-21,PG-13,92.0,Comedy,315.0,100.0,10691091,1900.0
+Emma.,Focus Features,234482.0,10000000.0,2020-02-21,PG,124.0,"Comedy,Drama,Romance",315.0,38.1,10055355,1732.0
+Bloodshot,Sony Pictures Entertainment (SPE),9176695.0,45000000.0,2020-03-13,PG-13,109.0,"Action,Adventure,Sci-Fi",294.0,37.5,12561824,2861.0
+I Still Believe,Lionsgate,9103614.0,12000000.0,2020-03-13,PG,116.0,"Biography,Drama,Music,Romance",294.0,61.4,9868521,3250.0
+Come Play,Focus Features,3119875.0,,2020-10-30,PG-13,96.0,"Drama,Horror,Mystery,Thriller",428.0,79.5,10475990,2183.0
+Let Him Go,Focus Features,4000470.0,,2020-11-06,R,113.0,"Crime,Drama,Thriller",421.0,80.5,9358025,2458.0
+Freaky,Universal Pictures,3600355.0,,2020-11-13,R,102.0,"Comedy,Horror,Thriller",414.0,56.7,9030855,2472.0
+Downhill,Searchlight Pictures,4622018.0,,2020-02-14,R,86.0,"Comedy,Drama",322.0,93.1,8287061,2311.0
+Weathering with You,GKIDS,1808533.0,,2020-01-15,PG-13,112.0,"Animation,Drama,Fantasy,Romance",788.0,4.2,8056636,1020.0
+The Hunt,Universal Pictures,5304455.0,14000000.0,2020-03-13,R,90.0,"Action,Horror,Thriller",294.0,50.6,5812500,3028.0
+The Rhythm Section,Paramount Pictures,2715384.0,50000000.0,2020-01-31,R,109.0,"Action,Drama,Mystery,Thriller",336.0,90.8,5437971,3049.0
+Monster Hunter,Screen Gems,2201269.0,,2020-12-18,PG-13,103.0,"Action,Adventure,Fantasy",450.0,36.0,15162470,1817.0
+Hocus Pocus,Walt Disney Studios Motion Pictures,1925000.0,,2020-10-02,PG,96.0,"Comedy,Family,Fantasy,Horror",91.0,86.1,4828000,2570.0
+The SpongeBob Movie: Sponge on the Run,Paramount Pictures,865824.0,,2020-08-14,PG,91.0,"Adventure,Animation,Comedy,Family,Fantasy",147.0,100.0,4810790,326.0
+The Broken Hearts Gallery,TriStar Pictures,1126401.0,,2020-09-11,PG-13,109.0,"Comedy,Romance",119.0,85.1,4067442,2221.0
+Infidel,Cloudburst Entertainment,1384296.0,,2020-09-18,R,108.0,"Action,Thriller",112.0,100.0,4051990,1885.0
+News of the World,Universal Pictures,2250430.0,,2020-12-25,PG-13,118.0,"Action,Adventure,Drama,Western",443.0,100.0,12668325,1986.0
+Portrait of a Lady on Fire,Neon,67344.0,,2019-12-06,R,122.0,"Drama,Romance",392.0,37.2,3759854,334.0
+Bill & Ted Face the Music,United Artists Releasing,1125007.0,,2020-08-28,PG-13,91.0,"Adventure,Comedy,Music,Sci-Fi",126.0,54.8,3439660,1007.0
+2020 Oscar Nominated Short Films,Magnolia Pictures,1155505.0,,2020-01-31,,153.0,,336.0,100.0,3306611,536.0
+The Empty Man,20th Century Studios,1310326.0,,2020-10-23,R,137.0,"Horror,Mystery,Thriller",77.0,62.4,2992948,2051.0
+My Boyfriend's Meds,Pantelion Films,1396140.0,,2020-02-21,R,100.0,Comedy,315.0,47.2,2971116,350.0
+The Last Full Measure,Roadside Attractions,1058019.0,,2020-01-24,R,116.0,"Drama,War",343.0,87.7,2949212,617.0
+Words on Bathroom Walls,Roadside Attractions,432968.0,,2020-08-21,PG-13,110.0,"Drama,Romance",140.0,80.7,2542518,1395.0
+Star Wars: Episode V - The Empire Strikes Back,Walt Disney Studios Motion Pictures,611000.0,18000000.0,2020-07-10,PG,124.0,"Action,Adventure,Fantasy,Sci-Fi",175.0,79.1,2482000,2097.0
+Fatale,Lionsgate,918112.0,,2020-12-18,R,102.0,Thriller,379.0,89.7,6306897,1222.0
+The Nightmare Before Christmas,Walt Disney Studios Motion Pictures,1323000.0,,2020-10-16,PG,76.0,"Animation,Family,Fantasy,Musical",77.0,97.2,2286000,2194.0
+Ip Man 4: The Finale,Well Go USA Entertainment,737718.0,,2019-12-25,,107.0,"Action,Biography,Drama,History",373.0,2.2,3956031,125.0
+Half Brothers,Focus Features,700160.0,,2020-12-04,PG-13,96.0,"Comedy,Drama",393.0,68.5,2241980,1386.0
+Elf,New Line Cinema,170000.0,33000000.0,2020-11-13,PG,97.0,"Adventure,Comedy,Family,Fantasy,Romance",414.0,91.8,2003568,850.0
+The Personal History of David Copperfield,Searchlight Pictures,475800.0,,2020-08-28,PG,119.0,"Comedy,Drama",126.0,13.0,1876298,1550.0
+The Wretched,IFC Films,65908.0,,2020-05-01,,95.0,"Horror,Mystery",245.0,41.5,1814193,101.0
+The Lodge,Neon,76251.0,,2020-02-07,R,108.0,"Drama,Horror,Mystery,Thriller",329.0,67.8,2138907,395.0
+The Rental,IFC Films,403852.0,,2020-07-24,R,88.0,"Drama,Horror,Mystery,Thriller",161.0,38.1,1637548,250.0
+Jurassic Park,Universal Pictures,517600.0,63000000.0,2020-06-19,PG-13,127.0,"Action,Adventure,Sci-Fi,Thriller",196.0,72.7,1386600,316.0
+2 Hearts,Freestyle Releasing,522937.0,,2020-10-16,PG-13,101.0,"Drama,Romance",84.0,100.0,1349286,1683.0
+Promising Young Woman,Focus Features,719305.0,,2020-12-25,R,113.0,"Crime,Drama,Mystery,Thriller",443.0,37.7,6460965,1448.0
+True to the Game 2,Faith Media Distribution,274631.0,,2020-11-06,R,94.0,Thriller,63.0,100.0,1181823,281.0
+Peninsula,Well Go USA Entertainment,118647.0,,2020-08-07,,116.0,"Action,Horror,Thriller",154.0,2.9,1231407,151.0
+The Assistant,Bleecker Street Media,79141.0,,2020-01-31,R,87.0,Drama,336.0,82.2,1100313,25.0
+Love and Monsters,Paramount Pictures,270302.0,,2020-10-16,PG-13,109.0,"Action,Adventure,Comedy,Fantasy,Sci-Fi",84.0,95.4,1070714,387.0
+Relic,IFC Films,192352.0,,2020-07-03,R,89.0,"Drama,Horror,Mystery,Thriller",182.0,36.1,1047083,133.0
+The Tax Collector,RLJE Films,309694.0,,2020-08-07,,95.0,"Action,Crime,Drama,Thriller",147.0,78.8,1044212,138.0
+The Last Shift,Stage 6 Films,246491.0,,2020-09-25,R,90.0,"Comedy,Drama",105.0,99.9,1034467,886.0
+Becky,Quiver Distribution,209394.0,,2020-06-05,R,93.0,"Action,Crime,Drama,Horror,Thriller",210.0,96.0,1003700,54.0
+The Song of Names,Sony Pictures Classics,39452.0,,2019-12-25,PG-13,113.0,"Drama,Music,Mystery,War",373.0,94.4,1077584,182.0
+All My Life,Universal Pictures,370315.0,,2020-12-04,PG-13,91.0,"Drama,Romance",393.0,46.5,913935,970.0
+Mafia Inc,Entertainment One,264939.0,,2020-02-14,,143.0,"Crime,Drama",322.0,100.0,889863,85.0
+National Lampoon's Christmas Vacation,Warner Bros.,170000.0,,2020-11-25,,97.0,Comedy,44.0,97.9,871000,620.0
+A Hidden Life,Fox Searchlight Pictures,50383.0,,2019-12-13,PG-13,174.0,"Biography,Drama,Romance,War",385.0,37.6,1730597,151.0
+Cut Throat City,Well Go USA Entertainment,243379.0,,2020-08-21,R,123.0,"Action,Crime,Drama,Thriller",133.0,99.0,855894,389.0
+The Goonies,Warner Bros.,213000.0,,2020-07-10,,114.0,"Adventure,Comedy,Family",175.0,60.3,825000,457.0
+Sarileru Neekevvaru,Great India Films,821000.0,,2020-01-10,,169.0,"Action,Comedy,Drama",357.0,2.2,821000,300.0
+Vanguard,Gravitas Ventures,380428.0,,2020-11-20,PG-13,107.0,"Action,Adventure,Comedy,Thriller",49.0,1.6,793525,1375.0
+Jaws,Universal Pictures,516300.0,7000000.0,2020-06-19,,124.0,"Adventure,Thriller",196.0,98.1,758300,187.0
+Possessor,Neon,252664.0,,2020-10-02,R,103.0,"Horror,Mystery,Sci-Fi,Thriller",91.0,82.6,752885,320.0
+After We Collided,Open Road Films (II),422899.0,,2020-10-23,R,105.0,"Drama,Romance",77.0,5.0,2386483,546.0
+Toy Story,Walt Disney Studios Motion Pictures,505000.0,,2020-11-06,,81.0,"Adventure,Animation,Comedy,Family,Fantasy",63.0,95.1,727000,2102.0
+"Monsters, Inc.",Walt Disney Studios Motion Pictures,494000.0,115000000.0,2020-10-23,G,92.0,"Adventure,Animation,Comedy,Family,Fantasy",70.0,100.0,726000,1875.0
+Baaghi 3,FIP,509616.0,,2020-03-06,,143.0,"Action,Adventure,Thriller",301.0,4.3,721439,265.0
+The Santa Clause,Walt Disney Studios Motion Pictures,461000.0,22000000.0,2020-11-20,PG,97.0,"Comedy,Drama,Family,Fantasy",49.0,98.1,706000,1581.0
+Patterns of Evidence: The Red Sea Miracle,Fathom Events,,,2020-02-18,,150.0,Documentary,318.0,100.0,696191,807.0
+The Polar Express,Warner Bros.,155000.0,165000000.0,2020-12-04,,100.0,"Adventure,Animation,Comedy,Family,Fantasy,Musical",393.0,99.4,711000,450.0
+The Last Vermeer,TriStar Pictures,225691.0,,2020-11-20,R,118.0,Drama,49.0,77.5,685380,912.0
+Merci pour tout,eOne Entertainment,231908.0,,2019-12-25,,99.0,Comedy,373.0,100.0,1073969,76.0
+Chhapaak,FIP,316781.0,,2020-01-10,,,"Biography,Drama",357.0,9.3,604334,100.0
+Shortcut,Gravitas Ventures,243508.0,,2020-09-25,R,80.0,"Adventure,Fantasy,Horror",105.0,98.0,588869,704.0
+Panga,FIP,285689.0,,2020-01-24,,131.0,"Drama,Sport",343.0,11.9,582720,102.0
+Synchronic,Well Go USA Entertainment,245561.0,,2020-10-23,R,102.0,"Drama,Horror,Mystery,Sci-Fi,Thriller",77.0,43.5,636673,327.0
+Guardians of the Galaxy,Walt Disney Studios Motion Pictures,406000.0,170000000.0,2020-11-13,PG-13,121.0,"Action,Adventure,Comedy,Sci-Fi",56.0,94.5,542000,1560.0
+Color Out of Space,RLJE Films,216162.0,,2020-01-24,,111.0,"Horror,Mystery,Sci-Fi,Thriller",343.0,74.8,765561,81.0
+Followed,Global View Entertainment,152825.0,,2020-06-19,R,96.0,"Horror,Mystery,Thriller",196.0,98.1,538179,100.0
+Alone,Magnolia Pictures,182473.0,,2020-09-18,R,98.0,"Drama,Horror,Mystery,Thriller",112.0,82.5,537589,173.0
+Kajillionaire,Focus Features,215675.0,,2020-09-25,R,104.0,"Comedy,Crime,Drama",98.0,41.3,531430,547.0
+100% Wolf,Viva Pictures,,,2020-10-09,PG,96.0,"Adventure,Animation,Comedy,Family,Fantasy",520.0,7.9,658764,124.0
+The Big Ugly,Vertical Entertainment,152598.0,,2020-07-24,R,106.0,"Crime,Drama,Thriller",161.0,99.7,514107,68.0
+The Call,Atlas Distribution Company,138237.0,,2020-10-02,,97.0,"Horror,Thriller",98.0,32.5,516521,195.0
+The Forgotten Carols,Purdie Distribution,104798.0,,2020-11-20,,130.0,Musical,407.0,100.0,502252,70.0
+Spell,Paramount Pictures,206591.0,,2020-10-30,R,91.0,"Horror,Thriller",70.0,100.0,500104,369.0
+Ava,Vertical Entertainment,170349.0,,2020-09-25,R,96.0,,98.0,15.1,497747,252.0
+Pinocchio,Roadside Attractions,272109.0,,2020-12-25,PG-13,125.0,"Drama,Family,Fantasy",372.0,7.7,1831718,824.0
+Once Were Brothers,Magnolia Pictures,37828.0,,2020-02-21,R,100.0,"Biography,Documentary,History,Music",315.0,83.8,449561,152.0
+Seberg,Amazon Studios,47180.0,,2020-02-21,R,102.0,"Biography,Drama,Thriller",315.0,66.3,434702,373.0
+Iron Man,Walt Disney Pictures,430000.0,140000000.0,2020-07-17,PG-13,126.0,"Action,Adventure,Sci-Fi",168.0,100.0,430000,462.0
+Fantastic Fungi,Area 23a,9419.0,,2019-09-20,,81.0,Documentary,469.0,95.2,1788322,37.0
+Infamous,Vertical Entertainment,160371.0,,2020-06-12,,100.0,"Crime,Drama,Romance,Thriller",203.0,100.0,429148,58.0
+Tulsa,Pryor Entertainment,78393.0,,2020-08-21,PG-13,,"Comedy,Drama",140.0,100.0,413378,192.0
+Stevie Nicks 24 Karat Gold the Concert,Trafalgar Releasing,243509.0,,2020-10-21,,135.0,Music,72.0,66.9,410265,413.0
+Buddy Games,Paramount Pictures,150497.0,,2020-11-20,R,90.0,Comedy,49.0,47.5,405904,401.0
+The Kid Detective,Stage 6 Films,140218.0,,2020-10-16,R,100.0,"Comedy,Drama,Mystery",84.0,99.0,364138,865.0
+She Dies Tomorrow,Neon,84659.0,,2020-07-31,R,86.0,"Drama,Fantasy,Horror,Mystery,Thriller",154.0,100.0,398663,24.0
+Greed,Sony Pictures Classics,24163.0,,2020-02-28,R,104.0,"Comedy,Drama",308.0,24.3,355308,596.0
+Yellow Rose,Stage 6 Films,150330.0,,2020-10-09,PG-13,94.0,"Drama,Music",91.0,100.0,367849,900.0
+Ride Your Wave,Fathom Events,19643.0,,2020-02-19,,95.0,"Animation,Comedy,Drama,Family,Fantasy,Romance",317.0,8.2,332432,605.0
+The Eight Hundred,CMC Pictures,118161.0,,2020-08-28,,149.0,"Action,Drama,History,War",126.0,,372755,142.0
+Les Misérables,Amazon Studios,24154.0,,2020-01-10,R,104.0,"Crime,Drama,Thriller",357.0,1.5,330181,69.0
+Die Hard,Walt Disney Studios Motion Pictures,189000.0,28000000.0,2020-12-04,,132.0,"Action,Thriller",35.0,76.8,325000,1172.0
+Clemency,Neon,35444.0,,2019-12-27,R,112.0,Drama,371.0,99.9,364716,127.0
+Ordinary Love,Bleecker Street Media,23564.0,,2020-02-14,R,92.0,"Drama,Romance",322.0,41.8,323688,22.0
+The Informer,Vertical Entertainment,133475.0,,2020-11-06,R,113.0,"Action,Crime,Drama,Thriller",63.0,10.3,300460,283.0
+Save Yourselves!,Bleecker Street Media,142694.0,,2020-10-02,R,93.0,"Adventure,Comedy,Sci-Fi",91.0,100.0,301162,388.0
+The Traitor,Sony Pictures Classics,23240.0,,2020-01-31,R,153.0,"Biography,Crime,Drama",336.0,3.3,296027,45.0
+Gremlins,,140000.0,,2020-07-10,,106.0,"Comedy,Fantasy,Horror",175.0,98.6,295000,64.0
+How the Grinch Stole Christmas,Universal Pictures,,123000000.0,2020-12-04,PG,104.0,"Comedy,Family,Fantasy",35.0,97.3,420180,300.0
+Mystify: Michael Hutchence,Fathom Events,,,2020-01-07,,102.0,"Biography,Documentary,Music",360.0,26.8,289573,597.0
+Created Equal: Clarence Thomas in His Own Words,Manifold Productions Inc.,74577.0,,2020-01-31,PG-13,116.0,"Biography,Documentary",336.0,100.0,282149,53.0
+Fatman,Saban Films,108305.0,,2020-11-13,R,100.0,"Action,Fantasy,Thriller",56.0,16.9,278378,259.0
+An American in Paris,Fathom Events,182606.0,,2020-01-19,,114.0,"Drama,Musical,Romance",348.0,100.0,267824,651.0
+Back to the Future,Universal Pictures,107000.0,19000000.0,2020-07-31,,116.0,"Adventure,Comedy,Sci-Fi",154.0,43.5,247000,258.0
+63 Up,BritBox,13956.0,,2019-11-27,,145.0,Documentary,401.0,100.0,483684,28.0
+Tokyo Godfathers,Fathom Events,5800.0,,2020-03-09,PG-13,90.0,"Adventure,Animation,Comedy,Drama",298.0,100.0,237571,519.0
+Blind Eyes Opened,Fathom Events,,,2020-01-23,,115.0,Documentary,344.0,100.0,234505,534.0
+The Climb,Sony Pictures Classics,97639.0,,2020-11-13,R,98.0,"Comedy,Drama",56.0,32.9,234429,408.0
+Doctor Who Live Q&A And Screening,Fathom Events,228615.0,,2020-01-05,,166.0,,362.0,100.0,228615,692.0
+CatVideoFest 2020,Oscilloscope,217927.0,,2020-02-21,,75.0,Documentary,315.0,100.0,437625,84.0
+Frozen,Walt Disney Studios Motion Pictures,120000.0,150000000.0,2020-11-25,PG,102.0,"Adventure,Animation,Comedy,Family,Fantasy,Musical",44.0,30.5,215000,1367.0
+Wild Mountain Thyme,Bleecker Street Media,95360.0,,2020-12-11,PG-13,102.0,"Comedy,Drama,Romance",28.0,14.1,213440,450.0
+The Secrets We Keep,Bleecker Street Media,88306.0,,2020-09-16,R,97.0,"Drama,Thriller",107.0,33.8,207928,471.0
+Jiang Ziya,Well Go USA Entertainment,,,2020-10-01,,110.0,"Action,Adventure,Animation,Drama,Family,Fantasy",99.0,,214670,55.0
+Fate/Stay Night: Heaven's Feel - III. Spring Song,Fathom Events,200000.0,,2020-11-18,,,"Action,Adventure,Animation,Drama,Fantasy,Romance",51.0,1.0,200000,304.0
+Ashfall,Capelight Pictures,36201.0,,2019-12-19,,130.0,"Action,Adventure,Thriller",379.0,0.6,372562,18.0
+National Theater Live: Cyrano de Bergerac,Fathom Events,,,2020-02-20,,160.0,"Drama,Romance",316.0,14.6,198352,472.0
+Cunningham,Magnolia Pictures,18422.0,,2019-12-13,PG,93.0,"Biography,Documentary,Music",385.0,72.1,265102,23.0
+The Doors: Break On Thru - A Celebration Of Ray Manzarek,Trafalgar Releasing,4312.0,,2020-02-12,,67.0,Documentary,324.0,100.0,190160,330.0
+The Outpost,Fathom Events,31042.0,,2020-07-03,R,123.0,"Action,Drama,History,War",182.0,8.0,186635,81.0
+The Wolf of Snow Hollow,United Artists Releasing,91943.0,,2020-10-09,R,85.0,"Comedy,Horror,Mystery,Thriller",84.0,69.3,185026,112.0
+Come Away,Relativity Media,106084.0,,2020-11-13,PG,94.0,"Adventure,Drama,Fantasy",56.0,10.9,184477,475.0
+And Then We Danced,Music Box Films,13880.0,,2020-02-07,,113.0,"Drama,Romance",329.0,28.5,177262,23.0
+Beanpole,Kino Lorber,10008.0,,2020-01-29,,130.0,"Drama,War",338.0,12.3,196258,35.0
+Follow Me,Vertical Entertainment,79182.0,,2020-09-18,R,91.0,"Adventure,Horror,Mystery,Thriller",105.0,3.9,167962,50.0
+Extra Ordinary,Good Deed Entertainment,82543.0,,2020-03-06,R,94.0,"Comedy,Fantasy,Horror",301.0,73.4,164346,80.0
+Palm Springs,Neon,164000.0,,2020-07-10,R,90.0,"Comedy,Fantasy,Mystery,Romance",175.0,10.8,164000,66.0
+A Call to Spy,IFC Films,35098.0,,2020-10-02,PG-13,123.0,"Biography,Crime,Drama,Thriller,War",98.0,19.0,159014,79.0
+Love Story,Fathom Events,87198.0,,2020-02-09,PG,100.0,"Drama,Romance",327.0,100.0,153504,650.0
+Spider-Man: No Way Home,Sony Pictures Entertainment (SPE),260138569.0,,2021-12-17,PG-13,148.0,"Action,Adventure,Fantasy,Sci-Fi",86.0,42.2,792285954,4336.0
+Shang-Chi and the Legend of the Ten Rings,Walt Disney Studios Motion Pictures,75388688.0,,2021-09-03,PG-13,132.0,"Action,Adventure,Fantasy,Sci-Fi",191.0,51.9,224543292,4300.0
+Venom: Let There Be Carnage,Sony Pictures Entertainment (SPE),90033210.0,,2021-10-01,PG-13,97.0,"Action,Adventure,Sci-Fi,Thriller",163.0,42.5,213550366,4225.0
+Black Widow,Walt Disney Studios Motion Pictures,80366312.0,,2021-07-09,PG-13,134.0,"Action,Adventure,Sci-Fi",247.0,48.4,183651655,4275.0
+F9: The Fast Saga,Universal Pictures,70043165.0,,2021-06-25,PG-13,143.0,"Action,Crime,Thriller",261.0,23.8,173005945,4203.0
+Eternals,Walt Disney Studios Motion Pictures,71297219.0,,2021-11-05,PG-13,156.0,"Action,Adventure,Fantasy,Sci-Fi",128.0,41.0,164870234,4090.0
+No Time to Die,Metro-Goldwyn-Mayer (MGM),55225007.0,,2021-10-08,PG-13,163.0,"Action,Adventure,Thriller",156.0,20.8,160891007,4407.0
+A Quiet Place Part II,Paramount Pictures,47547231.0,,2021-05-28,PG-13,97.0,"Drama,Horror,Sci-Fi,Thriller",289.0,53.8,160072261,3744.0
+Ghostbusters: Afterlife,Sony Pictures Entertainment (SPE),44008406.0,,2021-11-19,PG-13,124.0,"Adventure,Comedy,Fantasy,Sci-Fi",114.0,65.5,129360575,4315.0
+Free Guy,20th Century Studios,28365416.0,,2021-08-13,PG-13,115.0,"Action,Adventure,Comedy,Fantasy,Sci-Fi",212.0,36.7,121626598,4165.0
+Jungle Cruise,Walt Disney Studios Motion Pictures,35018731.0,,2021-07-30,PG-13,127.0,"Action,Adventure,Comedy,Fantasy",226.0,53.0,116987516,4310.0
+Godzilla vs. Kong,Warner Bros.,31625971.0,,2021-03-31,PG-13,113.0,"Action,Sci-Fi,Thriller",347.0,21.6,100916094,3084.0
+Dune,Warner Bros.,41011174.0,,2021-10-22,PG-13,155.0,"Action,Adventure,Drama,Sci-Fi",142.0,27.0,108147339,4125.0
+Halloween Kills,Universal Pictures,49404980.0,20000000.0,2021-10-15,R,105.0,"Horror,Thriller",149.0,69.9,92002155,3727.0
+Encanto,Walt Disney Studios Motion Pictures,27206494.0,,2021-11-24,PG,102.0,"Animation,Comedy,Family,Fantasy,Musical",109.0,38.5,95732845,3980.0
+Cruella,Walt Disney Studios Motion Pictures,21496997.0,,2021-05-28,PG-13,134.0,"Adventure,Comedy,Crime,Drama",289.0,36.9,86103234,3922.0
+Sing 2,Universal Pictures,22326230.0,,2021-12-22,PG,110.0,"Adventure,Animation,Comedy,Family,Musical",81.0,42.5,155825000,3892.0
+Space Jam: A New Legacy,Warner Bros.,31053362.0,,2021-07-16,PG,115.0,"Adventure,Animation,Comedy,Family,Fantasy,Sci-Fi,Sport",240.0,43.3,70592228,4002.0
+The Conjuring: The Devil Made Me Do It,Warner Bros.,24104332.0,,2021-06-04,R,112.0,"Horror,Mystery,Thriller",282.0,32.5,65631050,3280.0
+Candyman,Universal Pictures,22001750.0,,2021-08-27,R,91.0,"Horror,Thriller",198.0,79.0,61186570,3569.0
+The Boss Baby: Family Business,Universal Pictures,16000665.0,,2021-07-02,PG,107.0,"Adventure,Animation,Comedy,Family,Fantasy",254.0,39.0,57300280,3688.0
+The Addams Family 2,United Artists Releasing,17325007.0,,2021-10-01,PG,93.0,"Adventure,Animation,Comedy,Family,Fantasy,Horror",163.0,47.1,56489153,4207.0
+The Suicide Squad,Warner Bros.,26205415.0,185000000.0,2021-08-06,R,132.0,"Action,Adventure,Comedy,Sci-Fi",219.0,33.3,55817425,4019.0
+Raya and the Last Dragon,Walt Disney Studios Motion Pictures,8502498.0,,2021-03-05,PG,107.0,"Action,Adventure,Animation,Comedy,Drama,Family,Fantasy",373.0,42.0,54723032,2375.0
+Demon Slayer the Movie: Mugen Train,FUNimation Entertainment,21234994.0,,2021-04-23,R,117.0,"Action,Adventure,Animation,Fantasy,Horror",324.0,10.9,49505008,2087.0
+Clifford the Big Red Dog,Paramount Pictures,16627491.0,,2021-11-10,PG,96.0,"Adventure,Comedy,Family,Fantasy",123.0,45.8,48947356,3700.0
+House of Gucci,United Artists Releasing,14423794.0,,2021-11-24,R,158.0,"Crime,Drama",109.0,35.4,53809574,3477.0
+Old,Universal Pictures,16854735.0,,2021-07-23,PG-13,108.0,"Drama,Horror,Mystery,Thriller",233.0,53.6,48276510,3379.0
+Tom & Jerry: The Movie,Warner Bros.,14112629.0,,2021-02-26,PG,101.0,"Adventure,Animation,Comedy,Family,Fantasy",380.0,34.9,46536687,2563.0
+The Forever Purge,Universal Pictures,12551220.0,,2021-07-02,R,103.0,"Action,Horror,Thriller",254.0,57.8,44539245,3058.0
+Peter Rabbit 2: The Runaway,Sony Pictures Entertainment (SPE),10101066.0,,2021-06-11,PG,93.0,"Adventure,Animation,Comedy,Crime,Drama,Family,Fantasy",275.0,26.3,40501717,3346.0
+PAW Patrol: The Movie,Paramount Pictures,13148340.0,,2021-08-20,G,86.0,"Action,Adventure,Animation,Comedy,Family",205.0,27.8,40127371,3189.0
+Hitman's Wife's Bodyguard,Lionsgate,11397820.0,,2021-06-16,R,100.0,"Action,Comedy,Crime,Thriller",270.0,54.3,38014727,3361.0
+Mortal Kombat,Warner Bros.,23302503.0,,2021-04-23,R,110.0,"Action,Adventure,Fantasy,Sci-Fi,Thriller",324.0,50.6,42326031,3114.0
+Don't Breathe 2,Screen Gems,10622473.0,,2021-08-13,R,98.0,"Action,Crime,Horror,Thriller",212.0,69.1,32712950,3005.0
+In the Heights,Warner Bros.,11504710.0,,2021-06-11,PG-13,143.0,"Drama,Musical,Romance",275.0,68.2,29975167,3509.0
+Snake Eyes,Paramount Pictures,13367853.0,,2021-07-23,PG-13,121.0,"Action,Adventure,Fantasy,Sci-Fi,Thriller",233.0,70.5,28264325,3540.0
+West Side Story,20th Century Studios,10574618.0,,2021-12-10,PG-13,156.0,"Crime,Drama,Musical,Romance",93.0,51.9,38316433,2820.0
+The Matrix Resurrections,Warner Bros.,10749011.0,,2021-12-22,R,148.0,"Action,Sci-Fi",81.0,24.1,37686805,3552.0
+Wrath of Man,United Artists Releasing,8309007.0,,2021-05-07,R,119.0,"Action,Crime,Thriller",310.0,26.4,27466489,3007.0
+Nobody,Universal Pictures,6820100.0,16000000.0,2021-03-26,R,92.0,"Action,Crime,Drama,Thriller",352.0,49.5,27568035,2567.0
+Escape Room: Tournament of Champions,Sony Pictures Entertainment (SPE),8801391.0,,2021-07-16,PG-13,88.0,"Action,Adventure,Horror,Mystery,Sci-Fi,Thriller",240.0,48.8,25314753,2815.0
+Respect,Metro-Goldwyn-Mayer (MGM),8807513.0,,2021-08-13,PG-13,145.0,"Biography,Drama,Music",212.0,76.4,24278399,3207.0
+Spiral,Lionsgate,8750034.0,,2021-05-14,R,93.0,"Crime,Drama,Horror,Mystery,Thriller",303.0,57.2,23216862,2991.0
+Ron's Gone Wrong,20th Century Studios,7300225.0,,2021-10-22,PG,107.0,"Adventure,Animation,Comedy,Family,Sci-Fi",142.0,37.9,23009270,3560.0
+Spirit Untamed,Universal Pictures,6101050.0,,2021-06-04,PG,88.0,"Adventure,Animation,Comedy,Family,Western",282.0,41.5,17716215,3394.0
+The Green Knight,A24,6790917.0,,2021-07-30,R,130.0,"Adventure,Drama,Fantasy",226.0,90.9,17173321,2798.0
+Resident Evil: Welcome to Raccoon City,Screen Gems,5319280.0,,2021-11-24,R,107.0,"Action,Horror,Sci-Fi",109.0,44.0,17000612,2803.0
+The King's Man,20th Century Studios,5915542.0,,2021-12-22,R,131.0,"Action,Adventure,Thriller",81.0,29.5,37176373,3180.0
+The French Dispatch,Searchlight Pictures,1348804.0,,2021-10-22,R,107.0,"Comedy,Drama,Romance",142.0,34.9,16124375,1225.0
+The Marksman,Open Road Films (II),3104204.0,,2021-01-15,PG-13,108.0,"Action,Adventure,Drama,Thriller,Western",422.0,67.5,15566093,2018.0
+The Unholy,Screen Gems,3153456.0,,2021-04-02,PG-13,99.0,"Drama,Horror,Mystery",345.0,50.4,15532137,2057.0
+The Little Things,Warner Bros.,4705527.0,,2021-01-29,R,128.0,"Crime,Drama,Mystery,Thriller",408.0,51.2,15342746,2206.0
+Dear Evan Hansen,Universal Pictures,7443830.0,,2021-09-24,PG-13,137.0,"Drama,Musical",170.0,78.9,15002646,3364.0
+King Richard,Warner Bros.,5406033.0,,2021-11-19,PG-13,144.0,"Biography,Drama,Sport",114.0,40.3,15007192,3302.0
+Stillwater,Focus Features,5188150.0,,2021-07-30,R,139.0,"Crime,Drama,Thriller",226.0,73.5,14465535,2611.0
+Christmas with the Chosen: The Messengers,Fathom Events,4245000.0,,2021-12-01,,123.0,Music,102.0,100.0,13728000,1700.0
+Malignant,Warner Bros.,5434620.0,,2021-09-10,R,111.0,"Crime,Horror,Mystery,Thriller",184.0,39.4,13391791,3501.0
+Chaos Walking,Lionsgate,3775350.0,,2021-03-05,PG-13,109.0,"Action,Adventure,Fantasy,Sci-Fi",373.0,50.1,13287908,2132.0
+My Hero Academia: World Heroes' Mission,FUNimation Entertainment,6255779.0,,2021-10-29,PG-13,104.0,"Action,Adventure,Animation,Fantasy,Sci-Fi",135.0,26.4,12271658,1585.0
+American Underdog,Lionsgate,5861836.0,,2021-12-25,PG,112.0,"Biography,Drama,Sport",78.0,100.0,26514814,2813.0
+The Last Duel,20th Century Studios,4759151.0,,2021-10-15,R,152.0,"Action,Drama,History,Thriller",149.0,35.5,10853945,3065.0
+Antlers,Searchlight Pictures,4271346.0,,2021-10-29,R,99.0,"Drama,Horror,Mystery",135.0,56.3,10619670,2800.0
+Cry Macho,Warner Bros.,4426161.0,,2021-09-17,PG-13,104.0,Drama,177.0,71.9,10310734,4022.0
+Last Night in Soho,Focus Features,4178460.0,,2021-10-29,R,116.0,"Drama,Horror,Mystery,Thriller",135.0,44.1,10127625,3016.0
+The Many Saints of Newark,Warner Bros.,4651571.0,,2021-10-01,R,,"Crime,Drama",163.0,64.7,8237403,3181.0
+The Protégé,Lionsgate,2908221.0,,2021-08-20,R,109.0,"Action,Thriller",205.0,89.9,7446823,2577.0
+The Night House,Searchlight Pictures,2859409.0,,2021-08-20,R,107.0,"Horror,Mystery,Thriller",205.0,46.0,7100581,2240.0
+Spencer,Neon,2104767.0,,2021-11-05,R,117.0,"Biography,Drama",128.0,32.6,7086632,1265.0
+Belfast,Focus Features,1779410.0,,2021-11-12,PG-13,98.0,"Biography,Drama,History",121.0,21.9,8864920,1255.0
+Nightmare Alley,Searchlight Pictures,2811703.0,,2021-12-17,R,150.0,"Crime,Drama,Thriller",86.0,30.0,11242175,2145.0
+Those Who Wish Me Dead,Warner Bros.,2831382.0,,2021-05-14,R,100.0,"Action,Crime,Drama,Thriller",303.0,31.6,7407200,3379.0
+The Courier,Roadside Attractions,1885829.0,,2021-03-19,PG-13,112.0,"Drama,History,Thriller,War",359.0,25.4,6613432,1641.0
+Judas and the Black Messiah,Warner Bros.,2027076.0,,2021-02-12,R,126.0,"Biography,Drama,History",394.0,80.2,5478009,1906.0
+Licorice Pizza,United Artists Releasing,345157.0,,2021-11-26,R,133.0,"Comedy,Drama,Romance",107.0,60.5,16709590,1977.0
+Roadrunner: A Film About Anthony Bourdain,Focus Features,1988795.0,,2021-07-16,R,119.0,Documentary,240.0,97.5,5354970,954.0
+Copshop,Open Road Films (II),2315638.0,,2021-09-17,R,107.0,"Action,Crime,Thriller",177.0,77.8,5213243,3005.0
+Zola,A24,1200013.0,,2021-06-30,R,86.0,"Comedy,Crime,Drama",256.0,96.9,4844399,1468.0
+Separation,Open Road Films (II),1800162.0,,2021-04-30,R,107.0,Horror,317.0,100.0,4509143,1911.0
+Boogie,Focus Features,1200165.0,,2021-03-05,R,90.0,"Drama,Sport",373.0,99.7,4178620,1272.0
+A Journal for Jordan,Sony Pictures Entertainment (SPE),2201886.0,,2021-12-25,PG-13,131.0,Drama,78.0,97.9,6545174,2500.0
+Reminiscence,Warner Bros.,1950793.0,,2021-08-20,PG-13,116.0,"Mystery,Romance,Sci-Fi,Thriller",205.0,24.7,3900193,3265.0
+12 Mighty Orphans,Sony Pictures Entertainment (SPE),251569.0,,2021-06-11,PG-13,118.0,"History,Sport",275.0,99.4,3689637,1047.0
+Sooryavanshi,Reliance Entertainment,1443475.0,,2021-11-05,,145.0,"Action,Crime,Thriller",128.0,50.8,3547776,491.0
+Pig,Neon,970935.0,,2021-07-16,R,92.0,"Drama,Mystery,Thriller",240.0,82.8,3186668,588.0
+The Girl Who Believes in Miracles,Atlas Distribution Company,546000.0,,2021-04-02,PG,100.0,"Drama,Family",345.0,100.0,3163362,1012.0
+Voyagers,Lionsgate,1379988.0,,2021-04-09,PG-13,108.0,"Adventure,Sci-Fi,Thriller",338.0,73.3,3149935,1996.0
+Minari,A24,193460.0,,2021-02-12,PG-13,115.0,Drama,394.0,20.3,3110580,912.0
+'83,Reliance Entertainment,1692575.0,,2021-12-23,,162.0,"Biography,Drama,History,Sport",80.0,55.2,4055660,486.0
+Dream Horse,Bleecker Street Media/Topic Studios,794741.0,,2021-05-21,PG,113.0,"Biography,Comedy,Drama,Sport",296.0,44.3,2913328,1284.0
+The House Next Door: Meet the Blacks 2,Hidden Empire Film Group (HEFG),1011756.0,,2021-06-11,R,97.0,"Action,Comedy,Horror",275.0,100.0,2893660,539.0
+Here Today,Stage 6 Films,1042171.0,,2021-05-07,PG-13,93.0,"Comedy,Drama",310.0,98.1,2807494,1230.0
+Finding You,Roadside Attractions,920476.0,,2021-05-14,PG,119.0,"Drama,Romance",303.0,82.8,2753985,1447.0
+Lamb,A24,1000089.0,,2021-10-08,R,106.0,"Drama,Fantasy,Horror,Mystery",156.0,84.5,2676410,865.0
+The Card Counter,Focus Features,1039580.0,,2021-09-10,R,111.0,"Crime,Drama,Thriller",184.0,56.4,2657850,739.0
+Land,Focus Features,899810.0,,2021-02-12,PG-13,89.0,"Adventure,Drama",394.0,81.5,2577830,1349.0
+The Eyes of Tammy Faye,Searchlight Pictures,652358.0,,2021-09-17,PG-13,126.0,"Biography,Drama,Romance",177.0,89.8,2404127,1352.0
+"Summer of Soul (...Or, When the Revolution Could Not Be Televised)",Searchlight Pictures,802054.0,,2021-06-25,PG-13,118.0,"Documentary,Music",261.0,62.7,2320649,752.0
+After We Fell,Vertical Entertainment,426457.0,,2021-09-10,R,98.0,"Drama,Romance",184.0,10.1,2170750,1294.0
+Queen Bees,Gravitas Ventures,375232.0,,2021-06-11,PG-13,100.0,"Comedy,Drama,Romance",275.0,83.5,1926706,600.0
+The Father,Sony Pictures Classics,,,2021-02-26,PG-13,97.0,"Drama,Mystery",380.0,8.9,2122771,933.0
+Show Me the Father,Affirm Films,700181.0,,2021-09-10,PG,91.0,"Documentary,Drama",184.0,94.0,1803226,1073.0
+C'mon C'mon,A24,134447.0,,2021-11-19,R,109.0,Drama,114.0,62.7,1863674,569.0
+Profile,Focus Features,730290.0,,2021-05-14,R,106.0,"Mystery,Thriller",303.0,94.0,1744740,2104.0
+Titane,Neon,533397.0,,2021-10-01,R,108.0,"Drama,Horror,Sci-Fi,Thriller",163.0,29.0,1442988,562.0
+Together Together,Bleecker Street Media,532773.0,,2021-04-23,R,90.0,"Comedy,Drama",324.0,100.0,1437938,665.0
+Joe Bell,Roadside Attractions,749635.0,,2021-07-23,R,94.0,"Biography,Drama",233.0,80.9,1405488,1094.0
+Nomadland,Searchlight Pictures,503000.0,,2021-02-19,R,107.0,Drama,387.0,9.4,3700000,1200.0
+Pushpa: The Rise - Part 1,Hamsini Entertainment,1320000.0,,2021-12-17,,179.0,"Action,Adventure,Crime,Drama,Thriller",86.0,17.4,1320000,400.0
+Scott Pilgrim vs. the World,Universal Pictures,729930.0,60000000.0,,PG-13,112.0,"Action,Comedy,Fantasy,Romance",,100.0,1757415,448.0
+Wrong Turn,Saban Films,107897.0,,2021-01-26,R,109.0,"Horror,Thriller",411.0,25.9,1251184,259.0
+Honsla Rakh,,706000.0,,2021-10-15,,145.0,"Comedy,Drama,Romance",149.0,60.4,1800000,100.0
+God's Not Dead: We the People,Fathom Events,,,2021-10-04,PG,110.0,Drama,160.0,100.0,1170367,565.0
+In the Earth,Neon,505723.0,,2021-04-16,R,107.0,"Horror,Sci-Fi,Thriller",331.0,83.7,1113723,571.0
+The Rescue,Greenwich Entertainment,65591.0,,2021-10-08,PG,107.0,"Action,Documentary,Mystery,Thriller",156.0,100.0,1060556,561.0
+Sword Art Online: Progressive - Aria of a Starless Night,FUNimation Entertainment,1050000.0,,2021-12-03,,97.0,"Action,Adventure,Animation,Drama,Fantasy,Mystery,Romance,Sci-Fi,Thriller",100.0,7.6,1050000,840.0
+True to the Game 3,Faith Media Distribution,573031.0,,2021-12-03,R,98.0,"Romance,Thriller",100.0,100.0,1038255,440.0
+Long Weekend,Stage 6 Films,245182.0,,2021-03-12,R,91.0,"Comedy,Romance",366.0,100.0,1018532,821.0
+The Jesus Music,Lionsgate,548848.0,,2021-10-01,PG-13,109.0,Documentary,163.0,100.0,1016725,270.0
+An Egg Rescue,Pantelion Films,428034.0,,2021-08-27,PG,88.0,"Adventure,Animation,Comedy,Family,Fantasy",198.0,27.7,927154,320.0
+Witnesses,Purdie Distribution,134490.0,,2021-06-04,PG,110.0,"Action,Adventure,Drama,Family,History",282.0,100.0,855765,90.0
+Scooby-Doo: A New Universe,Warner Bros.,850000.0,,2021-05-21,PG,93.0,"Adventure,Animation,Comedy,Crime,Family,Fantasy,Mystery,Sci-Fi",296.0,8.1,2188425,
+The Alpinist,Roadside Attractions,318648.0,,2021-09-10,PG-13,92.0,Documentary,184.0,59.3,844743,245.0
+Four Good Days,Vertical Entertainment,298358.0,,2021-04-30,R,100.0,Drama,317.0,99.3,837849,489.0
+The Mauritanian,STX Entertainment,163789.0,,2021-02-12,R,129.0,"Biography,Drama,Thriller",394.0,11.1,836536,287.0
+Lamb of God: The Concert Film,Excel Entertainment,129908.0,,2021-03-12,,90.0,Musical,366.0,100.0,744813,138.0
+Blue Bayou,Focus Features,329840.0,,2021-09-17,R,117.0,Drama,177.0,85.8,788675,487.0
+French Exit,Sony Pictures Classics,,,2021-02-12,R,113.0,"Comedy,Drama",394.0,47.7,741895,493.0
+Nine Days,Sony Pictures Classics,15700.0,,2021-07-30,R,124.0,"Drama,Fantasy",226.0,71.8,694849,443.0
+Our Friend,Gravitas Ventures,240160.0,,2021-01-22,R,124.0,"Drama,Romance",415.0,100.0,663725,818.0
+Chal Mera Putt 3,Rhythm Boyz Entertainment,644000.0,,2021-10-01,,130.0,Comedy,163.0,27.7,644000,90.0
+The Sparks Brothers,Focus Features,273530.0,,2021-06-18,R,140.0,"Biography,Comedy,Documentary,History,Music",268.0,57.7,648665,534.0
+"If I Can't Have Love, I Want Power",IMAX,135223.0,,2021-08-25,R,,"Drama,Fantasy,Horror,Musical",200.0,99.5,626946,122.0
+Aline,Roadside Attractions,164087.0,,2021-11-26,PG-13,128.0,"Biography,Comedy,Drama,Music",107.0,5.3,591873,72.0
+Werewolves Within,IFC Films,250811.0,,2021-06-25,R,97.0,"Comedy,Horror,Mystery",261.0,61.4,575783,270.0
+City of Lies,Saban Films,284561.0,,2021-03-19,R,112.0,"Biography,Crime,Drama,Mystery,Thriller",359.0,20.1,572493,502.0
+Anita,CMC Pictures,82421.0,,2021-11-12,,137.0,"Biography,Drama,History,Music",121.0,3.7,556632,15.0
+Courageous,Affirm Films,286586.0,2000000.0,2021-09-24,PG-13,130.0,Drama,170.0,100.0,504855,1023.0
+The Truffle Hunters,Sony Pictures Classics,,,2021-03-05,PG-13,84.0,Documentary,373.0,34.6,521202,105.0
+For the Love of Money,Freestyle Releasing,211286.0,,2021-11-24,R,99.0,"Drama,Thriller",109.0,100.0,480774,519.0
+National Champions,STX Entertainment,301028.0,,2021-12-10,R,116.0,"Drama,Sport",93.0,100.0,475488,1197.0
+Jathi Ratnalu,Flyhigh Cinemas,470000.0,,2021-03-12,,145.0,Comedy,366.0,64.3,470000,130.0
+Most Eligible Bachelor,,470000.0,,2021-10-15,,170.0,"Drama,Romance",149.0,84.7,470000,195.0
+World War Z,Paramount Pictures,347000.0,190000000.0,2021-05-28,PG-13,116.0,"Action,Adventure,Horror,Sci-Fi",289.0,100.0,448000,80.0
+The Lost Leonardo,Sony Pictures Classics,12487.0,,2021-08-13,PG-13,96.0,Documentary,212.0,77.8,445740,217.0
+2021 Oscar Nominated Short Films: Live Action,Magnolia Pictures,81113.0,,2021-04-02,,130.0,Talk-Show,345.0,100.0,443050,184.0
+Flag Day,United Artists Releasing,42953.0,,2021-08-20,R,109.0,"Crime,Drama",205.0,47.1,424667,196.0
+Willy's Wonderland,Screen Media Films,97164.0,,2021-02-12,,88.0,"Action,Comedy,Horror,Thriller",394.0,94.0,418286,171.0
+Top Gun,Paramount Pictures,214654.0,,2021-05-14,,110.0,"Action,Drama",303.0,96.9,457577,153.0
+Dutch,Faith Media Distribution,135015.0,,2021-03-12,R,109.0,Action,366.0,100.0,404371,202.0
+The Metropolitan Opera HD Live: Mussorgsky: Boris Godunov,Fathom Events,387000.0,,2021-10-08,,,Musical,156.0,67.4,387000,791.0
+Crisis,Quiver Distribution,190649.0,,2021-02-26,R,118.0,"Drama,Thriller",380.0,36.8,404738,216.0
+Red Rocket,A24,88195.0,,2021-12-10,R,130.0,"Comedy,Drama",93.0,65.8,1023086,385.0
+Julia,Sony Pictures Classics,18010.0,,2021-11-12,PG-13,95.0,"Biography,Documentary",121.0,81.3,399811,288.0
+The Dry,IFC Films,119364.0,,2021-05-21,R,117.0,"Crime,Drama,Mystery,Thriller",296.0,2.1,364237,186.0
+Bo Gia,3388 Films,350000.0,,2021-05-28,,128.0,"Comedy,Drama,Family",289.0,2.0,350000,
+The Battle at Lake Changjin,CMC Pictures,105768.0,,2021-11-19,,176.0,"Action,Drama,History,War",114.0,,342411,20.0
+The Emperor's New Groove,Walt Disney Studios Motion Pictures,160000.0,100000000.0,2021-01-15,,78.0,"Adventure,Animation,Comedy,Family,Fantasy",351.0,100.0,334000,744.0
+Benedetta,IFC Films,136839.0,,2021-12-03,,131.0,"Biography,Drama,History,Romance",100.0,8.6,354481,201.0
+Drive My Car,Janus Films,13775.0,,2021-11-24,,179.0,Drama,109.0,39.9,2047678,213.0
+Final Account,Focus Features,139985.0,,2021-05-21,PG-13,94.0,Documentary,296.0,87.5,308976,308.0
+The Water Man,RLJE Films,181046.0,,2021-05-07,PG,91.0,"Adventure,Drama,Family,Fantasy",310.0,100.0,383234,311.0
+New Order,Neon,144533.0,,2021-05-21,R,86.0,"Crime,Drama,Thriller",296.0,16.6,303556,236.0
+India Sweets and Spices,Bleecker Street Media,170629.0,,2021-11-19,PG-13,101.0,Comedy,114.0,91.3,288714,343.0
+Blithe Spirit,IFC Films,88559.0,,2021-02-19,PG-13,99.0,"Comedy,Fantasy,Romance",387.0,29.3,282500,239.0
+American Skin,Vertical Entertainment,46410.0,,2021-01-15,R,90.0,"Drama,Thriller",422.0,100.0,282332,72.0
+I'm Your Man,Bleecker Street Media,32917.0,,2021-09-24,R,108.0,"Comedy,Drama,Romance,Sci-Fi",170.0,54.2,275155,122.0
+Escape from Mogadishu,Well Go USA Entertainment,112788.0,,2021-08-06,,121.0,"Action,Drama,Thriller",219.0,1.2,346271,42.0
+Raging Fire,Well Go USA Entertainment,101926.0,,2021-08-13,,126.0,"Action,Adventure,Crime,Mystery,Thriller",212.0,0.2,385305,59.0
+A Mouthful of Air,Stage 6 Films,130701.0,,2021-10-29,R,105.0,Drama,135.0,100.0,269435,816.0
+Rita Moreno: Just a Girl Who Decided to Go for It,Roadside Attractions,84366.0,,2021-06-18,PG-13,90.0,"Biography,Documentary",268.0,100.0,264626,227.0
+Once I Was Engaged,Excel Entertainment,35304.0,,2021-07-21,,107.0,Comedy,235.0,100.0,254775,32.0
+Supernova,Bleecker Street Media,90096.0,,2021-01-29,R,95.0,"Drama,Romance",408.0,6.9,234220,330.0
+Becoming Cousteau,Picturehouse,116974.0,,2021-10-22,PG-13,94.0,"Adventure,Biography,Documentary",142.0,82.0,231687,319.0
+Limbo,Focus Features,84710.0,,2021-04-30,R,104.0,Drama,317.0,24.2,224405,213.0
+Together,Universal Pictures,100066.0,,2021-08-27,R,92.0,"Comedy,Drama,Romance",198.0,100.0,214390,250.0
+La Piscine,Rialto Distribution,3867.0,,2021-05-14,,122.0,"Crime,Drama,Romance",303.0,100.0,211467,10.0
+Ailey,Neon,15091.0,,2021-07-23,PG-13,95.0,"Biography,Documentary,History,Music",233.0,95.6,204513,88.0
+Groundhog Day,Sony Pictures Classics,85330.0,,2021-01-29,PG,101.0,"Comedy,Drama,Fantasy,Romance",408.0,100.0,200989,845.0
+The Resort,Vertical Entertainment,88831.0,,2021-04-30,,76.0,Horror,317.0,92.0,191996,114.0
+Kaamelott: First Installment,Paramount Pictures,188000.0,,2021-07-23,,,"Adventure,Comedy,Fantasy",233.0,0.9,188000,26.0
+Earwig and the Witch,GKIDS,92029.0,,2021-02-03,PG,82.0,"Adventure,Animation,Family,Fantasy",332.0,20.6,173704,430.0
+"My Country, My Parents",CMC Pictures,75302.0,,2021-10-08,,157.0,Drama,156.0,,166807,51.0
+The Batman,Warner Bros.,134008624.0,,2022-03-04,PG-13,176.0,"Action,Crime,Drama,Mystery",9.0,51.5,238520826,4417.0
+Uncharted,Sony Pictures Entertainment (SPE),44010155.0,,2022-02-18,PG-13,116.0,"Action,Adventure",23.0,37.6,113355790,4275.0
+Scream,Paramount Pictures,30018805.0,,2022-01-14,R,114.0,"Horror,Mystery,Thriller",58.0,58.1,80905289,3666.0
+Jackass Forever,Paramount Pictures,23154388.0,,2022-02-04,R,96.0,"Action,Comedy,Documentary",37.0,74.6,56281187,3653.0
+Dog,United Artists Releasing,14883928.0,,2022-02-18,PG-13,101.0,Comedy,23.0,88.3,47803478,3827.0
+Death on the Nile,20th Century Studios,12891123.0,,2022-02-11,PG-13,127.0,"Crime,Drama,Mystery",30.0,34.2,40786252,3420.0
+Marry Me,Universal Pictures,7949980.0,,2022-02-11,PG-13,112.0,"Comedy,Music,Romance",30.0,45.2,22028800,3643.0
+Moonfall,Lionsgate,9868997.0,,2022-02-04,PG-13,130.0,"Action,Adventure,Sci-Fi",37.0,48.2,19031784,3446.0
+The 355,Universal Pictures,4621765.0,,2022-01-07,PG-13,122.0,"Action,Thriller",65.0,54.5,14570455,3145.0
+Blacklight,Briarcliff Entertainment,3502475.0,,2022-02-11,PG-13,104.0,"Action,Thriller",30.0,75.1,9275548,2772.0
+Redeeming Love,Universal Pictures,3530180.0,,2022-01-21,PG-13,134.0,"Drama,History,Romance",51.0,97.7,9214020,1963.0
+The Cursed,LD Entertainment,1776142.0,,2022-02-18,R,111.0,"Fantasy,Horror,Mystery",23.0,100.0,4511840,1695.0
+Belle,GKIDS,1565658.0,,2022-01-14,PG,121.0,"Adventure,Animation,Drama,Fantasy,Music,Musical,Sci-Fi",58.0,6.3,3979784,1338.0
+Cyrano,United Artists Releasing,1385995.0,,2022-02-25,PG-13,123.0,"Drama,Musical,Romance",16.0,67.4,3321279,797.0
+Studio 666,Open Road Films (II),1540543.0,,2022-02-25,R,106.0,"Comedy,Horror,Music",16.0,84.3,2439789,2306.0
+The Worst Person in the World,Neon,138424.0,,2022-02-04,R,128.0,"Comedy,Drama,Romance",37.0,30.1,2560380,554.0
+Parallel Mothers,Sony Pictures Classics,38249.0,,2021-12-24,R,123.0,Drama,79.0,12.0,2086924,684.0
+The King's Daughter,Gravitas Ventures,723802.0,,2022-01-21,PG,90.0,"Action,Adventure,Family,Fantasy,Romance",51.0,100.0,1758963,2170.0
+The Wolf and the Lion,Blue Fox Entertainment,641845.0,,2022-02-04,PG,99.0,Family,37.0,8.9,1402853,1005.0
+Radhe Shyam,Alerion,1860000.0,,2022-03-11,,138.0,"Drama,Romance",2.0,100.0,1860000,800.0
+The Godfather,Paramount Pictures,965375.0,6000000.0,2022-02-25,,175.0,"Crime,Drama",16.0,30.0,1199963,156.0
+The Beatles: Get Back - The Rooftop Concert,IMAX,391252.0,,2022-01-30,PG-13,65.0,"Documentary,Music",42.0,44.9,976712,179.0
+2022 Oscar Nominated Short Films: Live Action,ShortsTV,434107.0,,2022-02-25,,,Drama,16.0,100.0,947794,355.0
+The Tiger Rising,Variance Films,364216.0,,2022-01-21,PG,102.0,Family,51.0,94.7,835162,872.0
+Gangubai Kathiawadi,Paramount Pictures International,592000.0,,2022-03-04,,152.0,"Biography,Crime,Drama",9.0,18.5,592000,
+Clean,IFC Films,162098.0,,2022-01-28,,94.0,"Crime,Drama",44.0,100.0,318877,254.0
+Flee,Neon,24794.0,,2021-12-03,PG-13,89.0,"Animation,Biography,Documentary,Drama",100.0,65.8,339754,220.0
+Sundown,Bleecker Street Media,21930.0,,2022-01-28,R,82.0,Drama,44.0,100.0,229922,181.0
+Who We Are: A Chronicle of Racism in America,Sony Pictures Entertainment (SPE),21578.0,,2022-01-14,PG-13,117.0,Documentary,58.0,100.0,228733,357.0
+Too Cool to Kill,Well Go USA Entertainment,72432.0,,2022-02-18,,109.0,Comedy,23.0,,166947,20.0
+Gamestop: Rise of the Players,Super LTD,74782.0,,2022-01-28,,94.0,Documentary,44.0,100.0,126297,267.0
+Water Gate Bridge,CMC Pictures,42707.0,,2022-02-11,,153.0,"Action,Drama,History",30.0,,117294,24.0
+Butter,Blue Fox Entertainment,73937.0,,2022-02-25,PG-13,111.0,"Comedy,Drama,Romance",16.0,100.0,114036,308.0
+Compartment Number 6,Sony Pictures Classics,9514.0,,2022-01-26,R,107.0,"Drama,Romance",46.0,5.0,102180,11.0
+Jockey,Sony Pictures Classics,2789.0,,2021-12-29,R,94.0,Drama,74.0,89.2,101928,64.0
+The Velvet Queen,Oscilloscope,4276.0,,2021-12-22,,92.0,Documentary,81.0,2.2,107729,51.0
+The Conversation,Rialto Distribution,5494.0,,2022-01-14,,113.0,"Drama,Mystery,Thriller",58.0,100.0,82864,9.0
+Only Fools Rush In,CMC Pictures,44134.0,,2022-02-04,,128.0,"Action,Comedy,Drama,Romance",37.0,64.3,82842,39.0
+Strawberry Mansion,Music Box Films,34004.0,,2022-02-18,,91.0,"Adventure,Comedy,Drama,Fantasy,Romance,Sci-Fi",23.0,100.0,80103,28.0
+The Automat,A Slice of Pie Productions,13917.0,,2022-02-18,,79.0,Documentary,23.0,100.0,65979,5.0
+See for Me,IFC Films,23070.0,,2022-01-07,,92.0,"Crime,Drama,Mystery,Thriller",65.0,64.5,51218,35.0
+Poly Styrene: I Am a Cliché,Utopia,5506.0,,2022-02-02,,96.0,"Biography,Documentary,Music",39.0,89.8,47712,36.0
+After Yang,,46872.0,,2022-03-04,PG,96.0,"Drama,Sci-Fi",9.0,100.0,46872,24.0
+Torn,Dada Films,,,2021-12-03,,92.0,Documentary,100.0,83.8,52816,22.0
+Ted K,Super,20851.0,,2022-02-18,R,,"Biography,Crime,Drama",23.0,98.6,35464,28.0
+Catch the Fair One,IFC Films,7992.0,,2022-02-11,,85.0,"Crime,Thriller",30.0,98.1,33674,30.0
+Shortbus,Oscilloscope,,,2022-01-26,,101.0,"Comedy,Drama,Romance",46.0,100.0,30889,6.0
+France,Kino Lorber,5811.0,,2021-12-10,,133.0,"Comedy,Drama",93.0,3.8,49347,12.0
+The Witches,Warner Bros.,,,2021-12-25,PG,106.0,"Adventure,Comedy,Family,Fantasy,Horror,Mystery",78.0,0.8,203571,
+Brighton 4th,Kino Lorber,2726.0,,2022-01-28,,90.0,"Comedy,Drama",44.0,100.0,19376,9.0
+The Scary of Sixty-First,Utopia,7808.0,,2021-12-03,,81.0,"Comedy,Horror,Mystery,Thriller",100.0,80.1,44814,9.0
+Great Freedom,MUBI,9581.0,,2022-03-04,,116.0,Drama,9.0,31.6,29759,1.0
+Lingui,MUBI,2914.0,,2022-02-04,,87.0,Drama,37.0,73.4,27111,9.0
+Bad Luck Banging or Loony Porn,Magnolia Pictures,7672.0,,2021-11-19,,106.0,"Comedy,Drama",114.0,15.9,72342,16.0
+Huda's Salon,IFC Films,7752.0,,2022-03-04,R,91.0,Thriller,9.0,100.0,12678,30.0
+Memoria,Neon,6797.0,,2021-12-26,PG,136.0,"Drama,Sci-Fi",77.0,11.7,52656,1.0
+The Pink Cloud,Blue Fox Entertainment,650.0,,2022-01-14,R,105.0,Drama,58.0,36.8,8744,10.0
+Writing with Fire,Music Box Films,3423.0,,2021-11-26,,92.0,Documentary,107.0,93.3,22012,8.0
+Italian Studies,Magnolia Pictures,3401.0,,2022-01-14,,81.0,Drama,58.0,100.0,5895,7.0
+A Taste of Hunger,Magnolia Pictures,2847.0,,2022-01-28,,104.0,"Drama,Romance",44.0,4.6,5860,10.0
+Fabian: Going to the Dogs,Kino Lorber,2462.0,,2022-02-11,,176.0,"Drama,Romance",30.0,89.1,19012,3.0
+Alter Ego,Indican Pictures,2538.0,,2022-01-14,,74.0,"Crime,Thriller",58.0,100.0,5733,2.0
+The Hating Game,Vertical Entertainment,,,2021-12-10,R,102.0,"Comedy,Romance",93.0,0.8,5600,
+A Banquet,IFC Films,2641.0,,2022-02-18,,97.0,Horror,23.0,39.9,5238,33.0
+Breaking Bread,Cohen Media Group,5026.0,,2022-02-04,,85.0,Documentary,37.0,4.1,5026,2.0
+The Novice,IFC Films,12301.0,,2021-12-17,R,94.0,"Drama,Thriller",86.0,100.0,24322,36.0
+Luzzu,Kino Lorber,2394.0,,2021-10-15,,94.0,Drama,149.0,100.0,39948,5.0
+Adventures in Success,,3645.0,,2022-03-04,,98.0,Comedy,9.0,100.0,3695,3.0
+Simple Passion,Strand Releasing,1286.0,,2022-01-21,,99.0,"Drama,Romance",51.0,1.2,3518,5.0
+The Burning Sea,Magnolia Pictures,371.0,,2022-02-25,PG-13,104.0,"Action,Drama,Thriller",16.0,,493,4.0
+Indemnity,Magnolia Pictures,165.0,,2022-02-10,,124.0,"Action,Thriller",31.0,100.0,347,4.0
+Golden Voices,Music Box Films,6188.0,,2021-10-08,,88.0,"Comedy,Drama,Romance",156.0,62.1,30210,14.0
